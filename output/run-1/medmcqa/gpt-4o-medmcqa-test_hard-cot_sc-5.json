@@ -1,0 +1,2602 @@
+[
+    {
+        "question": "Minimum number of lobes require to form a tooth",
+        "realidx": "00667233-3ef5-4759-bac2-850f41c6cdfc",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer_idx": "A",
+        "answer": "1",
+        "solutions": [
+            "C",
+            "C",
+            "D",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: D\n- Solution 4: D\n- Solution 5: C\n\nNow, let's count the occurrences of each option:\n\n- Option C appears in Solutions 1, 2, and 5, totaling 3 occurrences.\n- Option D appears in Solutions 3 and 4, totaling 2 occurrences.\n\nOption C is the most frequently chosen answer, appearing in 3 out of the 5 solutions. Therefore, based on consistency, the most reliable solution is Option C.\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 1408
+        },
+        "time_elapsed": 16.636779308319092
+    },
+    {
+        "question": "Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?",
+        "realidx": "006fea5f-8d1c-489b-9ea6-1028a64484ab",
+        "options": {
+            "A": "Ring finger",
+            "B": "Thumb",
+            "C": "Little finger",
+            "D": "Middle finger"
+        },
+        "answer_idx": "C",
+        "answer": "Little finger",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 838,
+            "completion_tokens": 1227
+        },
+        "time_elapsed": 13.722210168838501
+    },
+    {
+        "question": "Which of the following appliances is not used for slow maxillary expansion?",
+        "realidx": "04adb80a-e020-4328-a871-e403f6d5861f",
+        "options": {
+            "A": "Jack screw",
+            "B": "Coffin spring",
+            "C": "Quad helix appliance",
+            "D": "Hyrax appliance"
+        },
+        "answer_idx": "D",
+        "answer": "Hyrax appliance",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which appliance is not used for slow maxillary expansion. Let's evaluate the options:\n\n(A) Jack screw - This appliance is typically used for rapid maxillary expansion, not slow expansion.\n\n(B) Coffin spring - This is used for slow maxillary expansion.\n\n(C) Quad helix appliance - This is also used for slow maxillary expansion.\n\n(D) Hyrax appliance - This is used for rapid maxillary expansion.\n\nThe solutions provided all consistently identify option (A) as the correct answer. The Jack screw is indeed not used for slow maxillary expansion, as it is designed for rapid expansion.\n\nTherefore, the most frequently appearing and consistent answer across all solutions is option (A).",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 832,
+            "completion_tokens": 1243
+        },
+        "time_elapsed": 14.799477815628052
+    },
+    {
+        "question": "In assessing infant deaths, Ploucquet's test involves:",
+        "realidx": "070ff387-f612-43ac-a23e-ab3e8ed192b4",
+        "options": {
+            "A": "Change in specific gravity of lungs",
+            "B": "Presence of air in stomach and duodenum",
+            "C": "Change in paial weight of lungs",
+            "D": "Air in middle ear"
+        },
+        "answer_idx": "C",
+        "answer": "Change in paial weight of lungs",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "The question asks about Ploucquet's test in the context of assessing infant deaths. The options provided are related to different physiological changes or observations that might be relevant in forensic investigations of infant deaths.\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided across the multiple solutions:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: A\n- Solution 5: C\n\nThe majority of the solutions (Solutions 1, 2, 3, and 5) indicate option C as the answer. Only one solution (Solution 4) suggests option A. Therefore, option C is the most frequently chosen answer across the solutions.\n\nPloucquet's test is indeed related to the change in the weight of the lungs, which is consistent with option C. This test is used to determine if the lungs have been aerated, which can help in assessing whether an infant was born alive or stillborn.\n\nBased on the consistency of the solutions, the most reliable answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 904,
+            "completion_tokens": 2176
+        },
+        "time_elapsed": 22.193048238754272
+    },
+    {
+        "question": "A temporary bridge constructed from a synthetic resin",
+        "realidx": "0bac3e65-9fec-4c0b-b29e-251ebc04aec0",
+        "options": {
+            "A": "Is not required when the missing tooth is provided on a partial denture",
+            "B": "Should be cemented with a polycarboxylate cement to ensure retention between the preparation and fitting stages",
+            "C": "Should have the same buccal and lingual contours as the permanent bridge",
+            "D": "Should restore the occlusion to the same extent as the permanent bridge"
+        },
+        "answer_idx": "D",
+        "answer": "Should restore the occlusion to the same extent as the permanent bridge",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about a temporary bridge constructed from a synthetic resin and provides four options regarding its characteristics or requirements. The solutions provided all consistently identify option (B) as the correct answer.\n\nTo determine the most reliable solution, we look for consistency across the solutions provided. In this case, all five solutions have identified option (B) as the correct answer. This consistency suggests that option (B) is the most reliable and widely accepted solution to the question.\n\nOption (B) states that the temporary bridge should be cemented with a polycarboxylate cement to ensure retention between the preparation and fitting stages. This is a common practice in dentistry to ensure that the temporary bridge remains securely in place during the interim period before the permanent bridge is fitted.\n\nTherefore, based on the consistent identification of option (B) across all solutions, the most reliable answer is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 1108,
+            "completion_tokens": 1831
+        },
+        "time_elapsed": 18.85382914543152
+    },
+    {
+        "question": "The cells which will proliferate from top to bottom of villi are:",
+        "realidx": "0e46082c-1abc-4330-a12d-6948554559a2",
+        "options": {
+            "A": "Chief cells",
+            "B": "Goblet cells",
+            "C": "Paneth cells",
+            "D": "Parietal cells"
+        },
+        "answer_idx": "C",
+        "answer": "Paneth cells",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 838,
+            "completion_tokens": 1859
+        },
+        "time_elapsed": 23.267221212387085
+    },
+    {
+        "question": "A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause \u2013",
+        "realidx": "0f86c441-70a5-466d-b59f-1512fe88cbfd",
+        "options": {
+            "A": "Diabetes insipidus",
+            "B": "Acute necrosis",
+            "C": "Severe dehydration",
+            "D": "Excessive intake of sodium"
+        },
+        "answer_idx": "D",
+        "answer": "Excessive intake of sodium",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question involves a breastfed child presenting with hypernatremia, which is an elevated serum sodium level (>170 mEq/L), and a urine sodium level of 70 mEq/L. The options provided are potential causes for this condition.\n\nLet's evaluate each option:\n\n(A) Diabetes insipidus: This condition typically leads to hypernatremia due to excessive water loss, but it is characterized by low urine sodium concentration because the kidneys are unable to concentrate urine, leading to dilute urine.\n\n(B) Acute necrosis: This is not typically associated with hypernatremia and high urine sodium levels in the context of a breastfed child.\n\n(C) Severe dehydration: While severe dehydration can cause hypernatremia, it usually results in low urine sodium concentration as the body tries to conserve sodium.\n\n(D) Excessive intake of sodium: This is the most plausible cause for hypernatremia with high urine sodium levels. If the child has ingested excessive sodium, both serum and urine sodium levels would be elevated.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify option D as the answer. This consistency suggests that excessive intake of sodium is the most likely cause of the child's condition, given the high serum and urine sodium levels.\n\nTherefore, the most consistent solution across all provided answers is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 1006,
+            "completion_tokens": 2506
+        },
+        "time_elapsed": 30.189043283462524
+    },
+    {
+        "question": "After cleaning and pumicing the tooth surface, plaque formation takes place within",
+        "realidx": "11efa366-1d2d-48a8-a247-a362a0447140",
+        "options": {
+            "A": "A few minutes",
+            "B": "1/2 to 1 hour",
+            "C": "2 to 4 hour",
+            "D": "After 1 hour"
+        },
+        "answer_idx": "B",
+        "answer": "1/2 to 1 hour",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the time frame in which plaque formation occurs after cleaning and pumicing the tooth surface. The options provided are:\n\n(A) A few minutes\n(B) 1/2 to 1 hour\n(C) 2 to 4 hour\n(D) After 1 hour\n\nThe solutions generated are as follows:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently indicate option (A) as the answer. This suggests that plaque formation begins within a few minutes after cleaning and pumicing the tooth surface. The consistency across all solutions points to option (A) being the most reliable answer.\n\nTherefore, the most frequently appearing and consistent solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 1488
+        },
+        "time_elapsed": 16.16649580001831
+    },
+    {
+        "question": "Name the structure marked with arrow",
+        "realidx": "133b6b41-ac32-4d94-b0c8-9004aa2214f4",
+        "options": {
+            "A": "Mitochondria",
+            "B": "Golgi bodies",
+            "C": "Secretory vesicles",
+            "D": "Rough Endoplasmic reticulum"
+        },
+        "answer_idx": "C",
+        "answer": "Secretory vesicles",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: B\n- Solution 5: D\n\nNow, let's count the occurrences of each option:\n\n- Option A: 0 occurrences\n- Option B: 1 occurrence\n- Option C: 0 occurrences\n- Option D: 4 occurrences\n\nOption D appears most frequently, with a total of 4 occurrences. This consistency suggests that Option D is the most reliable solution based on the given solutions.\n\nTherefore, the answer that appears most frequently is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 826,
+            "completion_tokens": 2009
+        },
+        "time_elapsed": 26.552706480026245
+    },
+    {
+        "question": "Pulsatile varicose veins in lower limbs is seen in \u2013",
+        "realidx": "14e05154-05a2-4472-a63e-261d765893ae",
+        "options": {
+            "A": "Klippel trenaunay syndrome",
+            "B": "TR",
+            "C": "RV failure",
+            "D": "Carcinoid stenosis of tricuspid"
+        },
+        "answer_idx": "A",
+        "answer": "Klippel trenaunay syndrome",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the condition associated with pulsatile varicose veins in the lower limbs. The options provided are:\n\n(A) Klippel Trenaunay syndrome\n(B) TR (Tricuspid Regurgitation)\n(C) RV failure (Right Ventricular failure)\n(D) Carcinoid stenosis of tricuspid\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. All five solutions have identified option B as the answer. This consistency suggests that option B is the most reliable solution.\n\nPulsatile varicose veins in the lower limbs are typically associated with tricuspid regurgitation (TR). In TR, the regurgitation of blood from the right ventricle into the right atrium during systole can lead to increased venous pressure and pulsations in the veins, including those in the lower limbs.\n\nTherefore, based on the consistent solutions and the medical reasoning, the answer is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 879,
+            "completion_tokens": 2171
+        },
+        "time_elapsed": 23.337059497833252
+    },
+    {
+        "question": "Endocarditis is most commonly seen in:",
+        "realidx": "1546ba77-5320-472a-9b48-ac0a2734f57a",
+        "options": {
+            "A": "Aortic stenosis.",
+            "B": "Mitral regurgitation.",
+            "C": "Patent ductus arteriosus.",
+            "D": "Venous bypass graft."
+        },
+        "answer_idx": "A",
+        "answer": "Aortic stenosis.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which condition is most commonly associated with endocarditis. The options provided are:\n\n(A) Aortic stenosis\n(B) Mitral regurgitation\n(C) Patent ductus arteriosus\n(D) Venous bypass graft\n\nEndocarditis is an infection of the inner lining of the heart chambers and valves. It is often associated with conditions that lead to turbulent blood flow or damage to the heart valves, which can provide a site for bacteria to adhere and cause infection.\n\nMitral regurgitation (Option B) is a condition where the mitral valve does not close properly, leading to backward flow of blood from the left ventricle to the left atrium. This turbulent flow can increase the risk of endocarditis, especially if there is pre-existing damage to the valve.\n\nThe solutions provided all consistently identify Option B as the answer. This consistency suggests that mitral regurgitation is indeed the condition most commonly associated with endocarditis among the options given.\n\nTherefore, the most frequently appearing and reliable solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 862,
+            "completion_tokens": 1967
+        },
+        "time_elapsed": 21.049769401550293
+    },
+    {
+        "question": "Which of the following techniques is based on RNA?",
+        "realidx": "179b5138-d8ce-4e02-9445-ada73b642671",
+        "options": {
+            "A": "PCR",
+            "B": "Sanger's technique",
+            "C": "Next generation sequencing",
+            "D": "Western blot"
+        },
+        "answer_idx": "A",
+        "answer": "PCR",
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "C",
+            "A"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each option across the provided solutions:\n\n- Solution 1: C\n- Solution 2: A\n- Solution 3: A\n- Solution 4: C\n- Solution 5: A\n\nCounting the frequency of each option:\n- Option A appears in Solutions 2, 3, and 5, totaling 3 times.\n- Option C appears in Solutions 1 and 4, totaling 2 times.\n\nOption A is the most frequently chosen answer across the solutions provided.\n\nNow, let's consider the context of the question: \"Which of the following techniques is based on RNA?\"\n\n- PCR (Polymerase Chain Reaction) can be used to amplify DNA, but there is a variant called RT-PCR (Reverse Transcription PCR) that is specifically used to amplify RNA by converting it into complementary DNA (cDNA) first. Therefore, PCR can be associated with RNA when referring to RT-PCR.\n- Sanger's technique is a method for DNA sequencing, not directly related to RNA.\n- Next generation sequencing (NGS) can be used for sequencing both DNA and RNA, but it is not exclusively based on RNA.\n- Western blot is a technique used for protein analysis, not RNA.\n\nGiven this context, RT-PCR (a variant of PCR) is indeed based on RNA, supporting the choice of Option A.\n\nTherefore, the most consistent and contextually appropriate answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 796,
+            "completion_tokens": 1951
+        },
+        "time_elapsed": 20.89142918586731
+    },
+    {
+        "question": "To check objective pain response, which is best used method",
+        "realidx": "17d49a43-a8cf-43c9-9c9e-70a42e741af1",
+        "options": {
+            "A": "Facial pain scale",
+            "B": "Knee jerk reflex",
+            "C": "H - Reflex",
+            "D": "R III Reflex"
+        },
+        "answer_idx": "A",
+        "answer": "Facial pain scale",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the best method to check objective pain response. The options provided are:\n\n(A) Facial pain scale\n(B) Knee jerk reflex\n(C) H - Reflex\n(D) R III Reflex\n\nTo determine the most reliable solution, we need to evaluate the consistency across the solutions provided. All five solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify option D as the answer.\n\nThe R III Reflex is a well-known method for assessing objective pain response. It involves measuring the reflexive response to painful stimuli, which can provide an objective indication of pain perception. This makes it a suitable choice for the question at hand.\n\nGiven the consistent identification of option D across all solutions, it is the most reliable answer.\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 820,
+            "completion_tokens": 1438
+        },
+        "time_elapsed": 20.008996725082397
+    },
+    {
+        "question": "Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?",
+        "realidx": "19567e6c-e0f7-4201-816d-23b58786f586",
+        "options": {
+            "A": "Transfusion related lung injury",
+            "B": "Due to overload of PPF",
+            "C": "Acute renal tubular acidosis",
+            "D": "Hemoglobinuria"
+        },
+        "answer_idx": "B",
+        "answer": "Due to overload of PPF",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a patient experiencing breathing difficulty, tachycardia, and tachypnea after a PPF transfusion, with a Batwing sign present on X-ray. The Batwing sign is typically associated with pulmonary edema, which can occur due to transfusion-related acute lung injury (TRALI) or fluid overload.\n\nLet's evaluate the options:\n\n(A) Transfusion related lung injury: TRALI is a well-known complication of blood transfusion characterized by acute respiratory distress, hypoxemia, and bilateral pulmonary infiltrates on chest X-ray, often described as a Batwing pattern. This matches the symptoms and X-ray findings described in the question.\n\n(B) Due to overload of PPF: Fluid overload can also cause pulmonary edema and similar symptoms, but the Batwing sign is more specifically associated with TRALI.\n\n(C) Acute renal tubular acidosis: This condition does not typically present with respiratory symptoms or Batwing sign on X-ray.\n\n(D) Hemoglobinuria: This condition involves the presence of hemoglobin in urine and does not directly cause respiratory symptoms or Batwing sign on X-ray.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (A) as the answer. Given the symptoms and the Batwing sign, TRALI is the most likely cause.\n\nTherefore, the most consistent and reliable solution is option (A).\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 1006,
+            "completion_tokens": 2370
+        },
+        "time_elapsed": 22.874488830566406
+    },
+    {
+        "question": "A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:",
+        "realidx": "1bcbe056-96b4-41aa-a7aa-044d7d2ac555",
+        "options": {
+            "A": "Tendon transfer",
+            "B": "Total shoulder replacement",
+            "C": "Reverse c shoulder replacement",
+            "D": "Acromioplasty"
+        },
+        "answer_idx": "A",
+        "answer": "Tendon transfer",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks for the treatment of choice for a young patient with an irreparable tear of the rotator cuff. The options provided are:\n\n(A) Tendon transfer\n(B) Total shoulder replacement\n(C) Reverse shoulder replacement\n(D) Acromioplasty\n\nTo determine the most reliable solution, we need to evaluate the consistency across the provided solutions. All five solutions (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (A) Tendon transfer as the answer.\n\nIn the context of a young patient with an irreparable rotator cuff tear, tendon transfer is often considered a suitable option. This procedure involves transferring a tendon from a different muscle to compensate for the lost function of the torn rotator cuff, which can be particularly beneficial in younger patients who may not be ideal candidates for shoulder replacement surgeries.\n\nGiven the consistency across all solutions, the most reliable answer is option (A).\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 2202
+        },
+        "time_elapsed": 23.044429063796997
+    },
+    {
+        "question": "According to instrument formula given by G.V. Black, primary cutting edge angle should be:",
+        "realidx": "1d7028cb-08b7-422e-8feb-26392e8f97dc",
+        "options": {
+            "A": "More than 50 degree",
+            "B": "More than 90 degree",
+            "C": "Less than 50 degree",
+            "D": "Less than 90 degree"
+        },
+        "answer_idx": "A",
+        "answer": "More than 50 degree",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the primary cutting edge angle according to G.V. Black's instrument formula. The options provided are different ranges of angles. The solutions generated all consistently indicate option D as the answer. \n\nTo determine the most reliable solution, we look for the answer that appears most frequently across the solutions provided. In this case, all solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate option D as the correct answer. \n\nGiven this consistency across all solutions, option D is the most reliable solution. \n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 904,
+            "completion_tokens": 1846
+        },
+        "time_elapsed": 20.60567045211792
+    },
+    {
+        "question": "An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??",
+        "realidx": "238019d8-3c6b-486e-9d00-fda1273d22e7",
+        "options": {
+            "A": "OPV 3 doses, I IPV 3 Pentavalent and I measles",
+            "B": "BCG, OPV 3 doses, 3 lPV, 3 Pentavalent and I measles",
+            "C": "OPV 3 doses, I IPV 3 Pentavalent and 2 measles",
+            "D": "OPV 3 doses, 3 IPV 3 DPI : Hep-B"
+        },
+        "answer_idx": "D",
+        "answer": "OPV 3 doses, 3 IPV 3 DPI : Hep-B",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 1300,
+            "completion_tokens": 2724
+        },
+        "time_elapsed": 26.070260286331177
+    },
+    {
+        "question": "Most common mediastinal tumor:",
+        "realidx": "2674faba-e6d7-4790-b13e-97c597408919",
+        "options": {
+            "A": "Neurogenic tumor",
+            "B": "Thymoma",
+            "C": "Lymphoma",
+            "D": "Bronchogenic cyst"
+        },
+        "answer_idx": "A",
+        "answer": "Neurogenic tumor",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the most common mediastinal tumor, and provides four options: Neurogenic tumor, Thymoma, Lymphoma, and Bronchogenic cyst. \n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided across the multiple solutions. In this case, all five solutions have identified option B, Thymoma, as the answer. This consistency suggests that Thymoma is indeed the most common mediastinal tumor.\n\nThymomas are the most common tumors found in the anterior mediastinum, particularly in adults. While neurogenic tumors are common in the posterior mediastinum, thymomas are more prevalent overall when considering the mediastinum as a whole.\n\nGiven the consistent identification of Thymoma (option B) across all solutions, it is reasonable to conclude that option B is the most reliable answer.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 796,
+            "completion_tokens": 1561
+        },
+        "time_elapsed": 16.434041738510132
+    },
+    {
+        "question": "The hormone having the maximum effect on granulation wound healing is:",
+        "realidx": "27c3f1c6-a7e4-44fc-9e48-085254585c08",
+        "options": {
+            "A": "Thyroxine",
+            "B": "Cortisone",
+            "C": "Parathormone",
+            "D": "Epinephrine"
+        },
+        "answer_idx": "B",
+        "answer": "Cortisone",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which hormone has the maximum effect on granulation wound healing. Granulation tissue formation is a critical part of the wound healing process, involving the proliferation of fibroblasts and the formation of new blood vessels. \n\nLet's evaluate the options:\n\n(A) Thyroxine: This hormone primarily regulates metabolism and does not have a direct role in wound healing.\n\n(B) Cortisone: Cortisone is a glucocorticoid hormone that can influence inflammation and immune responses. While glucocorticoids are known to have complex effects on wound healing, they can suppress inflammation and immune responses, which might not directly promote granulation tissue formation. However, cortisone is often associated with wound healing processes due to its regulatory effects on inflammation.\n\n(C) Parathormone: This hormone is involved in calcium regulation and bone metabolism, not directly in wound healing.\n\n(D) Epinephrine: This hormone is involved in the fight-or-flight response and does not have a direct role in granulation tissue formation.\n\nThe solutions provided all consistently indicate option (B) as the answer. Given the consistency across all solutions and considering cortisone's role in modulating inflammation, which is a component of wound healing, option (B) is the most reliable choice.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 832,
+            "completion_tokens": 2123
+        },
+        "time_elapsed": 22.517332792282104
+    },
+    {
+        "question": "Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?",
+        "realidx": "29e07bd0-f864-4738-bdbc-491f1205287f",
+        "options": {
+            "A": "Hopewood",
+            "B": "Experimental",
+            "C": "Vipeholm",
+            "D": "Turku"
+        },
+        "answer_idx": "A",
+        "answer": "Hopewood",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about a study where sugar restriction in the diet was beneficial despite unfavorable hygiene conditions. The options provided are different studies known for their research on diet and dental health.\n\nTo determine the correct answer, we need to evaluate the solutions provided:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently identify option A as the answer. This consistency suggests that the Hopewood study is the one associated with the beneficial effects of sugar restriction in the presence of unfavorable hygiene.\n\nThe Hopewood study is known for its investigation into the effects of diet on dental health, particularly in children living in a community with poor oral hygiene practices. The study found that a diet low in sugar resulted in better dental health outcomes despite the lack of good hygiene practices.\n\nGiven the consistent identification of option A across all solutions, the most reliable answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 820,
+            "completion_tokens": 1565
+        },
+        "time_elapsed": 16.37923789024353
+    },
+    {
+        "question": "Plastic carrier size of 40-90 in carrier base Gutta percha are made from?",
+        "realidx": "2b325080-a90d-4813-b2bd-cfa4fa246c27",
+        "options": {
+            "A": "Poly propylene",
+            "B": "Poly Sulphone",
+            "C": "Poly Sulphide",
+            "D": "Liquid crystal plastic"
+        },
+        "answer_idx": "B",
+        "answer": "Poly Sulphone",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 868,
+            "completion_tokens": 1766
+        },
+        "time_elapsed": 20.03531813621521
+    },
+    {
+        "question": "The ideal instrument that is used to widen the canal is",
+        "realidx": "2cc9a274-380c-4a8e-b2b6-6c8ae412c55b",
+        "options": {
+            "A": "Broach",
+            "B": "File",
+            "C": "Fissure bur",
+            "D": "Reamer"
+        },
+        "answer_idx": "B",
+        "answer": "File",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the ideal instrument used to widen the canal. The options provided are:\n\n(A) Broach\n(B) File\n(C) Fissure bur\n(D) Reamer\n\nThe solutions generated all consistently indicate \"D\" as the answer. Let's evaluate the options:\n\n- Broach: Typically used for removing pulp tissue from the canal, not for widening.\n- File: Used for shaping and cleaning the canal, but not specifically for widening.\n- Fissure bur: Used in dental procedures for cutting, not specifically for widening canals.\n- Reamer: Specifically designed to widen the canal by rotating and cutting, making it the ideal instrument for this purpose.\n\nGiven the consistent choice of \"D\" across all solutions and the function of a reamer, it is clear that \"D\" is the most reliable solution. Therefore, the answer is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 802,
+            "completion_tokens": 1254
+        },
+        "time_elapsed": 14.085112571716309
+    },
+    {
+        "question": "Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?",
+        "realidx": "2dd59aba-38c0-4aff-a000-1bcb640254ff",
+        "options": {
+            "A": "Research papers and other aicles proving efficacy of the drug",
+            "B": "Date of expiry of the drug",
+            "C": "Rare, but serious life threatening adverse-effects",
+            "D": "Common, not so serious adverse-effects"
+        },
+        "answer_idx": "B",
+        "answer": "Date of expiry of the drug",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which information need not be included in a drug advisement letter. The options provided are:\n\n(A) Research papers and other articles proving efficacy of the drug\n(B) Date of expiry of the drug\n(C) Rare, but serious life-threatening adverse effects\n(D) Common, not so serious adverse effects\n\nA drug advisement letter, often referred to as a package insert or prescribing information, typically includes essential information about the drug such as dosing, frequency, half-life, expiration date, and both common and serious adverse effects. However, it does not usually include research papers or articles proving the efficacy of the drug. Instead, it summarizes the clinical trial data and provides necessary information for safe and effective use.\n\nThe solutions provided all consistently identify option (A) as the information that need not be included in the drug advisement letter. This consistency across all solutions suggests that option (A) is the correct answer.\n\nTherefore, the most reliable solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 1144,
+            "completion_tokens": 1800
+        },
+        "time_elapsed": 20.568259477615356
+    },
+    {
+        "question": "Ashley-Howe model analysis is used to predict:",
+        "realidx": "3146c248-2dd4-4888-99c9-bafda2fa1ec7",
+        "options": {
+            "A": "Tooth material excess",
+            "B": "Maxillo-mandibular relationships",
+            "C": "Basal bone-transverse relationship",
+            "D": "Growth prediction"
+        },
+        "answer_idx": "C",
+        "answer": "Basal bone-transverse relationship",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are as follows:\n\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: C\n- Solution 5: C\n\nNow, let's count the frequency of each option:\n\n- Option B appears in Solutions 1, 2, and 3, totaling 3 occurrences.\n- Option C appears in Solutions 4 and 5, totaling 2 occurrences.\n\nOption B is the most frequently chosen answer, appearing in three out of the five solutions. Therefore, based on consistency, the most reliable solution is Option B.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 850,
+            "completion_tokens": 1964
+        },
+        "time_elapsed": 21.77555203437805
+    },
+    {
+        "question": "Optimal location for intra osseous anesthesia for mandibular second molars is",
+        "realidx": "3419bb2a-2a24-4ddc-b217-ee00b981afeb",
+        "options": {
+            "A": "Distal to the molar",
+            "B": "Mesial to the molar",
+            "C": "In the furcation area",
+            "D": "Apical perforation and injection"
+        },
+        "answer_idx": "B",
+        "answer": "Mesial to the molar",
+        "solutions": [
+            "C",
+            "B",
+            "B",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each answer across the provided solutions:\n\n- Solution 1: C\n- Solution 2: B\n- Solution 3: B\n- Solution 4: C\n- Solution 5: B\n\nCounting the frequency of each option:\n- Option A: 0 occurrences\n- Option B: 3 occurrences\n- Option C: 2 occurrences\n- Option D: 0 occurrences\n\nThe option that appears most frequently is Option B, with 3 occurrences. Therefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 910,
+            "completion_tokens": 1895
+        },
+        "time_elapsed": 19.635091066360474
+    },
+    {
+        "question": "A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:",
+        "realidx": "36eda6ec-6654-41ba-937b-60a3052e6c49",
+        "options": {
+            "A": "Delusion of grandiosity",
+            "B": "Delusion of persecution",
+            "C": "Delusion of grandiosity and persecution",
+            "D": "Delusion of grandiosity, persecution and reference"
+        },
+        "answer_idx": "D",
+        "answer": "Delusion of grandiosity, persecution and reference",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a patient who believes he is the most important person in the world, which indicates a delusion of grandiosity. Additionally, he thinks his neighbors and family are trying to harm him because they are jealous, which suggests a delusion of persecution. The combination of these two delusions is described in option (C) as \"Delusion of grandiosity and persecution.\"\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (C) as the correct answer. This consistency across multiple solutions indicates that option (C) is the most reliable solution.\n\nTherefore, the most frequently appearing answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 1222,
+            "completion_tokens": 1249
+        },
+        "time_elapsed": 14.268112421035767
+    },
+    {
+        "question": "A patient went into shock immediately after normal delivery, likely cause:",
+        "realidx": "3a13e9bb-48ab-46c1-9d50-e1612840d922",
+        "options": {
+            "A": "Amniotic fluid embolism",
+            "B": "PPH",
+            "C": "Uterine inversion",
+            "D": "Eclampsia"
+        },
+        "answer_idx": "C",
+        "answer": "Uterine inversion",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 850,
+            "completion_tokens": 1632
+        },
+        "time_elapsed": 29.356035470962524
+    },
+    {
+        "question": "Major aim of phase 1 clinical trials is:",
+        "realidx": "3b150083-1a5e-49ef-bc36-41a06b677b32",
+        "options": {
+            "A": "Safety",
+            "B": "Efficacy",
+            "C": "Dose",
+            "D": "Pharmacokinetics"
+        },
+        "answer_idx": "C",
+        "answer": "Dose",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the major aim of phase 1 clinical trials. Phase 1 clinical trials are primarily designed to assess the safety of a new drug or treatment. They are the first stage of testing in human subjects and focus on determining the safe dosage range and identifying any potential side effects. While phase 1 trials may also gather preliminary data on pharmacokinetics and dosing, the primary goal is to ensure the safety of the participants.\n\nIn evaluating the solutions provided, all solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify option (A) Safety as the major aim of phase 1 clinical trials. This consistency across all solutions indicates a strong consensus that safety is indeed the primary focus of phase 1 trials.\n\nTherefore, the most reliable solution, based on the consistent answers provided, is option (A).\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 1917
+        },
+        "time_elapsed": 20.52234959602356
+    },
+    {
+        "question": "Initial calcification of crown represents Which Nolla's stage:",
+        "realidx": "3b514c9e-965c-463a-b141-9dcecd91c957",
+        "options": {
+            "A": "Stage 1",
+            "B": "Stage 2",
+            "C": "Stage 3",
+            "D": "Stage 4"
+        },
+        "answer_idx": "B",
+        "answer": "Stage 2",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about Nolla's stage corresponding to the initial calcification of the crown. Nolla's stages are a classification system used to describe the development of teeth, particularly the stages of calcification and eruption.\n\nThe options provided are:\n(A) Stage 1\n(B) Stage 2\n(C) Stage 3\n(D) Stage 4\n\nThe solutions generated all consistently indicate \"B\" as the answer. This suggests that Stage 2 in Nolla's classification is associated with the initial calcification of the crown. The consistency across all solutions indicates a strong consensus that Stage 2 is the correct answer.\n\nTherefore, based on the frequency and consistency of the solutions provided, the most reliable answer is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 820,
+            "completion_tokens": 1052
+        },
+        "time_elapsed": 13.911261796951294
+    },
+    {
+        "question": "Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?",
+        "realidx": "3bb33f16-ca92-481f-bb39-b5278156c63d",
+        "options": {
+            "A": "DIC",
+            "B": "Fac. VIII def.",
+            "C": "Liver disease",
+            "D": "Vitamin K deficiency"
+        },
+        "answer_idx": "D",
+        "answer": "Vitamin K deficiency",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question involves interpreting laboratory results to diagnose a condition. The patient has increased PT (Prothrombin Time), APTT (Activated Partial Thromboplastin Time), and TT (Thrombin Time), with normal fibrinogen and platelet counts.\n\nLet's evaluate the options:\n\n(A) DIC (Disseminated Intravascular Coagulation): Typically presents with increased PT, APTT, and TT, but often also shows decreased fibrinogen and platelet counts due to consumption.\n\n(B) Factor VIII deficiency: Usually presents with increased APTT, but normal PT and TT, as Factor VIII is part of the intrinsic pathway.\n\n(C) Liver disease: Can cause increased PT, APTT, and TT due to impaired synthesis of clotting factors, while fibrinogen and platelet counts can remain normal, especially in early or mild liver disease.\n\n(D) Vitamin K deficiency: Typically causes increased PT and APTT due to reduced synthesis of vitamin K-dependent clotting factors, but TT is usually normal.\n\nGiven the laboratory results and the options, liver disease (C) is the most consistent diagnosis because it can cause increased PT, APTT, and TT with normal fibrinogen and platelet counts.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option C as the answer. Therefore, the most reliable solution based on consistency is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 880,
+            "completion_tokens": 2767
+        },
+        "time_elapsed": 26.33435845375061
+    },
+    {
+        "question": "Which of the following series act as the best space\nmaintainer in a child's mouth?",
+        "realidx": "3c7f7351-8925-4c0e-89e7-1d4b8e806797",
+        "options": {
+            "A": "Restored deciduous tooth",
+            "B": "Acrylic partial denture",
+            "C": "Distal shoe space maintainer",
+            "D": "Band and loop space maintainer"
+        },
+        "answer_idx": "A",
+        "answer": "Restored deciduous tooth",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 910,
+            "completion_tokens": 1512
+        },
+        "time_elapsed": 17.652756929397583
+    },
+    {
+        "question": "Highest concentration of oxygen is delivered through?",
+        "realidx": "406b5b4f-9ad4-42c0-9669-12d038df4ac8",
+        "options": {
+            "A": "Nasal cannula",
+            "B": "Venturi mask",
+            "C": "Bag and mask",
+            "D": "Mask with reservoir"
+        },
+        "answer_idx": "C",
+        "answer": "Bag and mask",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which method delivers the highest concentration of oxygen. Let's evaluate the options:\n\n(A) Nasal cannula: This device delivers low to moderate concentrations of oxygen, typically up to about 40-50% depending on the flow rate.\n\n(B) Venturi mask: This mask is designed to deliver precise oxygen concentrations, usually ranging from 24% to 50%, but not the highest concentration.\n\n(C) Bag and mask: This can deliver high concentrations of oxygen, but typically not as high as a mask with a reservoir.\n\n(D) Mask with reservoir: Also known as a non-rebreather mask, this can deliver oxygen concentrations up to 100%, making it the method that provides the highest concentration of oxygen.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option D as the correct answer. This consistency across multiple solutions indicates that option D is the most reliable answer.\n\nTherefore, the answer that appears most frequently and is consistent across all solutions is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 802,
+            "completion_tokens": 1553
+        },
+        "time_elapsed": 18.042317628860474
+    },
+    {
+        "question": "Extraction of disto-angular impaction of mandibular 3rd molar can cause:",
+        "realidx": "45d2b684-c55a-400b-ab09-76ee3a9ba64b",
+        "options": {
+            "A": "Slippage in lingual pouch",
+            "B": "# of ramus of mandible",
+            "C": "Excessive Haemorrhage",
+            "D": "Dry socket"
+        },
+        "answer_idx": "B",
+        "answer": "# of ramus of mandible",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the potential complications associated with the extraction of a disto-angular impaction of a mandibular third molar. The options provided are:\n\n(A) Slippage in lingual pouch\n(B) # of ramus of mandible\n(C) Excessive Haemorrhage\n(D) Dry socket\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: B\n\nThe majority of the solutions (Solutions 1, 2, 3, and 4) indicate \"D\" as the answer, while only one solution (Solution 5) suggests \"B\". Therefore, the most consistent answer across the solutions is \"D\".\n\nDry socket (alveolar osteitis) is a common complication following the extraction of mandibular third molars, particularly when the extraction is difficult or involves impaction. It occurs when the blood clot at the site of extraction is dislodged or fails to form properly, leading to pain and delayed healing.\n\nGiven the consistency in the solutions and the commonality of dry socket as a complication, the most reliable answer is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 910,
+            "completion_tokens": 2456
+        },
+        "time_elapsed": 24.46583914756775
+    },
+    {
+        "question": "Median rhomboid glossitis is associated with:",
+        "realidx": "46fe2094-87db-4117-b06f-7a7bebb94646",
+        "options": {
+            "A": "Burning mouth syndrome",
+            "B": "Fungal infection",
+            "C": "Bacterial infection",
+            "D": "Absence of filiform papillae"
+        },
+        "answer_idx": "D",
+        "answer": "Absence of filiform papillae",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the association of median rhomboid glossitis. The options provided are:\n\n(A) Burning mouth syndrome\n(B) Fungal infection\n(C) Bacterial infection\n(D) Absence of filiform papillae\n\nMedian rhomboid glossitis is a condition characterized by a smooth, red, flat area on the dorsum of the tongue, typically in the midline. It is commonly associated with a fungal infection, specifically candidiasis, which is caused by the yeast Candida albicans.\n\nUpon reviewing the solutions provided:\n\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nAll solutions consistently identify option (B) as the correct answer. This consistency across all solutions indicates that the most reliable answer is indeed (B), which corresponds to a fungal infection.\n\nTherefore, the most frequently appearing and consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 838,
+            "completion_tokens": 2051
+        },
+        "time_elapsed": 21.379403114318848
+    },
+    {
+        "question": "Which of the following does not require 5'capping?",
+        "realidx": "535bf03d-8714-46a8-84a0-13bf499129f7",
+        "options": {
+            "A": "tRNA of alanine",
+            "B": "mRNA for histone",
+            "C": "U6 snRNA",
+            "D": "siRNA"
+        },
+        "answer_idx": "A",
+        "answer": "tRNA of alanine",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which of the given RNA types does not require 5' capping. Let's evaluate each option:\n\n(A) tRNA of alanine: tRNA molecules do not undergo 5' capping. They are processed differently, involving the addition of a CCA tail at the 3' end and various modifications, but not 5' capping.\n\n(B) mRNA for histone: mRNA typically undergoes 5' capping as part of its processing in eukaryotic cells. Histone mRNAs are unique because they do not have a poly-A tail, but they do have a 5' cap.\n\n(C) U6 snRNA: Small nuclear RNAs (snRNAs) like U6 are involved in splicing and are typically capped, although U6 snRNA has a unique cap structure.\n\n(D) siRNA: Small interfering RNAs (siRNAs) are not capped. They are processed from double-stranded RNA precursors and are involved in RNA interference.\n\nThe solutions provided all consistently identify option (A) as the correct answer. This is consistent with the understanding that tRNA does not require 5' capping. Therefore, the most reliable solution based on the consistency across all solutions is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 850,
+            "completion_tokens": 2214
+        },
+        "time_elapsed": 22.267404079437256
+    },
+    {
+        "question": "Ceramide is:",
+        "realidx": "54f0597f-d43c-4813-b202-935ae07e4e20",
+        "options": {
+            "A": "Simple lipid",
+            "B": "Compound lipid",
+            "C": "Precursor lipid",
+            "D": "Derived lipid"
+        },
+        "answer_idx": "A",
+        "answer": "Simple lipid",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: D\n- Solution 5: C\n\nBy counting the occurrences of each option:\n\n- Option C appears in Solutions 1, 2, 3, and 5, totaling 4 times.\n- Option D appears in Solution 4, totaling 1 time.\n\nOption C is the most frequently occurring answer, appearing in four out of the five solutions. This consistency suggests that Option C is the most reliable solution.\n\nTherefore, the answer that appears most frequently is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 754,
+            "completion_tokens": 1710
+        },
+        "time_elapsed": 19.992085218429565
+    },
+    {
+        "question": "A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis",
+        "realidx": "56176afa-3442-46be-9cdc-c8e569a72d04",
+        "options": {
+            "A": "Polychrome Methylene blue",
+            "B": "Carbol Fuschin",
+            "C": "Acid Fast Stain",
+            "D": "Calcoflour White"
+        },
+        "answer_idx": "A",
+        "answer": "Polychrome Methylene blue",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a scenario where a person working in an abattoir develops a papule on the hand that turns into an ulcer. This clinical presentation is suggestive of an infection that could be related to occupational exposure in an abattoir, such as anthrax. Anthrax is caused by Bacillus anthracis, a bacterium that can be identified using specific stains.\n\nThe options provided are different types of stains used in microbiology:\n\n(A) Polychrome Methylene blue: This stain is specifically used for identifying Bacillus anthracis, the causative agent of anthrax. It is known for its ability to highlight the characteristic features of the bacterium, such as the capsule.\n\n(B) Carbol Fuschin: This is typically used in the Ziehl-Neelsen stain for acid-fast bacteria like Mycobacterium tuberculosis.\n\n(C) Acid Fast Stain: This is used for identifying acid-fast bacteria, primarily Mycobacterium species.\n\n(D) Calcoflour White: This stain is used for detecting fungi, as it binds to cellulose and chitin in fungal cell walls.\n\nGiven the occupational setting and the clinical presentation, anthrax is a likely diagnosis. Polychrome Methylene blue is the stain that would best help in diagnosing anthrax due to its specificity for Bacillus anthracis.\n\nAll solutions provided consistently identify option (A) as the correct answer. This consistency across multiple solutions indicates that option (A) is the most reliable choice for diagnosing the condition described.\n\nTherefore, the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 976,
+            "completion_tokens": 2108
+        },
+        "time_elapsed": 25.059847831726074
+    },
+    {
+        "question": "Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :",
+        "realidx": "5682860b-5ef4-4c1d-88b4-eb81546548ba",
+        "options": {
+            "A": "100%",
+            "B": "50%",
+            "C": "25%",
+            "D": "0%"
+        },
+        "answer_idx": "A",
+        "answer": "100%",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "B"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each answer provided across the solutions.\n\nThe solutions provided are:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: B\n\nFrom these solutions, the answer \"A\" appears four times, while the answer \"B\" appears only once. Therefore, the most frequently occurring answer is \"A\".\n\nNow, let's consider the medical context of the question. Kamlesh has Down's syndrome due to a 21/21 translocation, and the father is a balanced translocation carrier. In cases where a parent is a carrier of a balanced translocation involving chromosome 21, there is a significant risk of having offspring with Down's syndrome due to unbalanced translocation. Specifically, if the father carries a balanced 21/21 translocation, all gametes he produces will carry the translocation, leading to a 100% risk of recurrence in subsequent pregnancies.\n\nThus, the consistent answer \"A\" (100%) aligns with the medical understanding of the genetic risk associated with a balanced 21/21 translocation carrier.\n\nTherefore, the most consistent and medically accurate answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 1018,
+            "completion_tokens": 2078
+        },
+        "time_elapsed": 21.0991153717041
+    },
+    {
+        "question": "Percentage of carbon in carbon steel hand instruments is",
+        "realidx": "57d48689-dcbd-4e81-9ea9-d56b7f7eed2d",
+        "options": {
+            "A": "1-1.2%",
+            "B": "10-12%",
+            "C": "0.6 to 0.8%",
+            "D": "6 to 8%"
+        },
+        "answer_idx": "A",
+        "answer": "1-1.2%",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the percentage of carbon in carbon steel hand instruments. The options provided are:\n\n(A) 1-1.2%\n(B) 10-12%\n(C) 0.6 to 0.8%\n(D) 6 to 8%\n\nCarbon steel typically contains carbon in the range of 0.6% to 1.5%, depending on the specific type of carbon steel. For hand instruments, which require a balance of hardness and ductility, the carbon content is often in the lower range of this spectrum. The most common carbon content for such applications is around 0.6% to 0.8%.\n\nUpon reviewing the solutions provided:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nAll solutions consistently identify option (C) as the correct answer. This consistency across multiple solutions suggests that option (C) is indeed the most reliable and accurate answer.\n\nTherefore, the most frequently appearing and consistent answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 898,
+            "completion_tokens": 2165
+        },
+        "time_elapsed": 21.68958830833435
+    },
+    {
+        "question": "Reciprocal arm taper in",
+        "realidx": "5878356e-0dc4-4d11-81fe-765d78c6b593",
+        "options": {
+            "A": "1 dimension",
+            "B": "2 dimension",
+            "C": "3 dimension",
+            "D": "Not tapered"
+        },
+        "answer_idx": "A",
+        "answer": "1 dimension",
+        "solutions": [
+            "C",
+            "B",
+            "B",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each answer across the provided solutions.\n\nThe solutions are:\n- Solution 1: C\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: C\n\nCounting the frequency of each option:\n- Option A: 0 occurrences\n- Option B: 3 occurrences (Solutions 2, 3, and 4)\n- Option C: 2 occurrences (Solutions 1 and 5)\n- Option D: 0 occurrences\n\nOption B appears most frequently, with 3 occurrences. Therefore, the most consistent solution is Option B.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 783,
+            "completion_tokens": 1724
+        },
+        "time_elapsed": 20.023762702941895
+    },
+    {
+        "question": "Bone sounding done in modern times is performed by which method?",
+        "realidx": "58d83508-8ad5-4137-a215-d6b084f49e3c",
+        "options": {
+            "A": "RVG",
+            "B": "Probing",
+            "C": "CBCT",
+            "D": "Radiovisiography"
+        },
+        "answer_idx": "C",
+        "answer": "CBCT",
+        "solutions": [
+            "C",
+            "C",
+            "B",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: B\n- Solution 4: C\n- Solution 5: C\n\nLet's count the occurrences of each option:\n\n- Option A: 0 occurrences\n- Option B: 1 occurrence\n- Option C: 4 occurrences\n- Option D: 0 occurrences\n\nOption C appears most frequently, with a total of 4 occurrences. This consistency suggests that Option C is the most reliable solution based on the given solutions.\n\nTherefore, the answer that appears most frequently is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 808,
+            "completion_tokens": 1406
+        },
+        "time_elapsed": 16.719263792037964
+    },
+    {
+        "question": "Which of the following blade angle is appropriate for scaling and root planing",
+        "realidx": "5ce754b8-b358-4270-9bd1-8828700a19b1",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "answer_idx": "B",
+        "answer": "B",
+        "solutions": [
+            "C",
+            "A",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: C\n- Solution 2: A\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nBy counting the occurrences of each answer:\n\n- Option A appears once.\n- Option C appears four times.\n- Options B and D do not appear at all.\n\nThe answer that appears most frequently is Option C, with four occurrences. This consistency suggests that Option C is the most reliable solution based on the given data.\n\nTherefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 1887
+        },
+        "time_elapsed": 21.421311140060425
+    },
+    {
+        "question": "Primary Colonization of plaque is dominated by",
+        "realidx": "611828ae-4acf-4177-bc88-fd78e72a9a3e",
+        "options": {
+            "A": "Facultative Aerobic Gram + ve rods",
+            "B": "Facultative Anaerobic Gram - ve rods",
+            "C": "Facultative Aerobic Gram - ve cocci",
+            "D": "Facultative Anaerobic Gram + ve cocci"
+        },
+        "answer_idx": "D",
+        "answer": "Facultative Anaerobic Gram + ve cocci",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the primary colonization of dental plaque. Dental plaque is initially colonized by bacteria that are able to adhere to the tooth surface and thrive in the oral environment. The primary colonizers are typically facultative anaerobic Gram-positive cocci, such as Streptococcus species, which are well-suited to the conditions in the mouth and can grow in both aerobic and anaerobic environments.\n\nUpon reviewing the solutions provided, all five solutions consistently identify option (D) as the correct answer. This option corresponds to \"Facultative Anaerobic Gram + ve cocci,\" which aligns with the known characteristics of the primary colonizers of dental plaque.\n\nGiven the consistency across all solutions, the most reliable answer is option (D). Therefore, the single letter ID corresponding to the most consistent solution is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 946,
+            "completion_tokens": 1719
+        },
+        "time_elapsed": 31.597240447998047
+    },
+    {
+        "question": "In a child with active liver failure, the most important prognosis factor for death is \u2013",
+        "realidx": "641f160f-eef0-4b8c-9cb8-3241d2d63173",
+        "options": {
+            "A": "Increasing transaminases",
+            "B": "Increasing bilirubin",
+            "C": "Increasing prothrombin time",
+            "D": "Gram (\u2013)ve sepsis"
+        },
+        "answer_idx": "D",
+        "answer": "Gram (\u2013)ve sepsis",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the most important prognostic factor for death in a child with active liver failure. The options provided are related to different clinical indicators that can be observed in liver failure.\n\nLet's evaluate each option:\n\n(A) Increasing transaminases: Transaminases (AST and ALT) are enzymes that indicate liver cell injury. While elevated levels suggest liver damage, they are not the most direct indicator of prognosis in liver failure.\n\n(B) Increasing bilirubin: Elevated bilirubin levels indicate impaired liver function and jaundice, but they are not the most direct measure of prognosis in acute liver failure.\n\n(C) Increasing prothrombin time: Prothrombin time is a measure of the liver's ability to produce clotting factors, which is crucial for blood coagulation. In liver failure, the liver's ability to synthesize these factors is compromised, leading to increased prothrombin time. This is a direct indicator of liver function and is often used as a prognostic factor in liver failure.\n\n(D) Gram (\u2013)ve sepsis: While sepsis can complicate liver failure and worsen prognosis, it is not a direct measure of liver function or failure.\n\nThe solutions provided all consistently identify option (C) as the most important prognostic factor for death in a child with active liver failure. This consistency suggests that increasing prothrombin time is indeed the most reliable indicator of prognosis in this scenario.\n\nTherefore, the most frequently and consistently chosen answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 898,
+            "completion_tokens": 1896
+        },
+        "time_elapsed": 24.65769624710083
+    },
+    {
+        "question": "Denominator in perinatal moality rate",
+        "realidx": "6506849d-8885-4adf-88b7-4e010e026d6c",
+        "options": {
+            "A": "Total bihs",
+            "B": "Total live bihs",
+            "C": "Live bihs + Still bih",
+            "D": "Total number of newborns"
+        },
+        "answer_idx": "A",
+        "answer": "Total bihs",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the denominator in the perinatal mortality rate. The perinatal mortality rate is typically calculated using the number of perinatal deaths (which includes stillbirths and deaths within the first week of life) divided by the sum of live births and stillbirths. \n\nEvaluating the solutions provided:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nAll solutions consistently identify option C as the correct answer. This option corresponds to \"Live bihs + Still bih,\" which aligns with the standard definition of the denominator used in calculating the perinatal mortality rate.\n\nTherefore, the most frequently appearing and consistent answer across all solutions is option C.",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 844,
+            "completion_tokens": 2186
+        },
+        "time_elapsed": 25.746593952178955
+    },
+    {
+        "question": "Isolation period of measles:-",
+        "realidx": "653d9209-e3ec-4f56-bb30-6e9f74c210df",
+        "options": {
+            "A": "Onset of prodromal stage until 7th day of rash",
+            "B": "Eruptive stage until 2 days of rash",
+            "C": "Onset of prodromal phase until 3rd day of rash",
+            "D": "Eruptive stage until 7th day of rash"
+        },
+        "answer_idx": "C",
+        "answer": "Onset of prodromal phase until 3rd day of rash",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: D\n- Solution 5: A\n\nBy counting the occurrences of each option, we find:\n\n- Option A appears in Solutions 1, 2, 3, and 5, totaling 4 times.\n- Option D appears in Solution 4, totaling 1 time.\n\nOptions B and C do not appear in any of the solutions.\n\nThe most frequently appearing answer is Option A, which appears 4 times. This consistency suggests that Option A is the most reliable solution based on the given data.\n\nTherefore, the answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 1007,
+            "completion_tokens": 2483
+        },
+        "time_elapsed": 37.37003970146179
+    },
+    {
+        "question": "Production and citation impact of published work of a scientist or scholar",
+        "realidx": "6b3b112c-3f6a-4f33-afe6-421e410a1700",
+        "options": {
+            "A": "Impact factor",
+            "B": "Citation",
+            "C": "H index",
+            "D": "Z index"
+        },
+        "answer_idx": "B",
+        "answer": "Citation",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question is asking about a metric that evaluates both the production and citation impact of a scientist or scholar's published work. Let's analyze the options:\n\n(A) Impact factor: This is a measure of the average number of citations to articles published in a specific journal. It is not directly related to an individual scientist's or scholar's work.\n\n(B) Citation: This refers to the number of times a particular work is cited by other works. While it measures impact, it does not account for the production aspect.\n\n(C) H index: This is a metric that combines both the productivity (number of publications) and citation impact (number of citations) of a scientist or scholar. It is designed to measure both aspects effectively.\n\n(D) Z index: This is not a standard metric used in evaluating scientific impact and productivity.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (C) as the answer. The H index is indeed the most appropriate metric for evaluating both the production and citation impact of a scientist or scholar's published work.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 796,
+            "completion_tokens": 1734
+        },
+        "time_elapsed": 17.69939684867859
+    },
+    {
+        "question": "Shelf life of colourless, aqueous solution of suxamethonium is",
+        "realidx": "6e5da328-bb2e-4848-bdff-56a722ca8d7b",
+        "options": {
+            "A": "6 months",
+            "B": "1 year",
+            "C": "2 yr",
+            "D": "3 yr"
+        },
+        "answer_idx": "C",
+        "answer": "2 yr",
+        "solutions": [
+            "A",
+            "B",
+            "B",
+            "A",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Let's evaluate the frequency of each option:\n\n- Solution 1: A\n- Solution 2: B\n- Solution 3: B\n- Solution 4: A\n- Solution 5: B\n\nCounting the occurrences of each option:\n- Option A appears in Solution 1 and Solution 4, totaling 2 occurrences.\n- Option B appears in Solution 2, Solution 3, and Solution 5, totaling 3 occurrences.\n\nOption B is the most frequently appearing answer across the solutions. Therefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 844,
+            "completion_tokens": 1522
+        },
+        "time_elapsed": 15.493091106414795
+    },
+    {
+        "question": "Resin teeth:",
+        "realidx": "6eb7d429-53f8-4d51-b861-81ab063b0973",
+        "options": {
+            "A": "Show a high compressive strength",
+            "B": "Contraindicated in patients with decreased inter occlusal distance",
+            "C": "Show crazing",
+            "D": "Show a high fracture strength"
+        },
+        "answer_idx": "D",
+        "answer": "Show a high fracture strength",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the characteristics of resin teeth, and provides four options. The solutions generated all consistently point to option C, which is \"Show crazing.\" \n\nCrazing refers to the formation of fine cracks on the surface of resin materials, which is a known issue with resin teeth. This phenomenon occurs due to factors such as thermal cycling, mechanical stress, or chemical exposure, which can lead to the development of these micro-cracks. \n\nThe consistency across all solutions indicates that option C is the most reliable answer. Therefore, based on the repeated selection of option C in all solutions, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 855,
+            "completion_tokens": 1596
+        },
+        "time_elapsed": 19.14596199989319
+    },
+    {
+        "question": "Action of the muscle marked (with arrow) on mandible is",
+        "realidx": "7060bcf3-fde4-41e3-ad46-260857a92b46",
+        "options": {
+            "A": "Elevation",
+            "B": "Depression",
+            "C": "Retraction",
+            "D": "Protraction"
+        },
+        "answer_idx": "A",
+        "answer": "Elevation",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the action of a muscle on the mandible, and the options provided are elevation, depression, retraction, and protraction. The solutions generated all consistently indicate \"A\" as the answer. \n\nTo determine the most reliable solution, I will evaluate the frequency of each answer across the solutions provided. In this case:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently indicate \"A\" as the answer. This consistency suggests that \"A\" is the most reliable solution based on the information provided.\n\nTherefore, the most frequently appearing answer is \"A\". \n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 802,
+            "completion_tokens": 2096
+        },
+        "time_elapsed": 25.31359076499939
+    },
+    {
+        "question": "2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen",
+        "realidx": "7111d7b2-7e80-4e23-b5d0-9f42595c6a80",
+        "options": {
+            "A": "4, decreases",
+            "B": "1, decreases",
+            "C": "4, increases",
+            "D": "1, increases"
+        },
+        "answer_idx": "B",
+        "answer": "1, decreases",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question is about the binding of 2, 3-BPG (2, 3-bisphosphoglycerate) to hemoglobin and its effect on the affinity for oxygen. \n\n2, 3-BPG is known to bind to the beta chains of deoxygenated hemoglobin, stabilizing the T (tense) state of hemoglobin. This binding decreases hemoglobin's affinity for oxygen, facilitating oxygen release to tissues. \n\nThe options provided are:\n(A) 4, decreases\n(B) 1, decreases\n(C) 4, increases\n(D) 1, increases\n\nThe correct understanding is that 2, 3-BPG binds to one site per hemoglobin tetramer (which consists of four subunits), and this binding decreases the affinity for oxygen.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify option (B) as the correct answer. This option indicates that 2, 3-BPG binds to 1 site and decreases the affinity for oxygen, which aligns with the known physiological mechanism.\n\nTherefore, the most consistent and reliable solution is option (B). \n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 881,
+            "completion_tokens": 2042
+        },
+        "time_elapsed": 20.5178804397583
+    },
+    {
+        "question": "Gene commonly indicated in congenital cataract:",
+        "realidx": "71803632-1b88-4332-88f5-be3ac2515b85",
+        "options": {
+            "A": "PAX-6",
+            "B": "CRYGS-3",
+            "C": "LMX- IB",
+            "D": "PITX-3"
+        },
+        "answer_idx": "B",
+        "answer": "CRYGS-3",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the gene commonly indicated in congenital cataract. The options provided are:\n\n(A) PAX-6  \n(B) CRYGS-3  \n(C) LMX- IB  \n(D) PITX-3  \n\nThe solutions generated all consistently indicate option D as the answer. This consistency across all solutions suggests that PITX-3 is the gene most commonly associated with congenital cataract. PITX-3 is indeed known to be linked to congenital cataracts, as mutations in this gene can lead to developmental issues in the lens of the eye, resulting in cataracts.\n\nTherefore, based on the consistent solutions provided, the most reliable answer is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 826,
+            "completion_tokens": 1632
+        },
+        "time_elapsed": 17.042863607406616
+    },
+    {
+        "question": "Bartholins duct is the name of :",
+        "realidx": "723bd8c7-6da8-4897-8a1b-dd87891f24a7",
+        "options": {
+            "A": "Parotid duct",
+            "B": "Submandibular gland",
+            "C": "Sublingual duct",
+            "D": "Lacrimal duct"
+        },
+        "answer_idx": "C",
+        "answer": "Sublingual duct",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the name of Bartholins duct. The options provided are various ducts associated with different glands or systems in the body. \n\nTo determine the most consistent solution, we need to evaluate the solutions provided:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nAll solutions consistently identify option C as the answer. This indicates a strong consensus among the solutions.\n\nBartholin's duct is actually associated with the Bartholin's glands, which are located in the female reproductive system and are not directly related to any of the options provided. However, the question seems to be asking for a duct name that is similar or commonly confused with Bartholin's duct. \n\nThe most consistent answer across all solutions is option C, which is the Sublingual duct. This consistency suggests that option C is the most reliable solution based on the given answers.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 832,
+            "completion_tokens": 1797
+        },
+        "time_elapsed": 19.22928547859192
+    },
+    {
+        "question": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under:",
+        "realidx": "73818dbb-2bd3-4c46-a06a-b18b6ddb5450",
+        "options": {
+            "A": "4.6",
+            "B": "4.6",
+            "C": "4.61",
+            "D": "4.62"
+        },
+        "answer_idx": "D",
+        "answer": "4.62",
+        "solutions": [
+            "D",
+            "C",
+            "D",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are as follows:\n\n- Solution 1: D\n- Solution 2: C\n- Solution 3: D\n- Solution 4: C\n- Solution 5: C\n\nNow, let's count the frequency of each option:\n\n- Option C appears in Solution 2, Solution 4, and Solution 5, totaling 3 occurrences.\n- Option D appears in Solution 1 and Solution 3, totaling 2 occurrences.\n\nOption C is the most frequently occurring answer across the solutions. Therefore, based on consistency, the most reliable solution is Option C.\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 898,
+            "completion_tokens": 2270
+        },
+        "time_elapsed": 23.461848497390747
+    },
+    {
+        "question": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):",
+        "realidx": "74d6497b-16bd-44f8-bba0-a9a139482e77",
+        "options": {
+            "A": "NREM sleep",
+            "B": "REM sleep",
+            "C": "Wakefulness",
+            "D": "Quiet wakefulness"
+        },
+        "answer_idx": "C",
+        "answer": "Wakefulness",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 904,
+            "completion_tokens": 2349
+        },
+        "time_elapsed": 24.27165937423706
+    },
+    {
+        "question": "Fluoride pit and fissure sealants belong to which\ngeneration?",
+        "realidx": "75394ad7-5dde-4b6b-8cec-7365972b5dd6",
+        "options": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "answer_idx": "D",
+        "answer": "IV",
+        "solutions": [
+            "B",
+            "C",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are as follows:\n\n- Solution 1: B\n- Solution 2: C\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nBy counting the occurrences of each option, we find:\n\n- Option B appears in Solutions 1, 3, 4, and 5, totaling 4 times.\n- Option C appears in Solution 2, totaling 1 time.\n\nOption B is the most frequently occurring answer across the solutions. Therefore, based on consistency, the most reliable solution is Option B.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 789,
+            "completion_tokens": 1418
+        },
+        "time_elapsed": 16.03359055519104
+    },
+    {
+        "question": "The current bar clasp design used is:",
+        "realidx": "7751b7ed-6aa4-4b9a-a03c-bb991a2936db",
+        "options": {
+            "A": "Mesio-occlusal rest",
+            "B": "Disto-occlusal rest",
+            "C": "Mesial or distal depending on the situation",
+            "D": "Choice of the dentist"
+        },
+        "answer_idx": "A",
+        "answer": "Mesio-occlusal rest",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 880,
+            "completion_tokens": 2092
+        },
+        "time_elapsed": 21.683785915374756
+    },
+    {
+        "question": "In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:",
+        "realidx": "790947ee-b119-4f1f-ac07-8f0c5a701010",
+        "options": {
+            "A": "Normal lowering of bilirubin takes time",
+            "B": "Anastomotic stricture",
+            "C": "Delta bilirubin",
+            "D": "Mistake in lab technique"
+        },
+        "answer_idx": "C",
+        "answer": "Delta bilirubin",
+        "solutions": [
+            "A",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question involves a child who underwent surgery for a biliary stricture with hepatojejunal anastomosis. Postoperatively, the bilirubin level decreased from 12 mg/dL to 6 mg/dL over two weeks. We need to determine the reason for this change.\n\nLet's evaluate the options:\n\n(A) Normal lowering of bilirubin takes time: While bilirubin levels can decrease gradually post-surgery, the significant drop from 12 mg/dL to 6 mg/dL suggests that the bilirubin is indeed lowering, but the question is about the specific reason for the current level.\n\n(B) Anastomotic stricture: This would likely cause an increase or persistence in bilirubin levels due to obstruction, not a decrease.\n\n(C) Delta bilirubin: Delta bilirubin is a form of bilirubin that is bound to albumin and has a longer half-life. After surgical intervention, the conjugated bilirubin levels may decrease, but delta bilirubin can persist, leading to a slower overall decrease in total bilirubin levels.\n\n(D) Mistake in lab technique: This is possible but less likely given the context and the consistent decrease in bilirubin levels.\n\nThe most frequent solution across the provided answers is \"C,\" which suggests delta bilirubin as the reason for the slower decrease in bilirubin levels. This is consistent with the understanding that delta bilirubin can persist in the bloodstream even after the resolution of the underlying cause of hyperbilirubinemia.\n\nTherefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 1126,
+            "completion_tokens": 2566
+        },
+        "time_elapsed": 29.76185655593872
+    },
+    {
+        "question": "Centric holding cusp is?",
+        "realidx": "7c79a7f1-20d7-4205-a05a-f974ecc2186c",
+        "options": {
+            "A": "Mesiobuccal cusp of maxillary 1st molar",
+            "B": "Mesiolingual cusp of mandibular first molar",
+            "C": "Distolingual cusp of mandibular 1st molar",
+            "D": "Mesiopalatal cusp of maxillary 1st molar"
+        },
+        "answer_idx": "D",
+        "answer": "Mesiopalatal cusp of maxillary 1st molar",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 1012,
+            "completion_tokens": 2034
+        },
+        "time_elapsed": 25.91800332069397
+    },
+    {
+        "question": "An absolute indication for LSCS in case of a Heart disease is:",
+        "realidx": "7ce281ed-c512-4456-a9f7-87b7620d628d",
+        "options": {
+            "A": "Co-arctation of Aorta",
+            "B": "Eisenmenger syndrome",
+            "C": "Ebsteins anomaly",
+            "D": "Pulmonary stenosis"
+        },
+        "answer_idx": "A",
+        "answer": "Co-arctation of Aorta",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for an absolute indication for LSCS (Lower Segment Cesarean Section) in the case of heart disease. The options provided are various heart conditions. \n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers across the multiple solutions provided. \n\n- Solution 1 suggests option B.\n- Solution 2 suggests option B.\n- Solution 3 suggests option B.\n- Solution 4 suggests option B.\n- Solution 5 suggests option B.\n\nAll solutions consistently indicate option B as the answer. \n\nEisenmenger syndrome is a condition where there is a reversal of a left-to-right shunt due to pulmonary hypertension, leading to cyanosis. It is a serious condition that poses significant risks during pregnancy, often necessitating delivery by cesarean section to avoid the stress of labor, which can exacerbate the condition.\n\nGiven the consistency across all solutions, option B is the most reliable answer.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 874,
+            "completion_tokens": 1872
+        },
+        "time_elapsed": 20.38154125213623
+    },
+    {
+        "question": "Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?",
+        "realidx": "80ca7074-85db-4ead-9b69-23c32b811d94",
+        "options": {
+            "A": "Horizontal root fracture",
+            "B": "Root caries",
+            "C": "Widening of periodontal ligament space",
+            "D": "Periapical-periostitis"
+        },
+        "answer_idx": "D",
+        "answer": "Periapical-periostitis",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the \"halo effect\" surrounding the root of a tooth on an IOPA X-Ray. The options provided are:\n\n(A) Horizontal root fracture\n(B) Root caries\n(C) Widening of periodontal ligament space\n(D) Periapical-periostitis\n\nThe solutions provided all consistently identify option (D) as the correct answer. This consistency across multiple solutions suggests that option (D) is the most reliable answer.\n\nThe \"halo effect\" on an X-ray typically refers to a radiolucent area that can be seen around the apex of a tooth, often associated with periapical pathology. Periapical-periostitis, which is inflammation of the periosteum at the apex of the tooth, can cause such a radiolucent appearance on an X-ray, resembling a halo.\n\nTherefore, based on the consistent solutions provided, the most reliable answer is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 1729
+        },
+        "time_elapsed": 17.83311629295349
+    },
+    {
+        "question": "Concentric teeth bite mark on forearm, what to do next?",
+        "realidx": "81a24a92-4459-4999-9c49-6ee91a6182a3",
+        "options": {
+            "A": "2 swab technique for saliva collection",
+            "B": "Keep scale for measuring below the mark and take photo in the plane of bite",
+            "C": "Complete description of injury as seen",
+            "D": "Prepare cast using vinyl polysiloxane"
+        },
+        "answer_idx": "C",
+        "answer": "Complete description of injury as seen",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks what to do next when encountering a concentric teeth bite mark on the forearm. The options provided include techniques for evidence collection and documentation.\n\nLet's evaluate the options:\n\n(A) 2 swab technique for saliva collection: This option is relevant for collecting DNA evidence from saliva, which can be present in bite marks. However, it is not the immediate next step in documenting the bite mark.\n\n(B) Keep scale for measuring below the mark and take photo in the plane of bite: This option involves documenting the bite mark with a photograph, which is a crucial step in forensic evidence collection. It ensures that the bite mark is accurately recorded with a scale for reference, which is essential for later analysis.\n\n(C) Complete description of injury as seen: This option involves describing the injury, which is important but typically follows the initial documentation with photographs.\n\n(D) Prepare cast using vinyl polysiloxane: This option involves creating a physical cast of the bite mark, which is useful for detailed analysis but is not the immediate next step.\n\nThe solutions provided all consistently choose option B, which involves photographing the bite mark with a scale. This is a logical first step in documenting the evidence, as it provides a visual record that can be used for further analysis and comparison.\n\nTherefore, the most consistent and reliable solution across all provided solutions is option B. This consistency indicates that photographing the bite mark with a scale is the immediate next step in the process.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 982,
+            "completion_tokens": 1859
+        },
+        "time_elapsed": 19.67903447151184
+    },
+    {
+        "question": "Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?",
+        "realidx": "845fbff7-6332-49ce-8ecb-d62616e2ae9a",
+        "options": {
+            "A": "Optic disk",
+            "B": "Optic chiasma",
+            "C": "Lateral geniculate body",
+            "D": "Occipital lobe"
+        },
+        "answer_idx": "C",
+        "answer": "Lateral geniculate body",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the location of a lesion that causes a keyhole-shaped visual field defect. The options provided are different parts of the visual pathway: the optic disk, optic chiasma, lateral geniculate body, and occipital lobe.\n\nA keyhole-shaped visual field defect is typically associated with lesions in the occipital lobe. This is because the occipital lobe is responsible for processing visual information, and specific types of lesions or damage in this area can lead to unique visual field defects, including the keyhole shape.\n\nUpon reviewing the solutions provided, all solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify the occipital lobe (Option D) as the correct answer. This consistency across multiple solutions indicates a strong consensus that the occipital lobe is indeed the region associated with a keyhole-shaped visual field defect.\n\nTherefore, the most reliable solution based on the consistent answers is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 1741
+        },
+        "time_elapsed": 18.577131986618042
+    },
+    {
+        "question": "In a patient with competent lips together at rest, the lip\nline is opposite the tips of the upper incisors. The lip line is then described as",
+        "realidx": "8b9a0e04-4281-418a-aa94-7414a325732f",
+        "options": {
+            "A": "Average",
+            "B": "High",
+            "C": "Incomplete",
+            "D": "Low"
+        },
+        "answer_idx": "D",
+        "answer": "Low",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "The question is asking about the position of the lip line in relation to the tips of the upper incisors when the lips are competent and together at rest. The options provided are:\n\n(A) Average\n(B) High\n(C) Incomplete\n(D) Low\n\nThe solutions generated are:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: D\nSolution 5: A\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the solutions. \n\n- Solution 1, 2, 3, and 5 all suggest option A.\n- Solution 4 suggests option D.\n\nOption A appears four times, while option D appears only once. Therefore, option A is the most consistent solution across the generated answers.\n\nThe lip line opposite the tips of the upper incisors is typically considered an average position, which aligns with option A.\n\nThus, the most consistent and reliable solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 898,
+            "completion_tokens": 1860
+        },
+        "time_elapsed": 19.103374004364014
+    },
+    {
+        "question": "Tonsils developed from:",
+        "realidx": "8ba2ca7c-9ae4-4771-9e9c-0e44250ca6b5",
+        "options": {
+            "A": "Ventral part of 3rd pouch.",
+            "B": "Ventral part of 2nd pouch.",
+            "C": "Dorsal part of 2nd pouch.",
+            "D": "Ventral part of 3rd pouch."
+        },
+        "answer_idx": "B",
+        "answer": "Ventral part of 2nd pouch.",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the embryological origin of the tonsils. The options provided are related to the pharyngeal pouches, which are structures in the developing embryo that give rise to various parts of the head and neck.\n\nThe tonsils, specifically the palatine tonsils, develop from the dorsal part of the second pharyngeal pouch. This is a well-established fact in embryology.\n\nUpon reviewing the solutions provided:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nAll solutions consistently identify option C as the correct answer. This consistency across multiple solutions indicates a strong consensus that the dorsal part of the second pouch is indeed the correct embryological origin of the tonsils.\n\nTherefore, the most reliable solution based on the frequency and consistency of the answers is option C. \n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 927,
+            "completion_tokens": 1654
+        },
+        "time_elapsed": 17.73336887359619
+    },
+    {
+        "question": "First nerve fiber present in vicinity of dental papilla in",
+        "realidx": "8d8150e4-2224-4ac1-b41e-b8353a744dcc",
+        "options": {
+            "A": "Bud stage",
+            "B": "Cap stage",
+            "C": "Bell stage",
+            "D": "Advanced Bell stage"
+        },
+        "answer_idx": "A",
+        "answer": "Bud stage",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the stage of tooth development when the first nerve fibers are present in the vicinity of the dental papilla. The options provided are different stages of tooth development: Bud stage, Cap stage, Bell stage, and Advanced Bell stage.\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. All five solutions have identified the same answer, which is option C (Bell stage).\n\nThe Bell stage is a critical phase in tooth development where significant differentiation occurs, including the formation of the dental papilla and the surrounding structures. It is during this stage that nerve fibers begin to appear in the vicinity of the dental papilla, as the dental tissues are becoming more organized and vascularized.\n\nGiven the consistency across all solutions, the most frequently appearing answer is option C. This consistency suggests that option C is the most reliable solution based on the information provided.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 802,
+            "completion_tokens": 1853
+        },
+        "time_elapsed": 19.6134192943573
+    },
+    {
+        "question": "Who was associated with second amalgam war?",
+        "realidx": "951a385e-d512-4613-a822-443f1f429ab9",
+        "options": {
+            "A": "G V Black",
+            "B": "Charles bell",
+            "C": "Huggins",
+            "D": "Alfred stock"
+        },
+        "answer_idx": "D",
+        "answer": "Alfred stock",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the individual associated with the second amalgam war. The options provided are:\n\n(A) G V Black\n(B) Charles Bell\n(C) Huggins\n(D) Alfred Stock\n\nThe solutions generated all consistently identify option (C) as the answer. This consistency across all solutions suggests that option (C) is the most reliable answer. \n\nThe second amalgam war refers to a period of controversy regarding the use of dental amalgam, particularly concerning its safety due to mercury content. Alfred Stock (option D) is known for his work on mercury toxicity, but the solutions consistently point to Huggins (option C) as the answer. Huggins is known for his stance against dental amalgam, which aligns with the context of the second amalgam war.\n\nTherefore, based on the consistent identification across all solutions, the most reliable answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 1800
+        },
+        "time_elapsed": 19.58551263809204
+    },
+    {
+        "question": "Which of these is not a theory of TMJ ankylosis?",
+        "realidx": "97028381-fe2a-4c81-9f67-b3125061d7ae",
+        "options": {
+            "A": "Calcification in the soft tissues around the joint space",
+            "B": "Synovial fluid attracting calcium ions",
+            "C": "Lateral displacement of fracture condyle with fusion  with zygomatic bone",
+            "D": "Condylar burst"
+        },
+        "answer_idx": "B",
+        "answer": "Synovial fluid attracting calcium ions",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which option is not a theory of TMJ ankylosis. TMJ ankylosis refers to the fusion of the temporomandibular joint, which can result from various pathological processes. The options provided are:\n\n(A) Calcification in the soft tissues around the joint space\n(B) Synovial fluid attracting calcium ions\n(C) Lateral displacement of fracture condyle with fusion with zygomatic bone\n(D) Condylar burst\n\nTo determine the correct answer, we need to identify which option does not align with known theories or mechanisms of TMJ ankylosis. \n\n- Option (A) suggests calcification in the soft tissues, which can contribute to joint fusion.\n- Option (B) involves synovial fluid attracting calcium ions, potentially leading to calcification and ankylosis.\n- Option (C) describes a mechanical displacement and fusion, which can be a plausible mechanism for ankylosis.\n- Option (D) \"Condylar burst\" does not fit the typical mechanisms of TMJ ankylosis, as it suggests a fracture or breakage rather than a process leading to fusion.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify option (D) as the answer. This consistency indicates that \"Condylar burst\" is not recognized as a theory of TMJ ankylosis.\n\nTherefore, the most frequently and consistently identified answer is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 976,
+            "completion_tokens": 1730
+        },
+        "time_elapsed": 20.549381017684937
+    },
+    {
+        "question": "Which one of the following is a muscle splitting incision?",
+        "realidx": "9a3940ff-8c7a-492c-86d4-259c47cef675",
+        "options": {
+            "A": "Kocher's incision",
+            "B": "Rutherford-Morrison incision",
+            "C": "Pfannenstiel incision",
+            "D": "Lanz incision"
+        },
+        "answer_idx": "D",
+        "answer": "Lanz incision",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: D\n- Solution 5: D\n\nCounting the frequency of each option:\n\n- Option B appears in Solutions 1, 2, and 3, totaling 3 occurrences.\n- Option D appears in Solutions 4 and 5, totaling 2 occurrences.\n\nOption B is the most frequently chosen answer across the solutions. Therefore, the most consistent solution is option B.\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 838,
+            "completion_tokens": 1797
+        },
+        "time_elapsed": 26.025124073028564
+    },
+    {
+        "question": "In Mount and Hume classification, what will be the site size of the following lesion?",
+        "realidx": "a4260f2f-ca39-4778-90a9-87064c39a11c",
+        "options": {
+            "A": "2.1",
+            "B": "2.2",
+            "C": "3.1",
+            "D": "3.2"
+        },
+        "answer_idx": "C",
+        "answer": "3.1",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 880,
+            "completion_tokens": 1949
+        },
+        "time_elapsed": 19.71747899055481
+    },
+    {
+        "question": "A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes",
+        "realidx": "a79f09ab-a292-4a46-ac30-dbf9daadc72a",
+        "options": {
+            "A": "Glucose 6 phosphatase",
+            "B": "Glycogen phosphorylase",
+            "C": "Phosphoglucomutase",
+            "D": "PEP carboxylase"
+        },
+        "answer_idx": "D",
+        "answer": "PEP carboxylase",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question involves a young man on a high protein diet who develops hypoglycemia after 3 days. The task is to identify which enzyme's inhibition is responsible for the hypoglycemia.\n\nTo solve this, we need to understand the role of each enzyme in glucose metabolism:\n\n1. **Glucose 6 phosphatase**: This enzyme is crucial in the final step of gluconeogenesis and glycogenolysis, converting glucose-6-phosphate into free glucose, which can then be released into the bloodstream. Inhibition of this enzyme would prevent the release of glucose, leading to hypoglycemia.\n\n2. **Glycogen phosphorylase**: This enzyme is involved in glycogen breakdown, converting glycogen to glucose-1-phosphate. Inhibition would impair glycogenolysis, potentially leading to hypoglycemia, but not directly related to a high protein diet.\n\n3. **Phosphoglucomutase**: This enzyme converts glucose-1-phosphate to glucose-6-phosphate, a step in glycogenolysis. Its inhibition would affect glycogen breakdown but is less directly related to hypoglycemia from a high protein diet.\n\n4. **PEP carboxylase**: This enzyme is involved in gluconeogenesis, converting oxaloacetate to phosphoenolpyruvate. While its inhibition could affect gluconeogenesis, it is not directly linked to the immediate cause of hypoglycemia in the context of a high protein diet.\n\nGiven the context of a high protein diet, gluconeogenesis is crucial for maintaining blood glucose levels. Inhibition of **Glucose 6 phosphatase** would directly prevent the release of glucose into the bloodstream, leading to hypoglycemia.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (A) as the correct answer. This consistency suggests that the inhibition of Glucose 6 phosphatase is the most reliable explanation for the hypoglycemia observed.\n\nTherefore, the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 1060,
+            "completion_tokens": 2635
+        },
+        "time_elapsed": 31.422813415527344
+    },
+    {
+        "question": "Lenolin is added in ZOE paste to:",
+        "realidx": "a9dccfec-0882-4012-aa1b-e74bb18bf47e",
+        "options": {
+            "A": "Decrease flow",
+            "B": "Increase flow",
+            "C": "Accelerate reaction",
+            "D": "Decrease irritation due to eugenol"
+        },
+        "answer_idx": "B",
+        "answer": "Increase flow",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the purpose of adding lenolin to ZOE (Zinc Oxide Eugenol) paste. The options provided are related to the properties and effects of the paste. \n\nZOE paste is commonly used in dentistry for its soothing properties and as a temporary filling material. Eugenol, a component of ZOE paste, can cause irritation to the oral tissues. Lenolin is often added to ZOE paste to mitigate this irritation, making the paste more comfortable for patients.\n\nUpon reviewing the solutions provided, all five solutions consistently identify option (D) as the correct answer. This consistency across multiple solutions suggests that option (D) is the most reliable answer.\n\nTherefore, the most frequently appearing and consistent solution is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 832,
+            "completion_tokens": 1730
+        },
+        "time_elapsed": 17.7863347530365
+    },
+    {
+        "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is:",
+        "realidx": "ac6be140-880b-40c6-9855-01f30c8dd7b2",
+        "options": {
+            "A": "Blood vessel borne",
+            "B": "Derided cells",
+            "C": "Dentin",
+            "D": "From the calcium hydroxide"
+        },
+        "answer_idx": "A",
+        "answer": "Blood vessel borne",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the source of calcium ions in a calcific bridge formed after a calcium hydroxide pulpotomy in a tooth. The options provided are:\n\n(A) Blood vessel borne\n(B) Derided cells\n(C) Dentin\n(D) From the calcium hydroxide\n\nCalcium hydroxide is commonly used in dental procedures for its ability to stimulate the formation of a calcific bridge, which is a barrier of hard tissue. The calcium ions necessary for this process are primarily derived from the calcium hydroxide itself. When calcium hydroxide is applied to the pulp tissue, it dissociates into calcium and hydroxide ions. The calcium ions then contribute to the formation of the calcific bridge.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (D) as the source of calcium ions. This consistency across multiple solutions indicates that the most reliable answer is indeed option (D).\n\nTherefore, the most frequently appearing and consistent solution is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 928,
+            "completion_tokens": 2032
+        },
+        "time_elapsed": 22.173471450805664
+    },
+    {
+        "question": "Easiest 3rd molar surgical extraction is:",
+        "realidx": "b304b0be-c800-43e4-be04-739bd0cc47fd",
+        "options": {
+            "A": "Mesioangular",
+            "B": "Horizontal",
+            "C": "Vertical",
+            "D": "Distoangular"
+        },
+        "answer_idx": "A",
+        "answer": "Mesioangular",
+        "solutions": [
+            "A",
+            "C",
+            "C",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Let's evaluate the frequency of each option:\n\n- Solution 1: A\n- Solution 2: C\n- Solution 3: C\n- Solution 4: A\n- Solution 5: C\n\nCounting the occurrences of each option:\n- Option A appears in Solution 1 and Solution 4, totaling 2 occurrences.\n- Option C appears in Solution 2, Solution 3, and Solution 5, totaling 3 occurrences.\n\nOption C is the most frequently appearing answer across the solutions. Therefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 796,
+            "completion_tokens": 1680
+        },
+        "time_elapsed": 18.226128578186035
+    },
+    {
+        "question": "Which marker shows holocrine gland?",
+        "realidx": "b3163789-82b3-4054-aabe-3a2b90aa7a98",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "answer_idx": "A",
+        "answer": "A",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 748,
+            "completion_tokens": 1927
+        },
+        "time_elapsed": 19.667790412902832
+    },
+    {
+        "question": "Most effective method of assessing breathing is by measuring:",
+        "realidx": "b4c3fa06-01fe-4c3c-8521-25299a221d43",
+        "options": {
+            "A": "Tidal volume",
+            "B": "Respiratory rate",
+            "C": "Alveolar ventilation",
+            "D": "FEV 1"
+        },
+        "answer_idx": "D",
+        "answer": "FEV 1",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the most effective method of assessing breathing. The options provided are:\n\n(A) Tidal volume\n(B) Respiratory rate\n(C) Alveolar ventilation\n(D) FEV 1\n\nTo determine the most effective method, let's briefly consider each option:\n\n- **Tidal volume** is the amount of air inhaled or exhaled during a normal breath. While it provides information about the volume of air moved, it doesn't fully assess the effectiveness of breathing in terms of gas exchange.\n\n- **Respiratory rate** is the number of breaths taken per minute. It is a basic measure of breathing but doesn't account for the quality or effectiveness of each breath.\n\n- **Alveolar ventilation** refers to the volume of air that reaches the alveoli and is available for gas exchange per minute. It is a more comprehensive measure of effective breathing because it considers both the rate and depth of breathing, as well as the efficiency of gas exchange.\n\n- **FEV 1** (Forced Expiratory Volume in 1 second) is a measure used in spirometry to assess lung function, particularly in diagnosing obstructive airway diseases. It is not a direct measure of breathing effectiveness in terms of ventilation.\n\nGiven these considerations, alveolar ventilation (Option C) is the most effective method for assessing breathing because it directly relates to the efficiency of gas exchange in the lungs.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify Option C as the answer. This consistency indicates that alveolar ventilation is indeed the most reliable solution for assessing breathing effectiveness.\n\nTherefore, the most frequently appearing and consistent answer is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 820,
+            "completion_tokens": 1888
+        },
+        "time_elapsed": 22.61674404144287
+    },
+    {
+        "question": "Hammock ligament is present:",
+        "realidx": "bbe12324-c347-478e-b5bb-9a39e8969571",
+        "options": {
+            "A": "Between temporal and sphenoid bone",
+            "B": "Between hamular notch and mandible",
+            "C": "In apical area of a tooth",
+            "D": "As a part of deep cervical fascia"
+        },
+        "answer_idx": "C",
+        "answer": "In apical area of a tooth",
+        "solutions": [
+            "C",
+            "C",
+            "D",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the location of the hammock ligament. We have five solutions provided, and we need to determine which answer appears most frequently to identify the most reliable solution.\n\nLet's evaluate the solutions:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: D\n- Solution 4: C\n- Solution 5: C\n\nFrom the solutions provided, option C appears four times, while option D appears only once. Therefore, option C is the most consistent answer across the solutions.\n\nThe hammock ligament is indeed associated with the apical area of a tooth, which corresponds to option C.\n\nThus, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 879,
+            "completion_tokens": 2133
+        },
+        "time_elapsed": 23.252830505371094
+    },
+    {
+        "question": "When a dentist says that \" I cannot fix your teeth if you do not open your mouth wide:\" He is employing:",
+        "realidx": "c68dea51-2e4e-4276-89b2-30b2337be400",
+        "options": {
+            "A": "Problem ownership.",
+            "B": "Voice control",
+            "C": "Tolerance.",
+            "D": "Flexibility."
+        },
+        "answer_idx": "A",
+        "answer": "Problem ownership.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 880,
+            "completion_tokens": 1522
+        },
+        "time_elapsed": 16.976486921310425
+    },
+    {
+        "question": "What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?",
+        "realidx": "cb8ad6b2-009b-443e-9237-85b46e3a87a5",
+        "options": {
+            "A": "Dermatome",
+            "B": "Silver's knife",
+            "C": "Catlin amputating knife",
+            "D": "Humby knife"
+        },
+        "answer_idx": "D",
+        "answer": "Humby knife",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks for the name of the instrument used for harvesting grafts in split thickness skin graft procedures. The options provided are:\n\n(A) Dermatome\n(B) Silver's knife\n(C) Catlin amputating knife\n(D) Humby knife\n\nThe solutions generated are:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently identify option (A) Dermatome as the correct answer. A dermatome is indeed the instrument commonly used for harvesting split thickness skin grafts. It is specifically designed for this purpose, allowing precise and controlled removal of skin layers.\n\nGiven the consistency across all solutions, the most reliable answer is option (A) Dermatome.\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 1874
+        },
+        "time_elapsed": 19.097575664520264
+    },
+    {
+        "question": "Most common tumor of lacrimal gland:",
+        "realidx": "cc0d09f8-564d-4fe5-8b22-4b7d3e4ed586",
+        "options": {
+            "A": "Trans-scaphoid perilunate fracture",
+            "B": "Scaphoid fracture",
+            "C": "Distal radius fracture",
+            "D": "Hamate fracture"
+        },
+        "answer_idx": "D",
+        "answer": "Hamate fracture",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks for the most common tumor of the lacrimal gland, but the options provided are types of fractures, which are unrelated to tumors or the lacrimal gland. Therefore, none of the options directly answer the question. However, the solutions provided all consistently choose option A, \"Trans-scaphoid perilunate fracture,\" despite the mismatch between the question and the options.\n\nGiven the task is to identify the most frequently chosen answer among the solutions, the consistent choice across all solutions is option A. Therefore, based on the consistency of the solutions, the answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 844,
+            "completion_tokens": 1785
+        },
+        "time_elapsed": 20.504801988601685
+    },
+    {
+        "question": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion",
+        "realidx": "d321d320-c06f-4d18-9aa2-dae718851dfd",
+        "options": {
+            "A": "20 mins",
+            "B": "45 mins",
+            "C": "60 mins",
+            "D": "2 hours"
+        },
+        "answer_idx": "C",
+        "answer": "60 mins",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 898,
+            "completion_tokens": 1745
+        },
+        "time_elapsed": 20.66022539138794
+    },
+    {
+        "question": "Classify the class of recession:",
+        "realidx": "d4e13d7b-8ca9-447e-b93d-e8b86afd017a",
+        "options": {
+            "A": "Class 1",
+            "B": "Class 2",
+            "C": "Class 3",
+            "D": "Class 4"
+        },
+        "answer_idx": "C",
+        "answer": "Class 3",
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Let's evaluate the frequency of each option:\n\n- Solution 1: B\n- Solution 2: A\n- Solution 3: A\n- Solution 4: C\n- Solution 5: B\n\nCounting the occurrences of each option:\n- Option A appears in Solution 2 and Solution 3, totaling 2 occurrences.\n- Option B appears in Solution 1 and Solution 5, totaling 2 occurrences.\n- Option C appears in Solution 4, totaling 1 occurrence.\n- Option D does not appear in any solution.\n\nBoth Option A and Option B have the highest frequency, each appearing twice. Since there is a tie between A and B, we need to choose one of them. In such cases, without additional context or criteria to differentiate, we can select either option. However, given the task is to identify the most consistent solution, we can choose Option B as it appears in the first and last solutions, suggesting a possible preference or pattern.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 2027
+        },
+        "time_elapsed": 21.12699866294861
+    },
+    {
+        "question": "Term \"Clean Tooth Never Decays\" given by",
+        "realidx": "d8458f0b-fe46-465b-9f9d-85ff2379f6e1",
+        "options": {
+            "A": "Perrie Fauchard",
+            "B": "Leon J Williams",
+            "C": "Dean",
+            "D": "MJ Rihanna"
+        },
+        "answer_idx": "B",
+        "answer": "Leon J Williams",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the person associated with the term \"Clean Tooth Never Decays.\" The options provided are Perrie Fauchard, Leon J Williams, Dean, and MJ Rihanna. \n\nUpon evaluating the solutions, all five solutions consistently identify option B, Leon J Williams, as the correct answer. This consistency across all solutions suggests that Leon J Williams is the most reliable answer to the question.\n\nTherefore, based on the frequency and consistency of the solutions provided, the answer is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 808,
+            "completion_tokens": 1342
+        },
+        "time_elapsed": 16.608906030654907
+    },
+    {
+        "question": "Which primary tooth resemble premolar",
+        "realidx": "dd210467-68c5-4566-9cad-34e5ffa22bc9",
+        "options": {
+            "A": "Upper 1st molar",
+            "B": "Lower 1st molar",
+            "C": "Upper 2nd molar",
+            "D": "Lower 2nd molar"
+        },
+        "answer_idx": "A",
+        "answer": "Upper 1st molar",
+        "solutions": [
+            "D",
+            "B",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Let's evaluate the frequency of each option:\n\n- Solution 1: D\n- Solution 2: B\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nCounting the occurrences of each option:\n- Option A appears 3 times.\n- Option B appears 1 time.\n- Option D appears 1 time.\n\nOption A is the most frequently chosen answer, appearing in Solutions 3, 4, and 5. Therefore, based on consistency, the most reliable solution is Option A.\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 862,
+            "completion_tokens": 2055
+        },
+        "time_elapsed": 20.784987688064575
+    },
+    {
+        "question": "Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?",
+        "realidx": "ddb3f2a6-295a-4d4b-8478-5c15049b62a8",
+        "options": {
+            "A": "High level expe group of universal health program for india",
+            "B": "Central bureau of health investigation",
+            "C": "Srivastava committee",
+            "D": "Sundar committee"
+        },
+        "answer_idx": "A",
+        "answer": "High level expe group of universal health program for india",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 946,
+            "completion_tokens": 1508
+        },
+        "time_elapsed": 17.13719344139099
+    },
+    {
+        "question": "In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:",
+        "realidx": "de4374af-70ba-41e4-b46a-5159e73a690e",
+        "options": {
+            "A": "50%",
+            "B": "70%",
+            "C": "80%",
+            "D": "100%"
+        },
+        "answer_idx": "D",
+        "answer": "100%",
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "C",
+            "D"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 874,
+            "completion_tokens": 2064
+        },
+        "time_elapsed": 27.265828132629395
+    },
+    {
+        "question": "A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?",
+        "realidx": "df8ae3bc-aef6-48d0-8033-d715cfe36b3d",
+        "options": {
+            "A": "Indirect immunofluorescence",
+            "B": "-PCR for virus",
+            "C": "Histopathological examination for Negri bodies",
+            "D": "Antibodies against Rabies virus"
+        },
+        "answer_idx": "B",
+        "answer": "-PCR for virus",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "A"
+        ],
+        "ensemble_response": "The question involves diagnosing rabies in a patient who has presented with symptoms consistent with the disease. The corneal impression is taken for diagnostic purposes. The options provided are various diagnostic tests that can be performed on the corneal impression.\n\nLet's evaluate the options:\n\n(A) Indirect immunofluorescence: This method can be used to detect viral antigens, but it is not the most specific or sensitive method for rabies diagnosis.\n\n(B) PCR for virus: Polymerase Chain Reaction (PCR) is a highly sensitive and specific method for detecting viral RNA or DNA. It is considered one of the most accurate methods for diagnosing rabies, especially in samples like corneal impressions.\n\n(C) Histopathological examination for Negri bodies: This method involves looking for Negri bodies in brain tissue, which is not applicable to corneal impressions.\n\n(D) Antibodies against Rabies virus: Detecting antibodies is not the most direct method for diagnosing active rabies infection, especially in corneal impressions.\n\nThe solutions provided are:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: A\n\nThe majority of solutions (1, 2, 3, and 4) suggest option B, which is PCR for virus. This indicates a strong consensus that PCR is the most accurate test for diagnosing rabies from a corneal impression.\n\nTherefore, the most consistent solution across the provided answers is option B.",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 1102,
+            "completion_tokens": 1916
+        },
+        "time_elapsed": 26.537945985794067
+    },
+    {
+        "question": "plate endings are features of",
+        "realidx": "dfdb6250-ea23-4154-b381-ff16ea720fb8",
+        "options": {
+            "A": "Nuclear chain fibres",
+            "B": "Nuclear bag fibres",
+            "C": "Golgi tendon",
+            "D": "Extra fusal"
+        },
+        "answer_idx": "B",
+        "answer": "Nuclear bag fibres",
+        "solutions": [
+            "B",
+            "B",
+            "D",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. The solutions are:\n\n- Solution 1: B\n- Solution 2: B\n- Solution 3: D\n- Solution 4: B\n- Solution 5: B\n\nCounting the frequency of each option:\n\n- Option A: 0 occurrences\n- Option B: 4 occurrences\n- Option C: 0 occurrences\n- Option D: 1 occurrence\n\nOption B appears most frequently, with a total of 4 occurrences. This consistency suggests that Option B is the most reliable solution based on the given solutions.\n\nTherefore, the answer that appears most frequently is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 784,
+            "completion_tokens": 1633
+        },
+        "time_elapsed": 20.16371726989746
+    },
+    {
+        "question": "Microangiopathic hemolytic anemia",
+        "realidx": "e18f0c87-2d93-4fb1-9b7f-41ddc4ea0cae",
+        "options": {
+            "A": "TTP",
+            "B": "ITP",
+            "C": "Senile purpura",
+            "D": "CML"
+        },
+        "answer_idx": "B",
+        "answer": "ITP",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about microangiopathic hemolytic anemia, which is a condition characterized by the destruction of red blood cells due to small blood vessel abnormalities. The options provided are:\n\n(A) TTP - Thrombotic Thrombocytopenic Purpura, a condition known for microangiopathic hemolytic anemia due to small blood clots forming in the vessels.\n(B) ITP - Immune Thrombocytopenic Purpura, primarily a platelet disorder without microangiopathic hemolytic anemia.\n(C) Senile purpura - a condition related to aging skin and not associated with hemolytic anemia.\n(D) CML - Chronic Myeloid Leukemia, a type of cancer affecting white blood cells, not typically associated with microangiopathic hemolytic anemia.\n\nThe solutions provided all consistently identify option (A) as the answer. TTP is indeed the condition most commonly associated with microangiopathic hemolytic anemia among the options given. Therefore, the most reliable solution based on consistency is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 790,
+            "completion_tokens": 2304
+        },
+        "time_elapsed": 22.307388305664062
+    },
+    {
+        "question": "The necrotising pressure areas, undergoing bone resorption and endosteal bone formation",
+        "realidx": "e4610f09-b587-47c8-99ff-c8967f481322",
+        "options": {
+            "A": "Juvenile periodontitis",
+            "B": "Occlusal trauma",
+            "C": "Chronic suppurative periodontitis",
+            "D": "ANUG"
+        },
+        "answer_idx": "B",
+        "answer": "Occlusal trauma",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 892,
+            "completion_tokens": 1693
+        },
+        "time_elapsed": 23.061470985412598
+    },
+    {
+        "question": "A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?",
+        "realidx": "e59188f6-856a-4300-a2fa-176a8a1b030a",
+        "options": {
+            "A": "Serum ACE levels",
+            "B": "Quantiferon-Gold TB test",
+            "C": "Elevated homocysteine levels",
+            "D": "Serum creatinine levels"
+        },
+        "answer_idx": "D",
+        "answer": "Serum creatinine levels",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a 55-year-old diabetic patient experiencing transient obscuration in vision followed by sudden loss of vision. The options provided are various tests that could potentially evaluate the symptoms.\n\nLet's analyze the options:\n\n(A) Serum ACE levels: This test is typically used in the evaluation of sarcoidosis, which is not directly related to the symptoms described.\n\n(B) Quantiferon-Gold TB test: This test is used to detect tuberculosis infection, which is unlikely to be related to the sudden loss of vision in this context.\n\n(C) Elevated homocysteine levels: Elevated homocysteine levels are associated with an increased risk of vascular events, including retinal vascular occlusions, which could explain the sudden loss of vision in a diabetic patient.\n\n(D) Serum creatinine levels: This test evaluates kidney function, which is important in diabetes management but not directly related to the acute vision changes described.\n\nGiven the patient's symptoms and the options provided, elevated homocysteine levels (Option C) are the most relevant test to evaluate the risk of vascular events that could lead to sudden vision loss.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify Option C as the best test to evaluate the symptoms. This consistency across multiple solutions indicates that Option C is the most reliable answer.\n\nTherefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 1048,
+            "completion_tokens": 2312
+        },
+        "time_elapsed": 24.039183616638184
+    },
+    {
+        "question": "Increase in height of mandible with increase in interdental spaces in elderly man",
+        "realidx": "e726a65e-0874-481f-b20e-717b951a7b73",
+        "options": {
+            "A": "Hyperpituitarism",
+            "B": "Hyperthyroidism",
+            "C": "Hypopituitarism",
+            "D": "Hyperparathyroidism"
+        },
+        "answer_idx": "A",
+        "answer": "Hyperpituitarism",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes an elderly man experiencing an increase in the height of the mandible and an increase in interdental spaces. These symptoms are characteristic of acromegaly, a condition often caused by hyperpituitarism, specifically an excess of growth hormone usually due to a pituitary adenoma. Acromegaly leads to enlargement of bones and soft tissues, including changes in facial features such as the mandible and spacing of teeth.\n\nThe options provided are:\n(A) Hyperpituitarism\n(B) Hyperthyroidism\n(C) Hypopituitarism\n(D) Hyperparathyroidism\n\nThe most relevant option for the described symptoms is (A) Hyperpituitarism, as it aligns with the typical presentation of acromegaly.\n\nUpon reviewing the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently identify (A) Hyperpituitarism as the answer. This consistency across multiple solutions indicates that (A) is the most reliable and correct answer for the question.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 868,
+            "completion_tokens": 2013
+        },
+        "time_elapsed": 21.824896335601807
+    },
+    {
+        "question": "A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?",
+        "realidx": "e7278113-c555-4128-a8df-cbd10ca7833f",
+        "options": {
+            "A": "12.5 mg",
+            "B": "25 mg",
+            "C": "30 mg",
+            "D": "50 mg"
+        },
+        "answer_idx": "C",
+        "answer": "30 mg",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each answer across the provided solutions.\n\nThe solutions are as follows:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: B\n- Solution 5: C\n\nCounting the frequency of each answer:\n- Option C appears in Solutions 1, 2, 3, and 5, totaling 4 times.\n- Option B appears in Solution 4, totaling 1 time.\n\nOption C is the most frequently occurring answer, appearing in 4 out of the 5 solutions. Therefore, based on consistency, the most reliable solution is Option C.\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 1030,
+            "completion_tokens": 3296
+        },
+        "time_elapsed": 30.7633113861084
+    },
+    {
+        "question": "Which of the following diseases is diagnosed with the help of the flowcytometry pattern?",
+        "realidx": "e8aa61af-a6f5-49ed-a221-93765caf901f",
+        "options": {
+            "A": "Bruton disease",
+            "B": "Bare lymphocyte syndrome",
+            "C": "Hyper IgM syndrome",
+            "D": "Severe combined immunodeficiency disease"
+        },
+        "answer_idx": "C",
+        "answer": "Hyper IgM syndrome",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which disease is diagnosed with the help of the flow cytometry pattern. Flow cytometry is a technique used to analyze the physical and chemical characteristics of cells or particles. It is commonly used in immunology to assess immune cell populations and their functions.\n\nLet's evaluate the options:\n\n(A) Bruton disease: Also known as X-linked agammaglobulinemia, it is characterized by a lack of B cells. Flow cytometry can be used to assess B cell populations, but it is not the primary diagnostic tool for this disease.\n\n(B) Bare lymphocyte syndrome: This is a type of major histocompatibility complex (MHC) class II deficiency. Flow cytometry can be used to analyze MHC expression, but it is not the primary diagnostic method.\n\n(C) Hyper IgM syndrome: This is characterized by normal or elevated levels of IgM and low levels of other immunoglobulins. Flow cytometry can be used to assess T cell function, but it is not the primary diagnostic tool.\n\n(D) Severe combined immunodeficiency disease (SCID): This is characterized by a lack of functional T and B cells. Flow cytometry is a crucial tool in diagnosing SCID as it can assess the presence and function of these immune cells.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option D as the answer. Given the nature of SCID and the role of flow cytometry in diagnosing it, option D is indeed the most appropriate choice.\n\nTherefore, the most consistent solution across all provided answers is:\n\nD",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 886,
+            "completion_tokens": 2153
+        },
+        "time_elapsed": 20.96715497970581
+    },
+    {
+        "question": "Thyroglossal fistula is:",
+        "realidx": "e9c312b7-2cc1-41ec-8daa-a55d69514721",
+        "options": {
+            "A": "Lined by squamous epithelium",
+            "B": "Causes a bulge in neck",
+            "C": "Inflammatory lesion",
+            "D": "Precancerous lesion"
+        },
+        "answer_idx": "B",
+        "answer": "Causes a bulge in neck",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the characteristics of a thyroglossal fistula. Let's evaluate the options:\n\n(A) Lined by squamous epithelium: Thyroglossal duct cysts and fistulas are typically lined by respiratory epithelium or columnar epithelium, not squamous epithelium.\n\n(B) Causes a bulge in neck: A thyroglossal fistula is associated with a thyroglossal duct cyst, which can cause a midline neck swelling or bulge. This is a common presentation.\n\n(C) Inflammatory lesion: While a thyroglossal fistula can become inflamed or infected, it is not inherently an inflammatory lesion.\n\n(D) Precancerous lesion: Thyroglossal duct cysts and fistulas are not considered precancerous lesions. Malignancy is rare.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify option (B) as the correct answer. This consistency suggests that option (B) is the most reliable solution. Therefore, the answer that appears most frequently and is most consistent across the solutions is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 861,
+            "completion_tokens": 2127
+        },
+        "time_elapsed": 21.081680059432983
+    },
+    {
+        "question": "Which of the following conditions is associated with polyhy dramnios?",
+        "realidx": "ee343e97-60cc-402d-8c90-c92e8f168813",
+        "options": {
+            "A": "Posterior urethral valve",
+            "B": "Cleft palate",
+            "C": "Congenital diaphragmatic hernia",
+            "D": "Bladder exostrophy"
+        },
+        "answer_idx": "B",
+        "answer": "Cleft palate",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks which condition is associated with polyhydramnios. Polyhydramnios is a condition characterized by an excessive amount of amniotic fluid in the amniotic sac during pregnancy. It is often associated with fetal anomalies that affect swallowing or absorption of amniotic fluid.\n\nLet's evaluate the options:\n\n(A) Posterior urethral valve - This condition typically leads to oligohydramnios (reduced amniotic fluid) due to urinary tract obstruction, not polyhydramnios.\n\n(B) Cleft palate - While cleft palate can affect swallowing, it is not commonly associated with polyhydramnios.\n\n(C) Congenital diaphragmatic hernia - This condition can be associated with polyhydramnios because it can impair fetal swallowing and lung development, leading to an accumulation of amniotic fluid.\n\n(D) Bladder exostrophy - This condition is not typically associated with polyhydramnios.\n\nAll solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option (C) as the correct answer. Given the association of congenital diaphragmatic hernia with polyhydramnios, and the consistency across all solutions, option (C) is the most reliable answer.\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 886,
+            "completion_tokens": 2203
+        },
+        "time_elapsed": 28.548203945159912
+    },
+    {
+        "question": "The best finish line for anterior metal ceramic crown is",
+        "realidx": "ef09a789-e189-42dc-a0fb-70da2c5ca170",
+        "options": {
+            "A": "Chamfer with bevel",
+            "B": "Heavy chamfer",
+            "C": "Shoulder",
+            "D": "Shoulder with bevel"
+        },
+        "answer_idx": "D",
+        "answer": "Shoulder with bevel",
+        "solutions": [
+            "C",
+            "D",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer across the provided solutions. Here are the solutions:\n\n- Solution 1: C\n- Solution 2: D\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nBy counting the occurrences of each option:\n\n- Option C appears in Solutions 1, 3, 4, and 5, totaling 4 times.\n- Option D appears in Solution 2, totaling 1 time.\n\nOption C is the most frequently occurring answer across the solutions. Therefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
+        "token_usage": {
+            "prompt_tokens": 808,
+            "completion_tokens": 1929
+        },
+        "time_elapsed": 20.480303049087524
+    },
+    {
+        "question": "Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:",
+        "realidx": "f3a56182-648b-4ca9-9e60-6ef497b1b54f",
+        "options": {
+            "A": "Improper cavity preparation at gingival margin",
+            "B": "Curing from occlusal area only",
+            "C": "Addition of resin in multiple increments",
+            "D": "Curing from buccal and lingual aspect"
+        },
+        "answer_idx": "A",
+        "answer": "Improper cavity preparation at gingival margin",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the cause of sensitivity in the gingival area of a class II light-cured composite restoration after 2 months. The options provided suggest different potential reasons for this sensitivity.\n\nLet's evaluate each option:\n\n(A) Improper cavity preparation at gingival margin: This option suggests that the sensitivity is due to inadequate preparation of the cavity at the gingival margin, which could lead to issues such as microleakage or inadequate sealing, resulting in sensitivity.\n\n(B) Curing from occlusal area only: This option implies that curing the composite from the occlusal area only might lead to incomplete polymerization at the gingival margin, potentially causing sensitivity. However, this is less likely to be the primary cause compared to improper cavity preparation.\n\n(C) Addition of resin in multiple increments: This option refers to the technique of adding resin in layers, which is generally recommended to reduce polymerization shrinkage and improve adaptation. It is unlikely to cause sensitivity if done correctly.\n\n(D) Curing from buccal and lingual aspect: This option suggests curing from multiple angles, which is typically done to ensure complete polymerization. It is unlikely to cause sensitivity if performed properly.\n\nThe solutions provided all consistently identify option (A) as the answer. This consistency suggests that improper cavity preparation at the gingival margin is the most likely cause of sensitivity in this scenario. Improper preparation can lead to issues such as microleakage, inadequate sealing, or exposure of dentin, all of which can contribute to sensitivity.\n\nTherefore, based on the consistent solutions and the reasoning above, the most reliable answer is:\n\nA",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 989,
+            "completion_tokens": 2005
+        },
+        "time_elapsed": 21.104397773742676
+    },
+    {
+        "question": "A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?",
+        "realidx": "f5f3cd4b-3180-4f0e-b585-d681407b89d0",
+        "options": {
+            "A": "22-28 mm Hg",
+            "B": "20-30 mm Hg",
+            "C": "24-26 mm Hg",
+            "D": "23-27 mm Hg"
+        },
+        "answer_idx": "C",
+        "answer": "24-26 mm Hg",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "To determine the range in which 95% of the population's intra-ocular pressure (IOP) would lie, we use the concept of the normal distribution and the empirical rule. The empirical rule states that for a normal distribution:\n\n- Approximately 68% of the data falls within one standard deviation of the mean.\n- Approximately 95% of the data falls within two standard deviations of the mean.\n- Approximately 99.7% of the data falls within three standard deviations of the mean.\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard deviation (\u03c3) = 10 mm Hg\n\nTo find the range for 95% of the population, we calculate the interval that is within two standard deviations from the mean:\n\nLower limit = Mean - 2 * Standard deviation = 25 - 2 * 10 = 25 - 20 = 5 mm Hg\nUpper limit = Mean + 2 * Standard deviation = 25 + 2 * 10 = 25 + 20 = 45 mm Hg\n\nHowever, the options provided do not include this calculated range. It seems there might be a misunderstanding in the question or options, as the calculated range does not match any of the given options. \n\nDespite this discrepancy, the solutions provided by multiple sources consistently indicate option B as the answer. Solutions 1, 2, 3, and 5 all suggest option B, while only solution 4 suggests option D. Given the consistency across four out of five solutions, option B is the most frequently chosen answer.\n\nTherefore, based on the consistency of the solutions provided, the most reliable answer is:\n\nB",
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 1192,
+            "completion_tokens": 2356
+        },
+        "time_elapsed": 25.94404101371765
+    },
+    {
+        "question": "For >10 mm setback of mandible, which of these surgeries is most suitable:",
+        "realidx": "f7d9f997-d9d6-40e0-a921-49bb343f8b52",
+        "options": {
+            "A": "Sagittal split ramus osteotomy",
+            "B": "Vertical ramus osteotomy",
+            "C": "Subapical osteotomy",
+            "D": "Body osteotomy  with extraction of premolars"
+        },
+        "answer_idx": "B",
+        "answer": "Vertical ramus osteotomy",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 946,
+            "completion_tokens": 1860
+        },
+        "time_elapsed": 20.67064070701599
+    }
+]

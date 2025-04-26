@@ -25,6 +25,7 @@ def save_results(results, results_path):
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', type=str, default='medexqa')
 parser.add_argument('--dataset_dir', type=str, default='../../data/medexqa')
+parser.add_argument('--output_files_folder', type=str, default='./output')
 parser.add_argument('--split', type=str, default='test_hard')
 parser.add_argument('--model', type=str, default='deepseek-V3')
 parser.add_argument('--difficulty', type=str, default='adaptive')
@@ -38,7 +39,7 @@ test_qa, examplers = load_data(args.dataset_dir, args.split)
 agent_emoji = ['\U0001F468\u200D\u2695\uFE0F', '\U0001F468\U0001F3FB\u200D\u2695\uFE0F', '\U0001F469\U0001F3FC\u200D\u2695\uFE0F', '\U0001F469\U0001F3FB\u200D\u2695\uFE0F', '\U0001f9d1\u200D\u2695\uFE0F', '\U0001f9d1\U0001f3ff\u200D\u2695\uFE0F', '\U0001f468\U0001f3ff\u200D\u2695\uFE0F', '\U0001f468\U0001f3fd\u200D\u2695\uFE0F', '\U0001f9d1\U0001f3fd\u200D\u2695\uFE0F', '\U0001F468\U0001F3FD\u200D\u2695\uFE0F']
 random.shuffle(agent_emoji)
 
-path = os.path.join(os.getcwd(), 'output')
+path = os.path.join(os.getcwd(), args.output_files_folder)
 os.makedirs(path, exist_ok=True)
 subpath = os.path.join(path, args.dataset)
 os.makedirs(subpath, exist_ok=True)

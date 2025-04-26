@@ -10,18 +10,20 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for model in gpt-4o-mini gpt-4o; do
-    {
-        for dataset in medqa pubmedqa medmcqa medbullets mmlu mmlu-pro medexqa medxpertqa-r medxpertqa-u; do
-            mkdir -p $LOGS_DIR/$dataset 
-            for split in test_hard; do
-                echo "Running $model on $dataset $split"
-                model_filename=$(echo $model | tr '/' '_')
-                log_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.log
-                error_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.err
-                python cot_sc.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ../../output/ --num_processes 4 --num_solutions 5 > $log_file 2> $error_file
+for RUN_NUMBER in 1 2; do
+    for model in gpt-4o-mini gpt-4o; do
+        {
+            for dataset in medqa pubmedqa medmcqa medbullets mmlu mmlu-pro medexqa medxpertqa-r medxpertqa-u; do
+                mkdir -p $LOGS_DIR/run-${RUN_NUMBER}/$dataset 
+                for split in test_hard; do
+                    echo "Running $model on $dataset $split"
+                    model_filename=$(echo $model | tr '/' '_')
+                    log_file=$LOGS_DIR/run-${RUN_NUMBER}/$dataset/${model_filename}_${dataset}_${split}.log
+                    error_file=$LOGS_DIR/run-${RUN_NUMBER}/$dataset/${model_filename}_${dataset}_${split}.err
+                    python cot_sc.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ../../output/run-${RUN_NUMBER}/ --num_processes 4 --num_solutions 5 > $log_file 2> $error_file
+                done
             done
-        done
-    } &
+        } &
+    done
+    wait
 done
-wait

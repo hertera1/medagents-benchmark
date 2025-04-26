@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "realidx": 0,
+        "question": "A junior orthopaedic surgery resident is completing a carpal tunnel repair with the department chairman as the attending physician. During the case, the resident inadvertently cuts a flexor tendon. The tendon is repaired without complication. The attending tells the resident that the patient will do fine, and there is no need to report this minor complication that will not harm the patient, as he does not want to make the patient worry unnecessarily. He tells the resident to leave this complication out of the operative report. Which of the following is the correct next action for the resident to take?",
+        "options": {
+            "A": "Disclose the error to the patient and put it in the operative report",
+            "B": "Tell the attending that he cannot fail to disclose this mistake",
+            "C": "Report the physician to the ethics committee",
+            "D": "Refuse to dictate the operative report"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 17529,
+            "completion_tokens": 4464
+        },
+        "time_elapsed": 43.043978214263916
+    },
+    {
+        "id": 1,
+        "realidx": 1,
+        "question": "A 39-year-old man presents to the emergency department because of progressively worsening chest pain and nausea that started at a local bar 30 minutes prior. The pain radiates to the epigastric area. He has a 5-year history of untreated hypertension. He has smoked 1 pack of cigarettes daily for the past 5 years and started abusing cocaine 2 weeks before his emergency room visit. The patient is diaphoretic and in marked distress. What should be the first step in management?",
+        "options": {
+            "A": "Diltiazem",
+            "B": "Labetalol",
+            "C": "Propranolol",
+            "D": "Reassurance and continuous monitoring"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 30721,
+            "completion_tokens": 7224
+        },
+        "time_elapsed": 84.65264821052551
+    },
+    {
+        "id": 2,
+        "realidx": 2,
+        "question": "A 68-year-old male comes to the physician for evaluation of right flank pain. He has a history of diabetes and peripheral artery disease. His blood pressure is 160/90 mm Hg. Physical examination shows abdominal tenderness and right flank tenderness. An ultrasound shows dilation of the right ureter and renal pelvis. Which of the following is the most likely underlying cause of this patient's condition?",
+        "options": {
+            "A": "Renal artery stenosis",
+            "B": "Benign prostatic hyperplasia",
+            "C": "Common iliac artery aneurysm",
+            "D": "Urethral stricture"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 18447,
+            "completion_tokens": 4278
+        },
+        "time_elapsed": 52.777268409729004
+    },
+    {
+        "id": 3,
+        "realidx": 3,
+        "question": "An otherwise healthy 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea. He has had a 3.2-kg (7-lb) weight loss during this time. Physical examination shows bilateral pitting pedal edema. An endoscopy shows prominent rugae in the gastric fundus. Biopsy shows parietal cell atrophy. Which of the following is the most likely underlying cause?",
+        "options": {
+            "A": "Serotonin-secreting gastric tumor",
+            "B": "Proliferation of gastric mucus-producing cells",
+            "C": "Excessive somatostatin secretion",
+            "D": "Ectopic secretion of gastrin"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 23560,
+            "completion_tokens": 5791
+        },
+        "time_elapsed": 62.10981297492981
+    },
+    {
+        "id": 4,
+        "realidx": 4,
+        "question": "A 27-year-old man presents to the emergency department. He was brought in by staff from the homeless shelter when they found him unresponsive. The patient is a known IV drug abuser but otherwise has an unknown past medical history. He currently attends a methadone clinic. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 97/48 mmHg, pulse is 140/min, respirations are 29/min, and oxygen saturation is 98% on room air. Initial laboratory values are shown below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 6.3 mEq/L\nHCO3-: 17 mEq/L\nGlucose: 589 mg/dL\n\nThe patient is given treatment. After treatment, his temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 117/78 mmHg, pulse is 100/min, respirations are 23/min, and oxygen saturation is 98% on room air. His laboratory values are seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 19 mEq/L\nGlucose: 90 mg/dL\n\nWhich of the following is the best next step in management?",
+        "options": {
+            "A": "Insulin, potassium, IV fluids, and glucose",
+            "B": "IV fluids only",
+            "C": "Oral rehydration",
+            "D": "Supportive therapy and close monitoring"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 28441,
+            "completion_tokens": 5229
+        },
+        "time_elapsed": 60.01162004470825
+    },
+    {
+        "id": 5,
+        "realidx": 5,
+        "question": "A 45-year-old G5P4105 presents to her gynecologist\u2019s office with six months of increasingly heavy periods. She now soaks one super absorbent tampon every two hours for five days each cycle. Her cycles have also become irregular, with intermenstrual bleeding for the last two months. She now experiences significant dysmenorrhea, requiring 400 mg ibuprofen every four hours for the majority of each menses. In addition, she reports new onset mild dyspareunia with intercourse and a \u201cheavy feeling\u201d in her pelvis. She has also noticed increased urinary frequency but denies bowel changes. The patient has a past medical history of obesity and type II diabetes on metformin. Her last child was born four years ago, and she has had five spontaneous vaginal deliveries. At this office visit, temperature is 98.5\u00b0F (36.9\u00b0C), blood pressure is 137/84 mmHg, pulse is 87/min, and respirations are 14/min. Which of the following physical exam findings is most likely to be present in this patient?",
+        "options": {
+            "A": "Globular 10-week sized uterus",
+            "B": "Adnexal mass",
+            "C": "Irregular 14-week sized uterus",
+            "D": "No remarkable physical exam finding"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 31734,
+            "completion_tokens": 5734
+        },
+        "time_elapsed": 65.25972962379456
+    },
+    {
+        "id": 6,
+        "realidx": 6,
+        "question": "A 17-year-old girl is referred by her dentist for a suspected eating disorder. She has been visiting the same dentist since childhood and for the past 2 years has had at least 2 visits for dental caries. She eventually admitted to him that she regularly induces vomiting by putting her fingers down her throat. She says she has been doing this for the last few years and purging at least once a week. More recently, she has been inducing emesis more often and even looked into diuretics as she feels that she is gaining more and more weight compared to her \u2018skinny friends\u2019. Her BMI is at the 50th percentile for her age and sex. Which of the following features is most consistent with this patient\u2019s condition?",
+        "options": {
+            "A": "Patients with this disorder are not further sub-typed",
+            "B": "Patients do not usually initiate treatment",
+            "C": "Patients can have a history of both anorexia and bulimia",
+            "D": "Patients will typically have a BMI between 17\u201318.5 kg/m2"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 17382,
+            "completion_tokens": 4014
+        },
+        "time_elapsed": 41.68840956687927
+    }
+]
