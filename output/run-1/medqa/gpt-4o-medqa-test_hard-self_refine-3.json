@@ -5559,6 +5559,62 @@
         "time_elapsed": 17.222109079360962
     },
     {
+        "realidx": 587,
+        "question": "A 33-year-old G2P1 woman presents to the office because of poor diabetic control. She is currently at 18 weeks gestation and admits to having poor control of her type 1 diabetes before becoming pregnant. Her family history is non-contributory. The physical examination shows a pregnant woman with a fundal height of 20 cm (7.9 in). An abdominal ultrasound is ordered. Which of the following is the most likely congenital abnormality shown on the ultrasound?",
+        "answer": "Ventricular septal defect",
+        "options": {
+            "A": "Amelia",
+            "B": "Sacral agenesis",
+            "C": "Spina bifida",
+            "D": "Ventricular septal defect"
+        },
+        "meta_info": "step2&3",
+        "answer_idx": "D",
+        "metamap_phrases": [
+            "year old",
+            "woman presents",
+            "office",
+            "poor diabetic control",
+            "currently",
+            "weeks gestation",
+            "admits",
+            "poor control",
+            "type 1 diabetes",
+            "pregnant",
+            "family history",
+            "non contributory",
+            "physical examination shows",
+            "pregnant woman",
+            "fundal height",
+            "20",
+            "abdominal ultrasound",
+            "ordered",
+            "following",
+            "most likely congenital abnormality shown",
+            "ultrasound"
+        ],
+        "refinement_rounds": [
+            {
+                "predicted_answer": "B",
+                "review_response": "To determine the most likely congenital abnormality in this scenario, we need to consider the implications of poorly controlled type 1 diabetes during pregnancy.\n\n1. **Type 1 Diabetes and Pregnancy**: Poorly controlled diabetes, especially in the first trimester, is associated with an increased risk of congenital anomalies. The critical period for organogenesis is during the first trimester, and hyperglycemia during this time can lead to various malformations.\n\n2. **Common Congenital Abnormalities Associated with Maternal Diabetes**:\n   - **Sacral Agenesis (Caudal Regression Syndrome)**: This is a well-known congenital anomaly associated with maternal diabetes. It involves abnormal development of the lower spine and can lead to varying degrees of lower limb abnormalities.\n   - **Cardiac Defects**: Ventricular septal defects and other cardiac anomalies are also more common in infants of diabetic mothers.\n   - **Neural Tube Defects**: Conditions like spina bifida can occur, but they are less specifically associated with diabetes compared to sacral agenesis.\n\n3. **Fundal Height and Gestational Age**: The fundal height of 20 cm at 18 weeks gestation suggests that the fetus might be larger than expected for gestational age, which can be a sign of macrosomia, another condition associated with maternal diabetes.\n\n4. **Ultrasound Findings**: The question asks for the most likely congenital abnormality that would be shown on the ultrasound. Sacral agenesis can be detected via ultrasound due to the abnormal development of the lower spine and limbs.\n\n5. **Comparison of Options**:\n   - **Amelia (A)**: Complete absence of limbs, not specifically associated with diabetes.\n   - **Sacral Agenesis (B)**: Strongly associated with maternal diabetes and detectable via ultrasound.\n   - **Spina Bifida (C)**: Possible but less specifically associated with diabetes compared to sacral agenesis.\n   - **Ventricular Septal Defect (D)**: Common in diabetic pregnancies but may not be as immediately apparent on a routine ultrasound compared to skeletal abnormalities.\n\nGiven the association between poorly controlled maternal diabetes and sacral agenesis, and considering the ultrasound's ability to detect skeletal abnormalities, the most likely congenital abnormality shown on the ultrasound is:\n\n**(B) Sacral agenesis**",
+                "review_result": null,
+                "revised_response": null
+            },
+            {
+                "predicted_answer": "B",
+                "review_response": "True.\n\nThe solution provided is correct based on the information given in the problem and the typical associations between poorly controlled maternal diabetes and congenital abnormalities. Here's the reasoning step by step:\n\n1. **Type 1 Diabetes and Pregnancy**: Poorly controlled diabetes during pregnancy, especially in the first trimester, is known to increase the risk of congenital anomalies due to hyperglycemia affecting organogenesis.\n\n2. **Common Congenital Abnormalities**: Sacral agenesis (caudal regression syndrome) is a well-documented congenital anomaly associated with maternal diabetes. It involves abnormal development of the lower spine and limbs, which can be detected via ultrasound. Cardiac defects and neural tube defects are also associated with maternal diabetes, but sacral agenesis is more specifically linked.\n\n3. **Fundal Height and Gestational Age**: The fundal height of 20 cm at 18 weeks gestation suggests the possibility of macrosomia, which is common in pregnancies complicated by diabetes. However, the question focuses on congenital abnormalities rather than fetal size.\n\n4. **Ultrasound Findings**: Sacral agenesis can be detected on an ultrasound due to the abnormal development of the lower spine and limbs. This makes it a likely finding in the context of the problem.\n\n5. **Comparison of Options**: Among the options provided:\n   - **Amelia**: Not specifically associated with diabetes.\n   - **Sacral Agenesis**: Strongly associated with maternal diabetes and detectable via ultrasound.\n   - **Spina Bifida**: Possible but less specifically associated with diabetes compared to sacral agenesis.\n   - **Ventricular Septal Defect**: Common in diabetic pregnancies but may not be as immediately apparent on a routine ultrasound compared to skeletal abnormalities.\n\nGiven these considerations, the solution correctly identifies sacral agenesis as the most likely congenital abnormality to be shown on the ultrasound in this scenario.",
+                "review_result": true,
+                "revised_response": "To determine the most likely congenital abnormality in this scenario, we need to consider the implications of poorly controlled type 1 diabetes during pregnancy.\n\n1. **Type 1 Diabetes and Pregnancy**: Poorly controlled diabetes, especially in the first trimester, is associated with an increased risk of congenital anomalies. The critical period for organogenesis is during the first trimester, and hyperglycemia during this time can lead to various malformations.\n\n2. **Common Congenital Abnormalities Associated with Maternal Diabetes**:\n   - **Sacral Agenesis (Caudal Regression Syndrome)**: This is a well-known congenital anomaly associated with maternal diabetes. It involves abnormal development of the lower spine and can lead to varying degrees of lower limb abnormalities.\n   - **Cardiac Defects**: Ventricular septal defects and other cardiac anomalies are also more common in infants of diabetic mothers.\n   - **Neural Tube Defects**: Conditions like spina bifida can occur, but they are less specifically associated with diabetes compared to sacral agenesis.\n\n3. **Fundal Height and Gestational Age**: The fundal height of 20 cm at 18 weeks gestation suggests that the fetus might be larger than expected for gestational age, which can be a sign of macrosomia, another condition associated with maternal diabetes.\n\n4. **Ultrasound Findings**: The question asks for the most likely congenital abnormality that would be shown on the ultrasound. Sacral agenesis can be detected via ultrasound due to the abnormal development of the lower spine and limbs.\n\n5. **Comparison of Options**:\n   - **Amelia (A)**: Complete absence of limbs, not specifically associated with diabetes.\n   - **Sacral Agenesis (B)**: Strongly associated with maternal diabetes and detectable via ultrasound.\n   - **Spina Bifida (C)**: Possible but less specifically associated with diabetes compared to sacral agenesis.\n   - **Ventricular Septal Defect (D)**: Common in diabetic pregnancies but may not be as immediately apparent on a routine ultrasound compared to skeletal abnormalities.\n\nGiven the association between poorly controlled maternal diabetes and sacral agenesis, and considering the ultrasound's ability to detect skeletal abnormalities, the most likely congenital abnormality shown on the ultrasound is:\n\n**(B) Sacral agenesis**"
+            }
+        ],
+        "predicted_answer": "B",
+        "token_usage": {
+            "prompt_tokens": 798,
+            "completion_tokens": 856
+        },
+        "time_elapsed": 10.487905502319336
+    },
+    {
         "realidx": 596,
         "question": "Six hours after birth, a newborn boy is evaluated for tachypnea. He was delivered at 41 weeks' gestation via Caesarian section and the amniotic fluid was meconium-stained. His respiratory rate is 75/min. Physical examination shows increased work of breathing. X-rays of the abdomen and chest show no abnormalities. Echocardiography shows elevated pulmonary artery pressure. He is started on an inhaled medication that increases smooth muscle cGMP, and there is immediate improvement in his tachypnea and oxygenation status. Three hours later, the newborn is tachypneic and there is blue-grey discoloration of the lips, fingers, and toes. Which of the following is the most likely cause of this infant's cyanosis?",
         "answer": "Oxidization of Fe2+ to Fe3+",

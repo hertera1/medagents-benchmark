@@ -12,10 +12,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 17529,
-            "completion_tokens": 4464
+            "prompt_tokens": 17219,
+            "completion_tokens": 4318
         },
-        "time_elapsed": 43.043978214263916
+        "time_elapsed": 41.305816411972046
     },
     {
         "id": 1,
@@ -27,13 +27,13 @@
             "C": "Propranolol",
             "D": "Reassurance and continuous monitoring"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 30721,
-            "completion_tokens": 7224
+            "prompt_tokens": 29385,
+            "completion_tokens": 6455
         },
-        "time_elapsed": 84.65264821052551
+        "time_elapsed": 72.04140520095825
     },
     {
         "id": 2,
@@ -48,10 +48,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 18447,
-            "completion_tokens": 4278
+            "prompt_tokens": 26365,
+            "completion_tokens": 6118
         },
-        "time_elapsed": 52.777268409729004
+        "time_elapsed": 68.8997220993042
     },
     {
         "id": 3,
@@ -63,13 +63,13 @@
             "C": "Excessive somatostatin secretion",
             "D": "Ectopic secretion of gastrin"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 23560,
-            "completion_tokens": 5791
+            "prompt_tokens": 25900,
+            "completion_tokens": 5544
         },
-        "time_elapsed": 62.10981297492981
+        "time_elapsed": 59.09055852890015
     },
     {
         "id": 4,
@@ -81,13 +81,13 @@
             "C": "Oral rehydration",
             "D": "Supportive therapy and close monitoring"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 28441,
-            "completion_tokens": 5229
+            "prompt_tokens": 22029,
+            "completion_tokens": 4735
         },
-        "time_elapsed": 60.01162004470825
+        "time_elapsed": 49.961021900177
     },
     {
         "id": 5,
@@ -102,10 +102,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 31734,
-            "completion_tokens": 5734
+            "prompt_tokens": 32927,
+            "completion_tokens": 6124
         },
-        "time_elapsed": 65.25972962379456
+        "time_elapsed": 87.8804075717926
     },
     {
         "id": 6,
@@ -120,10 +120,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 17382,
-            "completion_tokens": 4014
+            "prompt_tokens": 17463,
+            "completion_tokens": 4087
         },
-        "time_elapsed": 41.68840956687927
+        "time_elapsed": 42.20005011558533
     },
     {
         "id": 7,
@@ -138,10 +138,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18469,
-            "completion_tokens": 4345
+            "prompt_tokens": 18048,
+            "completion_tokens": 4158
         },
-        "time_elapsed": 44.03275108337402
+        "time_elapsed": 37.91255521774292
     },
     {
         "id": 8,
@@ -156,10 +156,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 24994,
-            "completion_tokens": 5143
+            "prompt_tokens": 26136,
+            "completion_tokens": 5544
         },
-        "time_elapsed": 66.81186008453369
+        "time_elapsed": 61.6697940826416
     },
     {
         "id": 9,
@@ -174,10 +174,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 17415,
-            "completion_tokens": 3950
+            "prompt_tokens": 17430,
+            "completion_tokens": 3836
         },
-        "time_elapsed": 45.200231313705444
+        "time_elapsed": 43.04618716239929
     },
     {
         "id": 10,
@@ -192,10 +192,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 18089,
-            "completion_tokens": 4146
+            "prompt_tokens": 17834,
+            "completion_tokens": 4023
         },
-        "time_elapsed": 53.34056282043457
+        "time_elapsed": 39.05594611167908
     },
     {
         "id": 11,
@@ -207,13 +207,13 @@
             "C": "Positive anti-acetylcholine receptor antibodies",
             "D": "Dystrophin gene mutation on genetic analysis"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 43338,
-            "completion_tokens": 8988
+            "prompt_tokens": 24936,
+            "completion_tokens": 4526
         },
-        "time_elapsed": 109.68583250045776
+        "time_elapsed": 45.89428782463074
     },
     {
         "id": 12,
@@ -228,10 +228,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 23707,
-            "completion_tokens": 4515
+            "prompt_tokens": 22882,
+            "completion_tokens": 4377
         },
-        "time_elapsed": 53.139203786849976
+        "time_elapsed": 58.278627157211304
     },
     {
         "id": 13,
@@ -243,13 +243,13 @@
             "C": "Immunoglobulin- IgA",
             "D": "Immunoglobulin- IgM"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 24788,
-            "completion_tokens": 5184
+            "prompt_tokens": 18291,
+            "completion_tokens": 4309
         },
-        "time_elapsed": 55.13424587249756
+        "time_elapsed": 40.78878712654114
     },
     {
         "id": 14,
@@ -261,13 +261,13 @@
             "C": "Anticholinergic toxicity",
             "D": "Synthetic cathinone intoxication"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 19106,
-            "completion_tokens": 4237
+            "prompt_tokens": 26908,
+            "completion_tokens": 5467
         },
-        "time_elapsed": 40.07518911361694
+        "time_elapsed": 59.025662422180176
     },
     {
         "id": 15,
@@ -279,13 +279,13 @@
             "C": "1 and 2",
             "D": "1, 2, and 3"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 19016,
-            "completion_tokens": 4580
+            "prompt_tokens": 18757,
+            "completion_tokens": 4426
         },
-        "time_elapsed": 46.24860095977783
+        "time_elapsed": 43.72800278663635
     },
     {
         "id": 16,
@@ -300,10 +300,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 18709,
-            "completion_tokens": 4359
+            "prompt_tokens": 18297,
+            "completion_tokens": 4276
         },
-        "time_elapsed": 39.92514967918396
+        "time_elapsed": 43.31610298156738
     },
     {
         "id": 17,
@@ -318,10 +318,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 27919,
-            "completion_tokens": 5892
+            "prompt_tokens": 29349,
+            "completion_tokens": 6452
         },
-        "time_elapsed": 64.42582988739014
+        "time_elapsed": 94.94681167602539
     },
     {
         "id": 18,
@@ -333,13 +333,13 @@
             "C": "Fondaparinux",
             "D": "Apixaban"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 32117,
-            "completion_tokens": 7784
+            "prompt_tokens": 31399,
+            "completion_tokens": 7739
         },
-        "time_elapsed": 87.13008093833923
+        "time_elapsed": 87.17588949203491
     },
     {
         "id": 19,
@@ -354,10 +354,10 @@
         "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 15807,
-            "completion_tokens": 3736
+            "prompt_tokens": 20495,
+            "completion_tokens": 4234
         },
-        "time_elapsed": 37.030364751815796
+        "time_elapsed": 49.828197717666626
     },
     {
         "id": 20,
@@ -372,10 +372,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 16671,
-            "completion_tokens": 3784
+            "prompt_tokens": 23683,
+            "completion_tokens": 4993
         },
-        "time_elapsed": 50.848214626312256
+        "time_elapsed": 58.67434358596802
     },
     {
         "id": 21,
@@ -390,10 +390,10 @@
         "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 34990,
-            "completion_tokens": 7434
+            "prompt_tokens": 30608,
+            "completion_tokens": 5852
         },
-        "time_elapsed": 88.93413925170898
+        "time_elapsed": 63.91124892234802
     },
     {
         "id": 22,
@@ -408,10 +408,10 @@
         "predicted_answer": "B",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 34092,
-            "completion_tokens": 6226
+            "prompt_tokens": 49255,
+            "completion_tokens": 8628
         },
-        "time_elapsed": 67.89590883255005
+        "time_elapsed": 101.31884503364563
     },
     {
         "id": 23,
@@ -426,10 +426,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 18874,
-            "completion_tokens": 4358
+            "prompt_tokens": 19092,
+            "completion_tokens": 4453
         },
-        "time_elapsed": 46.68938064575195
+        "time_elapsed": 44.316181898117065
     },
     {
         "id": 24,
@@ -444,10 +444,10 @@
         "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 16303,
-            "completion_tokens": 4002
+            "prompt_tokens": 16618,
+            "completion_tokens": 4065
         },
-        "time_elapsed": 45.745991706848145
+        "time_elapsed": 37.56685757637024
     },
     {
         "id": 25,
@@ -462,10 +462,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 33872,
-            "completion_tokens": 6914
+            "prompt_tokens": 40912,
+            "completion_tokens": 9308
         },
-        "time_elapsed": 81.78407979011536
+        "time_elapsed": 94.0922417640686
     },
     {
         "id": 26,
@@ -480,10 +480,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18279,
-            "completion_tokens": 4784
+            "prompt_tokens": 18339,
+            "completion_tokens": 4729
         },
-        "time_elapsed": 47.6921067237854
+        "time_elapsed": 44.87490487098694
     },
     {
         "id": 27,
@@ -498,10 +498,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 23186,
-            "completion_tokens": 4707
+            "prompt_tokens": 22921,
+            "completion_tokens": 4679
         },
-        "time_elapsed": 52.9525420665741
+        "time_elapsed": 51.94039225578308
     },
     {
         "id": 28,
@@ -516,10 +516,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 19226,
-            "completion_tokens": 4144
+            "prompt_tokens": 18795,
+            "completion_tokens": 4011
         },
-        "time_elapsed": 41.31168246269226
+        "time_elapsed": 38.19307279586792
     },
     {
         "id": 29,
@@ -534,10 +534,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18545,
-            "completion_tokens": 4482
+            "prompt_tokens": 18190,
+            "completion_tokens": 4362
         },
-        "time_elapsed": 43.62562155723572
+        "time_elapsed": 39.350642919540405
     },
     {
         "id": 30,
@@ -552,10 +552,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 22204,
-            "completion_tokens": 4529
+            "prompt_tokens": 17386,
+            "completion_tokens": 3999
         },
-        "time_elapsed": 54.19863724708557
+        "time_elapsed": 37.45692849159241
     },
     {
         "id": 31,
@@ -570,10 +570,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 19024,
-            "completion_tokens": 3924
+            "prompt_tokens": 19800,
+            "completion_tokens": 4268
         },
-        "time_elapsed": 64.89202332496643
+        "time_elapsed": 52.71955442428589
     },
     {
         "id": 32,
@@ -585,13 +585,13 @@
             "C": "Initiate a different statin",
             "D": "Initiate fish oils"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 21754,
-            "completion_tokens": 4709
+            "prompt_tokens": 28914,
+            "completion_tokens": 6284
         },
-        "time_elapsed": 50.90922451019287
+        "time_elapsed": 76.46637535095215
     },
     {
         "id": 33,
@@ -603,13 +603,13 @@
             "C": "Repeat blood cultures 48 hours after initial cultures were drawn",
             "D": "Do not repeat blood cultures"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 37488,
-            "completion_tokens": 7530
+            "prompt_tokens": 26152,
+            "completion_tokens": 5468
         },
-        "time_elapsed": 81.83107352256775
+        "time_elapsed": 66.85992789268494
     },
     {
         "id": 34,
@@ -624,10 +624,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 18781,
-            "completion_tokens": 4520
+            "prompt_tokens": 24303,
+            "completion_tokens": 5221
         },
-        "time_elapsed": 41.830660343170166
+        "time_elapsed": 57.97509980201721
     },
     {
         "id": 35,
@@ -639,13 +639,13 @@
             "C": "Air bronchogram",
             "D": "Lower lobe cavitary mass"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 16945,
-            "completion_tokens": 4244
+            "prompt_tokens": 17270,
+            "completion_tokens": 4363
         },
-        "time_elapsed": 55.016982078552246
+        "time_elapsed": 39.99877333641052
     },
     {
         "id": 36,
@@ -660,10 +660,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 19625,
-            "completion_tokens": 5474
+            "prompt_tokens": 15268,
+            "completion_tokens": 4510
         },
-        "time_elapsed": 69.62125325202942
+        "time_elapsed": 46.93492388725281
     },
     {
         "id": 37,
@@ -675,13 +675,13 @@
             "C": "Urinalysis",
             "D": "Oral glucose tolerance test"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 26339,
-            "completion_tokens": 5002
+            "prompt_tokens": 22044,
+            "completion_tokens": 4893
         },
-        "time_elapsed": 56.900145530700684
+        "time_elapsed": 49.322723627090454
     },
     {
         "id": 38,
@@ -696,10 +696,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18958,
-            "completion_tokens": 4203
+            "prompt_tokens": 18604,
+            "completion_tokens": 4092
         },
-        "time_elapsed": 37.698243379592896
+        "time_elapsed": 63.093990325927734
     },
     {
         "id": 39,
@@ -714,10 +714,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 24916,
-            "completion_tokens": 5081
+            "prompt_tokens": 25431,
+            "completion_tokens": 5132
         },
-        "time_elapsed": 56.38664674758911
+        "time_elapsed": 66.04719614982605
     },
     {
         "id": 40,
@@ -729,13 +729,13 @@
             "C": "Start him on both hydrocortisone and fludrocortisone therapy",
             "D": "Order an ACTH stimulation test"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 36004,
-            "completion_tokens": 7863
+            "prompt_tokens": 38266,
+            "completion_tokens": 8360
         },
-        "time_elapsed": 82.20058989524841
+        "time_elapsed": 110.04195165634155
     },
     {
         "id": 41,
@@ -750,10 +750,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 34326,
-            "completion_tokens": 5354
+            "prompt_tokens": 37470,
+            "completion_tokens": 6147
         },
-        "time_elapsed": 62.45756483078003
+        "time_elapsed": 68.93857789039612
     },
     {
         "id": 42,
@@ -768,10 +768,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 21272,
-            "completion_tokens": 4853
+            "prompt_tokens": 20916,
+            "completion_tokens": 4639
         },
-        "time_elapsed": 44.94638919830322
+        "time_elapsed": 50.12212586402893
     },
     {
         "id": 43,
@@ -786,10 +786,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 19166,
-            "completion_tokens": 4738
+            "prompt_tokens": 19091,
+            "completion_tokens": 4590
         },
-        "time_elapsed": 48.3498432636261
+        "time_elapsed": 41.7172474861145
     },
     {
         "id": 44,
@@ -804,10 +804,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 18947,
-            "completion_tokens": 4079
+            "prompt_tokens": 19477,
+            "completion_tokens": 4317
         },
-        "time_elapsed": 47.073750257492065
+        "time_elapsed": 43.20547962188721
     },
     {
         "id": 45,
@@ -822,10 +822,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18220,
-            "completion_tokens": 3992
+            "prompt_tokens": 17692,
+            "completion_tokens": 3893
         },
-        "time_elapsed": 39.8002564907074
+        "time_elapsed": 36.758026123046875
     },
     {
         "id": 46,
@@ -840,10 +840,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 31807,
-            "completion_tokens": 5606
+            "prompt_tokens": 31725,
+            "completion_tokens": 5516
         },
-        "time_elapsed": 60.609073638916016
+        "time_elapsed": 67.24837589263916
     },
     {
         "id": 47,
@@ -858,10 +858,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 34351,
-            "completion_tokens": 6667
+            "prompt_tokens": 37045,
+            "completion_tokens": 7183
         },
-        "time_elapsed": 74.57827997207642
+        "time_elapsed": 78.8666160106659
     },
     {
         "id": 48,
@@ -876,10 +876,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 21015,
-            "completion_tokens": 4430
+            "prompt_tokens": 21612,
+            "completion_tokens": 4587
         },
-        "time_elapsed": 43.72577476501465
+        "time_elapsed": 44.572674036026
     },
     {
         "id": 49,
@@ -891,13 +891,13 @@
             "C": "Renal tubular acidosis type II",
             "D": "Renal tubular acidosis type IV"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 36979,
-            "completion_tokens": 7476
+            "prompt_tokens": 36147,
+            "completion_tokens": 7227
         },
-        "time_elapsed": 80.23969316482544
+        "time_elapsed": 82.28212642669678
     },
     {
         "id": 50,
@@ -912,10 +912,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18904,
-            "completion_tokens": 4174
+            "prompt_tokens": 18050,
+            "completion_tokens": 3766
         },
-        "time_elapsed": 45.60485339164734
+        "time_elapsed": 36.58364152908325
     },
     {
         "id": 51,
@@ -930,10 +930,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 30220,
-            "completion_tokens": 5307
+            "prompt_tokens": 37153,
+            "completion_tokens": 5816
         },
-        "time_elapsed": 56.608274698257446
+        "time_elapsed": 71.8952808380127
     },
     {
         "id": 52,
@@ -945,13 +945,13 @@
             "C": "Elective open surgical repair",
             "D": "Emergency open surgical repair"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 23507,
-            "completion_tokens": 4911
+            "prompt_tokens": 23703,
+            "completion_tokens": 5158
         },
-        "time_elapsed": 46.369781732559204
+        "time_elapsed": 48.0256130695343
     },
     {
         "id": 53,
@@ -963,13 +963,13 @@
             "C": "Found in desert sand",
             "D": "Polyribosyl-ribitol-phosphate capsule"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 32663,
-            "completion_tokens": 6890
+            "prompt_tokens": 25249,
+            "completion_tokens": 5790
         },
-        "time_elapsed": 89.87761521339417
+        "time_elapsed": 69.54388070106506
     },
     {
         "id": 54,
@@ -984,10 +984,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 15227,
-            "completion_tokens": 3378
+            "prompt_tokens": 19533,
+            "completion_tokens": 3763
         },
-        "time_elapsed": 36.39328193664551
+        "time_elapsed": 45.985456466674805
     },
     {
         "id": 55,
@@ -1002,10 +1002,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 19479,
-            "completion_tokens": 4462
+            "prompt_tokens": 19081,
+            "completion_tokens": 4156
         },
-        "time_elapsed": 92.92607569694519
+        "time_elapsed": 48.06972098350525
     },
     {
         "id": 56,
@@ -1017,13 +1017,13 @@
             "C": "Index finger flexion",
             "D": "Wrist extension"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 14413,
-            "completion_tokens": 3506
+            "prompt_tokens": 15368,
+            "completion_tokens": 3908
         },
-        "time_elapsed": 33.93822884559631
+        "time_elapsed": 45.104074001312256
     },
     {
         "id": 57,
@@ -1035,13 +1035,13 @@
             "C": "XY karyotype",
             "D": "Hypercortisolism"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 17379,
-            "completion_tokens": 4500
+            "prompt_tokens": 17731,
+            "completion_tokens": 4604
         },
-        "time_elapsed": 43.38667130470276
+        "time_elapsed": 41.86413025856018
     },
     {
         "id": 58,
@@ -1056,10 +1056,10 @@
         "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 18974,
-            "completion_tokens": 4267
+            "prompt_tokens": 18690,
+            "completion_tokens": 4075
         },
-        "time_elapsed": 37.097776651382446
+        "time_elapsed": 40.68496775627136
     },
     {
         "id": 59,
@@ -1074,10 +1074,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 16230,
-            "completion_tokens": 3739
+            "prompt_tokens": 16273,
+            "completion_tokens": 3841
         },
-        "time_elapsed": 53.25216794013977
+        "time_elapsed": 42.36244225502014
     },
     {
         "id": 60,
@@ -1092,10 +1092,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 17159,
-            "completion_tokens": 4116
+            "prompt_tokens": 17624,
+            "completion_tokens": 4290
         },
-        "time_elapsed": 37.398093938827515
+        "time_elapsed": 38.72983431816101
     },
     {
         "id": 61,
@@ -1110,10 +1110,10 @@
         "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 22227,
-            "completion_tokens": 4321
+            "prompt_tokens": 27487,
+            "completion_tokens": 4758
         },
-        "time_elapsed": 46.69794201850891
+        "time_elapsed": 56.13988375663757
     },
     {
         "id": 62,
@@ -1128,10 +1128,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 16190,
-            "completion_tokens": 3870
+            "prompt_tokens": 16899,
+            "completion_tokens": 3990
         },
-        "time_elapsed": 37.871965646743774
+        "time_elapsed": 46.569167375564575
     },
     {
         "id": 63,
@@ -1143,13 +1143,13 @@
             "C": "Non-Hodgkin lymphoma",
             "D": "Disseminated tuberculosis"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 32500,
-            "completion_tokens": 6490
+            "prompt_tokens": 28214,
+            "completion_tokens": 5918
         },
-        "time_elapsed": 70.74643659591675
+        "time_elapsed": 58.94476914405823
     },
     {
         "id": 64,
@@ -1161,13 +1161,13 @@
             "C": "Microtubule polymerization",
             "D": "B-cell maturation"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 17565,
-            "completion_tokens": 4486
+            "prompt_tokens": 16680,
+            "completion_tokens": 4140
         },
-        "time_elapsed": 54.28035283088684
+        "time_elapsed": 43.19906711578369
     },
     {
         "id": 65,
@@ -1182,10 +1182,10 @@
         "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 22470,
-            "completion_tokens": 4694
+            "prompt_tokens": 22475,
+            "completion_tokens": 4638
         },
-        "time_elapsed": 50.06411027908325
+        "time_elapsed": 50.42386031150818
     },
     {
         "id": 66,
@@ -1200,10 +1200,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 27246,
-            "completion_tokens": 5202
+            "prompt_tokens": 28797,
+            "completion_tokens": 5627
         },
-        "time_elapsed": 50.01740002632141
+        "time_elapsed": 61.24892854690552
     },
     {
         "id": 67,
@@ -1218,10 +1218,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 16359,
-            "completion_tokens": 4085
+            "prompt_tokens": 15984,
+            "completion_tokens": 3815
         },
-        "time_elapsed": 41.02065634727478
+        "time_elapsed": 45.65068864822388
     },
     {
         "id": 68,
@@ -1236,10 +1236,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 22502,
-            "completion_tokens": 4360
+            "prompt_tokens": 28549,
+            "completion_tokens": 4729
         },
-        "time_elapsed": 42.05846166610718
+        "time_elapsed": 56.22769069671631
     },
     {
         "id": 69,
@@ -1251,13 +1251,13 @@
             "C": "Systemic lupus erythematosus",
             "D": "Wilson disease"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 33717,
-            "completion_tokens": 7145
+            "prompt_tokens": 31206,
+            "completion_tokens": 6244
         },
-        "time_elapsed": 75.41364693641663
+        "time_elapsed": 78.66258502006531
     },
     {
         "id": 70,
@@ -1272,10 +1272,10 @@
         "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 15145,
-            "completion_tokens": 3962
+            "prompt_tokens": 15514,
+            "completion_tokens": 4015
         },
-        "time_elapsed": 49.57100009918213
+        "time_elapsed": 41.792473793029785
     },
     {
         "id": 71,
@@ -1287,13 +1287,13 @@
             "C": "Oxidization of Fe2+ to Fe3+",
             "D": "Allosteric alteration of heme groups"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 18952,
-            "completion_tokens": 4747
+            "prompt_tokens": 18842,
+            "completion_tokens": 4765
         },
-        "time_elapsed": 49.89484143257141
+        "time_elapsed": 49.42901825904846
     },
     {
         "id": 72,
@@ -1308,10 +1308,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 19118,
-            "completion_tokens": 4491
+            "prompt_tokens": 19116,
+            "completion_tokens": 4395
         },
-        "time_elapsed": 52.57337403297424
+        "time_elapsed": 46.00415372848511
     },
     {
         "id": 73,
@@ -1326,10 +1326,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 17858,
-            "completion_tokens": 4139
+            "prompt_tokens": 18446,
+            "completion_tokens": 4294
         },
-        "time_elapsed": 47.49520921707153
+        "time_elapsed": 46.45898675918579
     },
     {
         "id": 74,
@@ -1344,10 +1344,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 28045,
-            "completion_tokens": 5977
+            "prompt_tokens": 31804,
+            "completion_tokens": 5555
         },
-        "time_elapsed": 65.14002346992493
+        "time_elapsed": 66.73679900169373
     },
     {
         "id": 75,
@@ -1359,13 +1359,13 @@
             "C": "Decreased iron-binding capacity",
             "D": "Normal iron-binding capacity"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 27383,
-            "completion_tokens": 5139
+            "prompt_tokens": 27977,
+            "completion_tokens": 5227
         },
-        "time_elapsed": 70.26166319847107
+        "time_elapsed": 68.55768370628357
     },
     {
         "id": 76,
@@ -1380,10 +1380,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 31597,
-            "completion_tokens": 6083
+            "prompt_tokens": 31830,
+            "completion_tokens": 6264
         },
-        "time_elapsed": 95.58933186531067
+        "time_elapsed": 62.77949523925781
     },
     {
         "id": 77,
@@ -1398,10 +1398,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 20216,
-            "completion_tokens": 4345
+            "prompt_tokens": 16551,
+            "completion_tokens": 4026
         },
-        "time_elapsed": 49.73338341712952
+        "time_elapsed": 39.5448272228241
     },
     {
         "id": 78,
@@ -1416,10 +1416,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 16778,
-            "completion_tokens": 4245
+            "prompt_tokens": 16319,
+            "completion_tokens": 4064
         },
-        "time_elapsed": 46.65585708618164
+        "time_elapsed": 42.744404315948486
     },
     {
         "id": 79,
@@ -1434,10 +1434,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 31498,
-            "completion_tokens": 7044
+            "prompt_tokens": 15932,
+            "completion_tokens": 3893
         },
-        "time_elapsed": 82.17463898658752
+        "time_elapsed": 44.260623931884766
     },
     {
         "id": 80,
@@ -1452,10 +1452,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 16512,
-            "completion_tokens": 4124
+            "prompt_tokens": 16992,
+            "completion_tokens": 4447
         },
-        "time_elapsed": 46.36234760284424
+        "time_elapsed": 49.01811909675598
     },
     {
         "id": 81,
@@ -1470,10 +1470,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 38349,
-            "completion_tokens": 8951
+            "prompt_tokens": 26158,
+            "completion_tokens": 6055
         },
-        "time_elapsed": 132.01155161857605
+        "time_elapsed": 66.78816270828247
     },
     {
         "id": 82,
@@ -1485,13 +1485,13 @@
             "C": "Family counseling",
             "D": "Rule out medical conditions"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 16754,
-            "completion_tokens": 4093
+            "prompt_tokens": 19883,
+            "completion_tokens": 4333
         },
-        "time_elapsed": 41.93079733848572
+        "time_elapsed": 71.68613934516907
     },
     {
         "id": 83,
@@ -1503,13 +1503,13 @@
             "C": "Treat with three weekly injections of penicillin, obtain titers in 6 months",
             "D": "Treat with a single injection of penicillin, obtain titers in 6 months"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 25211,
-            "completion_tokens": 5203
+            "prompt_tokens": 35253,
+            "completion_tokens": 7257
         },
-        "time_elapsed": 54.134798526763916
+        "time_elapsed": 94.3301796913147
     },
     {
         "id": 84,
@@ -1524,10 +1524,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 20291,
-            "completion_tokens": 4423
+            "prompt_tokens": 19254,
+            "completion_tokens": 4134
         },
-        "time_elapsed": 45.22264242172241
+        "time_elapsed": 42.779946088790894
     },
     {
         "id": 85,
@@ -1539,13 +1539,13 @@
             "C": "D",
             "D": "E"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 19747,
-            "completion_tokens": 4829
+            "prompt_tokens": 19692,
+            "completion_tokens": 4993
         },
-        "time_elapsed": 52.92316007614136
+        "time_elapsed": 53.71653079986572
     },
     {
         "id": 86,
@@ -1557,13 +1557,13 @@
             "C": "Mid-diastolic murmur at the left lower sternal border",
             "D": "Systolic ejection murmur at the right second intercostal space"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 25653,
-            "completion_tokens": 4716
+            "prompt_tokens": 18663,
+            "completion_tokens": 3819
         },
-        "time_elapsed": 56.57346320152283
+        "time_elapsed": 38.66025471687317
     },
     {
         "id": 87,
@@ -1575,13 +1575,13 @@
             "C": "Increased follicle stimulating hormone",
             "D": "Increased progesterone"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 31351,
-            "completion_tokens": 7343
+            "prompt_tokens": 21414,
+            "completion_tokens": 4747
         },
-        "time_elapsed": 90.63301348686218
+        "time_elapsed": 61.67894792556763
     },
     {
         "id": 88,
@@ -1596,10 +1596,10 @@
         "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 19628,
-            "completion_tokens": 4229
+            "prompt_tokens": 19853,
+            "completion_tokens": 4088
         },
-        "time_elapsed": 42.106274127960205
+        "time_elapsed": 39.55631732940674
     },
     {
         "id": 89,
@@ -1614,10 +1614,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 15220,
-            "completion_tokens": 3867
+            "prompt_tokens": 23932,
+            "completion_tokens": 5226
         },
-        "time_elapsed": 40.20856332778931
+        "time_elapsed": 57.95874762535095
     },
     {
         "id": 90,
@@ -1629,13 +1629,13 @@
             "C": "V/Q scan",
             "D": "CT pulmonary angiogram"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 33667,
-            "completion_tokens": 5855
+            "prompt_tokens": 29535,
+            "completion_tokens": 5007
         },
-        "time_elapsed": 65.41714763641357
+        "time_elapsed": 53.506756067276
     },
     {
         "id": 91,
@@ -1650,10 +1650,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 24146,
-            "completion_tokens": 5018
+            "prompt_tokens": 24115,
+            "completion_tokens": 5113
         },
-        "time_elapsed": 45.912558794021606
+        "time_elapsed": 51.18791317939758
     },
     {
         "id": 92,
@@ -1668,10 +1668,10 @@
         "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 19053,
-            "completion_tokens": 4491
+            "prompt_tokens": 19610,
+            "completion_tokens": 4629
         },
-        "time_elapsed": 44.76436495780945
+        "time_elapsed": 45.17852306365967
     },
     {
         "id": 93,
@@ -1686,10 +1686,10 @@
         "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 16856,
-            "completion_tokens": 4088
+            "prompt_tokens": 17829,
+            "completion_tokens": 4481
         },
-        "time_elapsed": 37.94735765457153
+        "time_elapsed": 39.71671438217163
     },
     {
         "id": 94,
@@ -1704,10 +1704,10 @@
         "predicted_answer": "B",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 28434,
-            "completion_tokens": 5612
+            "prompt_tokens": 22297,
+            "completion_tokens": 4506
         },
-        "time_elapsed": 65.66799521446228
+        "time_elapsed": 53.781229972839355
     },
     {
         "id": 95,
@@ -1722,10 +1722,10 @@
         "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 29650,
-            "completion_tokens": 5382
+            "prompt_tokens": 18017,
+            "completion_tokens": 4228
         },
-        "time_elapsed": 54.65213322639465
+        "time_elapsed": 45.91097855567932
     },
     {
         "id": 96,
@@ -1740,10 +1740,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 17635,
-            "completion_tokens": 4220
+            "prompt_tokens": 17501,
+            "completion_tokens": 4118
         },
-        "time_elapsed": 49.793829679489136
+        "time_elapsed": 40.76093006134033
     },
     {
         "id": 97,
@@ -1755,13 +1755,13 @@
             "C": "Heparin",
             "D": "MRI"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 22293,
-            "completion_tokens": 4599
+            "prompt_tokens": 38526,
+            "completion_tokens": 8162
         },
-        "time_elapsed": 54.82928013801575
+        "time_elapsed": 104.64069437980652
     },
     {
         "id": 98,
@@ -1776,10 +1776,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 33337,
-            "completion_tokens": 6191
+            "prompt_tokens": 41676,
+            "completion_tokens": 7202
         },
-        "time_elapsed": 66.28703618049622
+        "time_elapsed": 83.50599765777588
     },
     {
         "id": 99,
@@ -1794,9 +1794,9 @@
         "predicted_answer": "C",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 22574,
-            "completion_tokens": 4554
+            "prompt_tokens": 24239,
+            "completion_tokens": 5102
         },
-        "time_elapsed": 48.53311014175415
+        "time_elapsed": 60.11416959762573
     }
 ]

@@ -16,13 +16,20 @@
         },
         "answer_idx": "E",
         "answer": "65-year-old female with a glenoid retroversion of 13-degrees undergoing shoulder arthroplasty",
-        "raw_response": "Answer: 65-year-old female with glenoid retroversion of 30-degrees and severe posterior wear undergoing shoulder arthroplasty",
-        "predicted_answer": "C",
+        "solutions": [
+            "H",
+            "C",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The question asks for the most appropriate indication for eccentric anterior glenoid reaming during shoulder surgery. Eccentric anterior glenoid reaming is typically used to correct significant glenoid retroversion and posterior wear, which can affect the stability and function of the shoulder joint.\n\nLet's evaluate the solutions provided:\n\n- Solution 1: H\n- Solution 2: C\n- Solution 3: H\n- Solution 4: H\n- Solution 5: H\n\nThe most frequently appearing answer across the solutions is \"H\". This suggests that the scenario described in option H is the most appropriate indication for eccentric anterior glenoid reaming.\n\nOption H describes a 65-year-old female with glenoid retroversion of 30-degrees and severe posterior wear undergoing shoulder arthroplasty. This scenario involves significant retroversion and severe posterior wear, which are conditions that typically warrant the use of eccentric anterior glenoid reaming to correct the alignment and improve the outcome of the shoulder arthroplasty.\n\nTherefore, based on the consistency of the solutions, the most reliable answer is:\n\nH",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3727,
-            "completion_tokens": 28
+            "prompt_tokens": 3754,
+            "completion_tokens": 2603
         },
-        "time_elapsed": 1.4148190021514893
+        "time_elapsed": 31.754656314849854
     },
     {
         "realidx": "Text-1",
@@ -41,13 +48,20 @@
         },
         "answer_idx": "E",
         "answer": "Iliolumbar ligament",
-        "raw_response": "Answer: Iliolumbar ligament\n\nThe patient's symptoms and osteopathic findings suggest a sacroiliac joint dysfunction, particularly on the right side. The iliolumbar ligament is often implicated in cases of sacroiliac joint dysfunction, as it connects the ilium to the lumbar spine and can be a source of pain when strained or irritated. The positive seated flexion test on the right, along with tenderness in the right paraspinal region, supports the involvement of the iliolumbar ligament in this case.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "A",
+            "D",
+            "E",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3542,
-            "completion_tokens": 107
+            "prompt_tokens": 2644,
+            "completion_tokens": 3246
         },
-        "time_elapsed": 2.4555797576904297
+        "time_elapsed": 32.82684636116028
     },
     {
         "realidx": "Text-10",
@@ -66,13 +80,20 @@
         },
         "answer_idx": "D",
         "answer": "Change diuretics",
-        "raw_response": "Answer: Discontinue lithium therapy\n\nExplanation: The patient's symptoms of increased urinary frequency, fine tremor, and bradycardia suggest possible lithium toxicity or side effects. Lithium can cause renal effects leading to polyuria and can also affect cardiac conduction, resulting in bradycardia. Discontinuing lithium therapy is the most appropriate next step to address these symptoms and prevent further complications.",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "J",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3660,
-            "completion_tokens": 78
+            "prompt_tokens": 3352,
+            "completion_tokens": 2177
         },
-        "time_elapsed": 2.599931001663208
+        "time_elapsed": 27.264697551727295
     },
     {
         "realidx": "Text-101",
@@ -91,13 +112,20 @@
         },
         "answer_idx": "B",
         "answer": "Inferior vena cava filter",
-        "raw_response": "Answer: Unfractionated heparin therapy\n\nIn this scenario, the patient presents with signs and symptoms suggestive of deep vein thrombosis (DVT) in the right leg, including swelling, warmth, erythema, and pain upon dorsiflexion (positive Homan's sign). Given the patient's recent craniotomy, chronic kidney disease, and current hemodialysis, unfractionated heparin is the preferred anticoagulant due to its short half-life and ability to be reversed quickly if needed, especially in the context of potential bleeding risks associated with recent neurosurgery.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3659,
-            "completion_tokens": 122
+            "prompt_tokens": 3346,
+            "completion_tokens": 2648
         },
-        "time_elapsed": 3.848825693130493
+        "time_elapsed": 27.4704647064209
     },
     {
         "realidx": "Text-102",
@@ -116,13 +144,20 @@
         },
         "answer_idx": "G",
         "answer": "Vaginal moisturizers",
-        "raw_response": "Answer: Topical estrogen\n\nThe symptoms and physical examination findings in this patient are consistent with genitourinary syndrome of menopause (GSM), previously known as atrophic vaginitis. GSM is characterized by urinary symptoms such as urgency and incontinence, as well as vaginal symptoms like itching, dryness, and dyspareunia. The loss of estrogen after menopause leads to thinning and atrophy of the vaginal and vulvar tissues. Topical estrogen therapy is the most appropriate initial management step to address these symptoms by restoring the local estrogen levels, improving tissue quality, and alleviating urinary and vaginal symptoms.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3512,
-            "completion_tokens": 121
+            "prompt_tokens": 2464,
+            "completion_tokens": 2403
         },
-        "time_elapsed": 4.02436375617981
+        "time_elapsed": 24.611562728881836
     },
     {
         "realidx": "Text-103",
@@ -141,13 +176,20 @@
         },
         "answer_idx": "E",
         "answer": "Marked bilateral hip flexion with ankles crossed and knees out to the sides",
-        "raw_response": "Answer: Marked bilateral hip and knee flexion with knees minimally pulled toward the right",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "B",
+            "J"
+        ],
+        "ensemble_response": "J",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3728,
-            "completion_tokens": 18
+            "prompt_tokens": 3760,
+            "completion_tokens": 2125
         },
-        "time_elapsed": 1.239990472793579
+        "time_elapsed": 22.538292407989502
     },
     {
         "realidx": "Text-104",
@@ -166,13 +208,20 @@
         },
         "answer_idx": "J",
         "answer": "Posterior and inferior sternoclavicular somatic dysfunction",
-        "raw_response": "Answer: Anterior sternoclavicular joint dislocation",
-        "predicted_answer": "D",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "A"
+        ],
+        "ensemble_response": "J",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3560,
-            "completion_tokens": 12
+            "prompt_tokens": 2752,
+            "completion_tokens": 3052
         },
-        "time_elapsed": 3.994826316833496
+        "time_elapsed": 30.714223861694336
     },
     {
         "realidx": "Text-106",
@@ -191,13 +240,20 @@
         },
         "answer_idx": "D",
         "answer": "Renal ultrasound",
-        "raw_response": "Answer: Renal ultrasound\n\nThe patient's symptoms of episodic back pain radiating to the abdomen, along with the presence of red blood cells in the urinalysis, suggest the possibility of a renal or ureteral stone. A renal ultrasound is a non-invasive and appropriate diagnostic test to evaluate for the presence of kidney stones, especially given the positive beta-hCG indicating pregnancy, which makes avoiding radiation from CT scans preferable.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3638,
-            "completion_tokens": 86
+            "prompt_tokens": 3220,
+            "completion_tokens": 2446
         },
-        "time_elapsed": 3.6542012691497803
+        "time_elapsed": 29.23872447013855
     },
     {
         "realidx": "Text-107",
@@ -216,13 +272,20 @@
         },
         "answer_idx": "J",
         "answer": "Truncus arteriosus",
-        "raw_response": "Answer: Patent ductus arteriosus\n\nThe symptoms and findings in this neonate, such as bounding pulses, enlarged cardiac silhouette, increased pulmonary vasculature, and a systolic ejection murmur, are indicative of a patent ductus arteriosus (PDA). PDA is a condition where the ductus arteriosus fails to close after birth, leading to increased blood flow to the lungs and heart, causing the symptoms observed.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3581,
-            "completion_tokens": 90
+            "prompt_tokens": 2878,
+            "completion_tokens": 3161
         },
-        "time_elapsed": 3.7235448360443115
+        "time_elapsed": 32.876781702041626
     },
     {
         "realidx": "Text-109",
@@ -241,13 +304,20 @@
         },
         "answer_idx": "G",
         "answer": "Primary metabolic acidosis with concomitant respiratory acidosis",
-        "raw_response": "Answer: Primary metabolic acidosis with an anion gap\n\nExplanation: The patient's laboratory results indicate a primary metabolic acidosis with an anion gap. The low pH (7.12) and low bicarbonate (HCO3: 10 mEq/L) suggest metabolic acidosis. The anion gap can be calculated using the formula: Anion Gap = Na+ - (Cl- + HCO3-), which in this case is 135 - (92 + 10) = 33 mEq/L, indicating an elevated anion gap. The PaCO2 is 35 mmHg, which is lower than expected for the degree of acidosis, suggesting partial respiratory compensation.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "C",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "To determine the correct acid/base disorder for this patient, we need to analyze the laboratory and arterial blood gas results:\n\n1. **Serum Electrolytes:**\n   - Sodium: 135 mEq/L (normal)\n   - Potassium: 3.3 mEq/L (low)\n   - Chloride: 92 mEq/L (low)\n   - HCO3: 10 mEq/L (low)\n   - Serum creatinine: 4.5 mEq/L (elevated, indicating possible renal dysfunction)\n\n2. **Arterial Blood Gas:**\n   - pH: 7.12 (severely acidotic)\n   - PaCO2: 35 mmHg (normal to slightly low)\n   - PaO2: 77 mmHg (low)\n\nThe low pH indicates acidosis. The low bicarbonate (HCO3) level suggests a metabolic acidosis. The PaCO2 is not elevated, which means there is no significant respiratory compensation for the metabolic acidosis, or there might be a concomitant respiratory acidosis.\n\nNext, we calculate the anion gap to determine the type of metabolic acidosis:\n- Anion Gap = Na - (Cl + HCO3) = 135 - (92 + 10) = 33\n\nAn anion gap of 33 is elevated, indicating a primary metabolic acidosis with an anion gap.\n\nHowever, the PaCO2 is not elevated, which suggests that there might be a respiratory acidosis component, as the expected compensatory response would be a lower PaCO2 to compensate for the metabolic acidosis.\n\nGiven these observations, the most consistent answer across the solutions provided is \"G\" - Primary metabolic acidosis with concomitant respiratory acidosis.\n\nThe solutions provided are:\n- Solution 1: G\n- Solution 2: G\n- Solution 3: C\n- Solution 4: G\n- Solution 5: G\n\nThe most frequent answer is \"G\", which appears in four out of five solutions. Therefore, the most reliable solution is \"G\".\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3567,
-            "completion_tokens": 142
+            "prompt_tokens": 2794,
+            "completion_tokens": 2579
         },
-        "time_elapsed": 1.9934327602386475
+        "time_elapsed": 27.23568844795227
     },
     {
         "realidx": "Text-11",
@@ -266,13 +336,20 @@
         },
         "answer_idx": "E",
         "answer": "Ventricular septal defect",
-        "raw_response": "Answer: Esophageal atresia with tracheoesophageal fistula",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question describes a newborn male with breathing difficulties, excessive oral secretions, and a chest X-ray showing coiling of the nasogastric tube within the esophagus. These clinical findings are highly suggestive of esophageal atresia with tracheoesophageal fistula (TEF). \n\nEsophageal atresia with TEF is characterized by the inability to pass a nasogastric tube into the stomach due to the esophagus ending in a blind pouch, which explains the coiling of the tube seen on the X-ray. The excessive oral secretions and respiratory distress are also typical symptoms because the infant cannot swallow saliva properly, leading to aspiration and breathing difficulties.\n\nThe mother's pregnancy was notable for polyhydramnios, which is often associated with esophageal atresia because the fetus cannot swallow amniotic fluid normally, leading to its accumulation.\n\nGiven these observations, the condition that should be investigated in this patient is esophageal atresia with tracheoesophageal fistula. All solutions provided (Solution 1 through Solution 5) consistently identify this condition as the answer.\n\nTherefore, the most consistent solution across all provided answers is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3573,
-            "completion_tokens": 15
+            "prompt_tokens": 2830,
+            "completion_tokens": 2193
         },
-        "time_elapsed": 1.9592766761779785
+        "time_elapsed": 24.881993293762207
     },
     {
         "realidx": "Text-110",
@@ -291,13 +368,20 @@
         },
         "answer_idx": "G",
         "answer": "Ceftriaxone once; metronidazole and doxycycline for 7 days",
-        "raw_response": "Answer: Ceftriaxone and azithromycin once\n\nIn cases of sexual assault, prophylactic treatment for sexually transmitted infections (STIs) is recommended. Ceftriaxone and azithromycin are commonly used to cover potential infections such as gonorrhea and chlamydia, respectively. This regimen provides broad coverage for common STIs that may be transmitted during the assault.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "D",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3693,
-            "completion_tokens": 77
+            "prompt_tokens": 3550,
+            "completion_tokens": 2530
         },
-        "time_elapsed": 1.6268606185913086
+        "time_elapsed": 29.997478246688843
     },
     {
         "realidx": "Text-111",
@@ -316,13 +400,20 @@
         },
         "answer_idx": "H",
         "answer": "a true rib that primarily moves in a bucket handle motion",
-        "raw_response": "Answer: a true rib that primarily moves in a bucket handle motion\n\nExplanation: The patient's symptoms and examination findings suggest a somatic dysfunction involving ribs 4-6 on the right side. These ribs are true ribs, and they primarily move in a bucket handle motion, which is characterized by lateral movement during respiration. The restricted caudad movement during exhalation indicates a dysfunction in the bucket handle motion, which should be the focus of osteopathic manipulative treatment.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The question involves identifying the type of rib and its motion that should be the focus of osteopathic manipulative treatment for a patient with somatic dysfunction. The patient has tenderness and restricted movement in ribs 4\u20136 on the right side, which are true ribs. True ribs (ribs 1\u20137) primarily move in a pump handle motion, which involves anterior and superior movement during inhalation and posterior and inferior movement during exhalation.\n\nThe physical examination findings indicate restricted caudad movement of ribs 4\u20136 during exhalation, suggesting a dysfunction in the pump handle motion. Therefore, the focus should be on a true rib with restricted exhalation motion, which corresponds to the pump handle motion.\n\nAll solutions provided consistently identify option (F) as the correct answer, which is \"a true rib that primarily moves in a pump handle motion.\" This consistency across solutions indicates that option (F) is the most reliable answer.\n\nF",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3590,
-            "completion_tokens": 94
+            "prompt_tokens": 2932,
+            "completion_tokens": 2163
         },
-        "time_elapsed": 2.712844133377075
+        "time_elapsed": 22.50289750099182
     },
     {
         "realidx": "Text-114",
@@ -341,13 +432,20 @@
         },
         "answer_idx": "J",
         "answer": "Aspirin",
-        "raw_response": "Answer: Beta-blocker therapy alone\n\nThis patient's presentation is consistent with subacute thyroiditis (also known as de Quervain's thyroiditis), which often follows a viral infection and is characterized by neck pain, tenderness of the thyroid gland, and transient hyperthyroidism. The elevated ESR supports an inflammatory process. Beta-blockers are used to manage symptoms such as palpitations and anxiety due to the hyperthyroid state. Corticosteroids or NSAIDs like aspirin can be used for pain management, but the primary treatment for the hyperthyroid symptoms is beta-blocker therapy.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3537,
-            "completion_tokens": 119
+            "prompt_tokens": 2614,
+            "completion_tokens": 2479
         },
-        "time_elapsed": 1.753978967666626
+        "time_elapsed": 26.278422355651855
     },
     {
         "realidx": "Text-117",
@@ -366,13 +464,20 @@
         },
         "answer_idx": "G",
         "answer": "Intramuscular flu vaccine",
-        "raw_response": "Answer: Intramuscular flu vaccine\n\nDuring pregnancy, the intramuscular flu vaccine is recommended as it is safe and helps protect both the mother and the baby from influenza. Live vaccines, such as the MMR and varicella vaccines, are contraindicated during pregnancy. The Tetanus/Diphtheria/Pertussis vaccine is typically administered later in pregnancy, around 27-36 weeks, to protect the newborn from pertussis.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3573,
-            "completion_tokens": 92
+            "prompt_tokens": 2830,
+            "completion_tokens": 1983
         },
-        "time_elapsed": 1.5599989891052246
+        "time_elapsed": 21.00501012802124
     },
     {
         "realidx": "Text-119",
@@ -391,13 +496,20 @@
         },
         "answer_idx": "G",
         "answer": "Proceed to end to side vasoepididymostomy",
-        "raw_response": "Answer: Proceed to end to side vasoepididymostomy",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "D",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves a clinical decision-making scenario following a vasovasostomy, where the patient has had two negative semen analyses and is undergoing a repeat vasectomy reversal procedure. During the surgery, no sperm is found in the fluid from the vas deferens, indicating a potential obstruction or issue with sperm transport.\n\nThe solutions provided are:\n- Solution 1: G\n- Solution 2: G\n- Solution 3: D\n- Solution 4: G\n- Solution 5: G\n\nThe most frequently appearing answer across the solutions is \"G,\" which suggests proceeding to end-to-side vasoepididymostomy. This procedure is typically indicated when there is no sperm in the vasal fluid, suggesting an obstruction at the level of the epididymis. Vasoepididymostomy is a more complex procedure than vasovasostomy and is performed to bypass the obstruction and connect the vas deferens directly to the epididymis.\n\nGiven the consistency of the answer \"G\" in four out of five solutions, it is the most reliable solution based on the provided data.\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3520,
-            "completion_tokens": 15
+            "prompt_tokens": 2512,
+            "completion_tokens": 2582
         },
-        "time_elapsed": 0.9969580173492432
+        "time_elapsed": 25.341447114944458
     },
     {
         "realidx": "Text-12",
@@ -416,13 +528,20 @@
         },
         "answer_idx": "B",
         "answer": "Streptococcus pneumoniae",
-        "raw_response": "Answer: Haemophilus influenzae\n\nThe symptoms described in the question are characteristic of epiglottitis, which is commonly caused by Haemophilus influenzae type b (Hib). Although vaccination has significantly reduced the incidence of Hib epiglottitis, it remains a classic cause of the condition, especially in unvaccinated individuals or in cases where the vaccine was not effective. The presentation of drooling, difficulty breathing, and the \"tripod\" position are typical signs of epiglottitis.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3531,
-            "completion_tokens": 105
+            "prompt_tokens": 2578,
+            "completion_tokens": 2311
         },
-        "time_elapsed": 2.7334706783294678
+        "time_elapsed": 25.678503036499023
     },
     {
         "realidx": "Text-121",
@@ -441,13 +560,20 @@
         },
         "answer_idx": "A",
         "answer": "Initiate terbutaline therapy",
-        "raw_response": "Answer: Perform endotracheal intubation, and initiate mechanical ventilation",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3640,
-            "completion_tokens": 16
+            "prompt_tokens": 3232,
+            "completion_tokens": 2585
         },
-        "time_elapsed": 3.1664867401123047
+        "time_elapsed": 25.170845985412598
     },
     {
         "realidx": "Text-122",
@@ -466,13 +592,20 @@
         },
         "answer_idx": "C",
         "answer": "Conductive hearing loss that is greater on the right",
-        "raw_response": "Answer: Bilateral cerumen impaction with greater severity on the right",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing solution across all generated solutions is \"A,\" which corresponds to \"Bilateral cerumen impaction with greater severity on the right.\"\n\nTo determine the most probable diagnosis, we need to analyze the clinical findings:\n\n1. **Patient's Symptoms and History**: The patient is elderly, has Parkinson's disease and a history of stroke, and is experiencing confusion and social withdrawal. These symptoms could be related to hearing issues, which can exacerbate cognitive problems in the elderly.\n\n2. **Examination Findings**: The presence of dark, paste-like debris in both ears, with more in the right ear, suggests cerumen (earwax) accumulation. The Weber test lateralizes to the right, indicating that the right ear has conductive hearing loss. The Rinne test is positive bilaterally, which typically indicates normal hearing or sensorineural hearing loss, but in the context of cerumen impaction, it can still be positive due to the nature of the test.\n\n3. **Interpretation of Tests**:\n   - **Weber Test**: Lateralization to the right suggests conductive hearing loss in the right ear or sensorineural hearing loss in the left ear. Given the debris observed, conductive hearing loss due to cerumen impaction is more likely.\n   - **Rinne Test**: Positive bilaterally (air conduction > bone conduction) is consistent with normal hearing or sensorineural hearing loss, but in the presence of cerumen impaction, it can still be positive because the test is less sensitive to mild conductive losses.\n\nConsidering these points, the most consistent and logical diagnosis is \"A\" - Bilateral cerumen impaction with greater severity on the right. This explains the conductive hearing loss findings and the physical examination of debris in the ears.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3565,
-            "completion_tokens": 15
+            "prompt_tokens": 2782,
+            "completion_tokens": 2325
         },
-        "time_elapsed": 4.359941244125366
+        "time_elapsed": 23.298112630844116
     },
     {
         "realidx": "Text-124",
@@ -491,13 +624,20 @@
         },
         "answer_idx": "D",
         "answer": "Chest physiotherapy",
-        "raw_response": "Answer: Bronchoscopy with lavage\n\nThe clinical presentation suggests a possible obstruction in the right main bronchus, leading to complete opacification of the right lung and tracheal deviation to the right. Bronchoscopy with lavage is the most appropriate next step to evaluate and potentially relieve the obstruction, which could be due to mucus plugging or other causes.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The clinical scenario describes a patient with cerebral palsy who develops dyspnea and has physical examination findings of tracheal deviation to the right and diminished breath sounds over the right lung field. The chest imaging shows complete opacification of the right lung. These findings suggest a possible obstruction in the right main bronchus, leading to atelectasis (lung collapse) on the right side. The tracheal deviation towards the affected side (right) is consistent with atelectasis.\n\nGiven the complete opacification of the right lung and the clinical presentation, the most appropriate next step in management is to address the obstruction. Bronchoscopy with lavage (option H) is the most suitable intervention to directly visualize and potentially clear any obstruction in the bronchus, which could be causing the atelectasis.\n\nAll solutions provided consistently suggest option H, indicating a strong consensus that bronchoscopy with lavage is the correct next step in management for this patient.\n\nTherefore, the most consistent solution is:\n\nH",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3497,
-            "completion_tokens": 72
+            "prompt_tokens": 2374,
+            "completion_tokens": 2919
         },
-        "time_elapsed": 2.2467386722564697
+        "time_elapsed": 29.48473334312439
     },
     {
         "realidx": "Text-126",
@@ -516,13 +656,20 @@
         },
         "answer_idx": "H",
         "answer": "Hypernatremia",
-        "raw_response": "Answer: Hypokalemia\n\nIn this scenario, the child is experiencing persistent vomiting and diarrhea, which can lead to electrolyte imbalances. Vomiting often results in the loss of gastric acid and potassium, leading to hypokalemia. Diarrhea can also contribute to the loss of potassium and other electrolytes. Therefore, hypokalemia is the most likely electrolyte abnormality in this patient.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3512,
-            "completion_tokens": 79
+            "prompt_tokens": 2464,
+            "completion_tokens": 1984
         },
-        "time_elapsed": 2.7167224884033203
+        "time_elapsed": 24.382752418518066
     },
     {
         "realidx": "Text-127",
@@ -541,13 +688,20 @@
         },
         "answer_idx": "E",
         "answer": "FSH and estrogen levels",
-        "raw_response": "Answer: TSH level\n\nThe symptoms described, including fatigue, constipation, feeling cold, pale appearance, thinning hair, and delayed menarche, are suggestive of hypothyroidism. Measuring the thyroid-stimulating hormone (TSH) level would be the most useful test to diagnose this condition, as it can indicate whether the thyroid gland is underactive.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3564,
-            "completion_tokens": 74
+            "prompt_tokens": 2776,
+            "completion_tokens": 1704
         },
-        "time_elapsed": 2.353105306625366
+        "time_elapsed": 20.657379388809204
     },
     {
         "realidx": "Text-128",
@@ -566,13 +720,20 @@
         },
         "answer_idx": "I",
         "answer": "End-stage renal disease",
-        "raw_response": "Answer: Coronary artery disease\n\nThe clinical presentation and laboratory findings suggest a diagnosis of systemic lupus erythematosus (SLE), which is characterized by joint pain, hematologic abnormalities, and renal involvement. In patients with SLE, coronary artery disease is a leading cause of mortality due to accelerated atherosclerosis associated with chronic inflammation and other risk factors.",
-        "predicted_answer": "A",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "A",
+            "I"
+        ],
+        "ensemble_response": "The clinical presentation described in the question is suggestive of systemic lupus erythematosus (SLE). The patient exhibits symptoms such as bilateral hand pain, night sweats, decreased appetite, and laboratory findings including thrombocytopenia, leukopenia, proteinuria, and red blood cell casts, which are indicative of lupus nephritis. \n\nIn patients with SLE, the leading cause of mortality is often related to renal complications, particularly end-stage renal disease (ESRD) due to lupus nephritis. The presence of proteinuria and red blood cell casts in the urinalysis strongly suggests renal involvement, which can progress to ESRD if not managed appropriately.\n\nThe solutions provided are:\n- Solution 1: I (End-stage renal disease)\n- Solution 2: I (End-stage renal disease)\n- Solution 3: I (End-stage renal disease)\n- Solution 4: A (Coronary artery disease)\n- Solution 5: I (End-stage renal disease)\n\nThe most frequently appearing solution is \"I\" for end-stage renal disease, which aligns with the common cause of mortality in patients with SLE due to renal complications.\n\nTherefore, the most consistent solution is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3535,
-            "completion_tokens": 74
+            "prompt_tokens": 2602,
+            "completion_tokens": 2245
         },
-        "time_elapsed": 1.735227108001709
+        "time_elapsed": 23.65030336380005
     },
     {
         "realidx": "Text-129",
@@ -591,13 +752,20 @@
         },
         "answer_idx": "C",
         "answer": "Avoid drinking milk or taking antacids while you are on this medication",
-        "raw_response": "Answer: Avoid direct sunlight while taking this medication\n\nExplanation: The patient is likely receiving doxycycline, which is the first-line treatment for Rocky Mountain spotted fever, a condition he may have contracted during his hiking trip. Doxycycline can cause photosensitivity, so patients are advised to avoid direct sunlight while taking this medication.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The patient in the scenario is likely suffering from Rocky Mountain spotted fever, given the symptoms of fever, headache, and a macular petechial rash after a hiking trip in Tennessee. The first-line treatment for this condition is doxycycline, even in patients with a penicillin allergy. \n\nDoxycycline is known to interact with warfarin, a blood thinner, potentially increasing the risk of bleeding. Therefore, patients on warfarin may need to have their blood thinner levels monitored and adjusted while taking doxycycline. \n\nThe consistent answer across all solutions is (E), which advises that \"Your blood thinner levels may need to be adjusted while on this medication.\" This is the most relevant advice for a patient taking doxycycline while on warfarin.\n\nE",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3585,
-            "completion_tokens": 65
+            "prompt_tokens": 2902,
+            "completion_tokens": 2081
         },
-        "time_elapsed": 4.559198617935181
+        "time_elapsed": 20.566860914230347
     },
     {
         "realidx": "Text-130",
@@ -616,13 +784,20 @@
         },
         "answer_idx": "H",
         "answer": "improved rate of recovery",
-        "raw_response": "Answer: improved rate of recovery",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "G",
+            "G",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The task is to determine the most consistent answer among the solutions provided for the question regarding the advantage of a smaller incision without dislocation of the patella in unicondylar knee replacement.\n\nThe solutions given are:\n- Solution 1: H\n- Solution 2: G\n- Solution 3: G\n- Solution 4: H\n- Solution 5: H\n\nTo find the most consistent answer, we need to identify which answer appears most frequently across the solutions.\n\nCounting the occurrences:\n- H appears in Solution 1, Solution 4, and Solution 5, totaling 3 times.\n- G appears in Solution 2 and Solution 3, totaling 2 times.\n\nThe answer that appears most frequently is H, with 3 occurrences.\n\nTherefore, the most consistent solution is H, which corresponds to \"improved rate of recovery.\" This suggests that a smaller incision without dislocation of the patella in unicondylar knee replacement is most commonly associated with an improved rate of recovery.\n\nH",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3435,
-            "completion_tokens": 7
+            "prompt_tokens": 2002,
+            "completion_tokens": 2488
         },
-        "time_elapsed": 0.9565300941467285
+        "time_elapsed": 24.82012963294983
     },
     {
         "realidx": "Text-137",
@@ -641,13 +816,20 @@
         },
         "answer_idx": "A",
         "answer": "Neonatal genotype",
-        "raw_response": "Answer: Anti-D immune globulin administration\n\nExplanation: The patient is A-negative, which means she is Rh-negative. After delivering an Rh-positive baby, Rh-negative mothers should receive anti-D immune globulin (RhoGAM) to prevent Rh sensitization, which can lead to hemolytic disease of the newborn in future pregnancies. Since the antibody screen is negative, indicating she has not been sensitized, the administration of anti-D immune globulin is the appropriate next step.",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "J",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3518,
-            "completion_tokens": 98
+            "prompt_tokens": 2500,
+            "completion_tokens": 1809
         },
-        "time_elapsed": 1.6703715324401855
+        "time_elapsed": 20.33380126953125
     },
     {
         "realidx": "Text-138",
@@ -666,13 +848,20 @@
         },
         "answer_idx": "G",
         "answer": "Lithium",
-        "raw_response": "Answer: Olanzapine\n\nThe patient's symptoms are indicative of a manic episode with psychotic features, which is commonly seen in bipolar disorder. Olanzapine is an atypical antipsychotic that is effective in managing acute mania and psychosis, making it a suitable first-line medication for this condition.",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "C",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question describes a 17-year-old female with symptoms suggestive of a manic episode, possibly part of bipolar disorder. These symptoms include agitation, restlessness, decreased need for sleep, increased talkativeness, irritability, inappropriate behavior, delusions, and suicidal ideation. In such cases, the first-line treatment often involves mood stabilizers or atypical antipsychotics.\n\nThe answer choices include several medications that could be considered for treating bipolar disorder or acute mania. Among these, Olanzapine (J) is an atypical antipsychotic that is commonly used to manage acute manic episodes and is effective in treating both the mood and psychotic symptoms.\n\nUpon reviewing the solutions provided:\n- Solution 1: J\n- Solution 2: J\n- Solution 3: C\n- Solution 4: J\n- Solution 5: J\n\nThe most frequently appearing answer is \"J,\" which corresponds to Olanzapine. This consistency suggests that Olanzapine is the most appropriate first-line medication for treating the patient's condition, given the symptoms described.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nJ",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3456,
-            "completion_tokens": 64
+            "prompt_tokens": 2128,
+            "completion_tokens": 2637
         },
-        "time_elapsed": 1.4321999549865723
+        "time_elapsed": 26.76269555091858
     },
     {
         "realidx": "Text-139",
@@ -691,13 +880,20 @@
         },
         "answer_idx": "H",
         "answer": "MR venogram of the brain",
-        "raw_response": "Answer: Immediate magnesium sulfate administration\n\nExplanation: The patient's symptoms, including headache, hypertension, visual disturbances, and neurological signs, are suggestive of preeclampsia with severe features. Immediate magnesium sulfate administration is indicated to prevent seizures (eclampsia) and manage the condition.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3505,
-            "completion_tokens": 59
+            "prompt_tokens": 2422,
+            "completion_tokens": 2062
         },
-        "time_elapsed": 1.3954617977142334
+        "time_elapsed": 21.95946478843689
     },
     {
         "realidx": "Text-140",
@@ -716,13 +912,20 @@
         },
         "answer_idx": "G",
         "answer": "Add amlodipine to current therapy",
-        "raw_response": "Answer: Replace hydrochlorothiazide with dapagliflozin\n\nExplanation: In patients with chronic kidney disease and type 2 diabetes, SGLT2 inhibitors like dapagliflozin have been shown to provide renal protective benefits and reduce proteinuria. While this patient has type 1 diabetes, the use of dapagliflozin can still be considered for its renal protective effects, especially given the presence of significant proteinuria. Additionally, dapagliflozin can help manage blood pressure and improve glycemic control. Replacing hydrochlorothiazide with dapagliflozin is a reasonable strategy to address both hypertension and proteinuria in this patient.",
-        "predicted_answer": "D",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3602,
-            "completion_tokens": 134
+            "prompt_tokens": 3004,
+            "completion_tokens": 2760
         },
-        "time_elapsed": 5.468816041946411
+        "time_elapsed": 33.582348108291626
     },
     {
         "realidx": "Text-142",
@@ -741,13 +944,20 @@
         },
         "answer_idx": "G",
         "answer": "Cautery of an arteriovenous malformation",
-        "raw_response": "Answer: Stool softeners and dietary fiber supplementation\n\nExplanation: Given the patient's history of constipation and irritable bowel syndrome, along with the presentation of blood in the stool without pain, the most appropriate treatment would be stool softeners and dietary fiber supplementation. This approach can help manage constipation and reduce the risk of bleeding from hemorrhoids or anal fissures, which are common in patients with constipation. Other options like surgical resection or endoscopic procedures are not indicated based on the information provided.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "D",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question describes a 71-year-old male with blood in his stool, a history of ulcerative colitis in remission, and recent exposure to potentially contaminated food and water. The key details include the absence of pain, normal abdominal examination, and unremarkable radiographic studies. The patient's history and presentation suggest a possible gastrointestinal bleeding source, potentially related to an arteriovenous malformation (AVM), which can cause painless bleeding.\n\nThe solutions provided are:\n- Solution 1: G (Cautery of an arteriovenous malformation)\n- Solution 2: D (Colonoscopy with polypectomy)\n- Solution 3: G (Cautery of an arteriovenous malformation)\n- Solution 4: G (Cautery of an arteriovenous malformation)\n- Solution 5: G (Cautery of an arteriovenous malformation)\n\nThe most frequently appearing solution is \"G,\" which suggests cautery of an arteriovenous malformation. This is consistent with the presentation of painless gastrointestinal bleeding, which is often associated with AVMs, especially in older adults. The other options, such as colonoscopy with polypectomy, are less likely given the specific presentation and history.\n\nTherefore, the most consistent and likely solution is \"G.\"",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3590,
-            "completion_tokens": 98
+            "prompt_tokens": 2932,
+            "completion_tokens": 3485
         },
-        "time_elapsed": 2.8885269165039062
+        "time_elapsed": 33.94914197921753
     },
     {
         "realidx": "Text-143",
@@ -766,13 +976,20 @@
         },
         "answer_idx": "A",
         "answer": "Glucose",
-        "raw_response": "Answer: Glucose\n\nThe symptoms presented in the newborn, such as feeding difficulties, lethargy, macroglossia, and hepatomegaly, are suggestive of congenital hypothyroidism or hypoglycemia. Given the immediate need to address potential hypoglycemia, administering glucose is the most appropriate intervention to stabilize the newborn's condition.",
+        "solutions": [
+            "A",
+            "H",
+            "H",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3502,
-            "completion_tokens": 71
+            "prompt_tokens": 2404,
+            "completion_tokens": 1990
         },
-        "time_elapsed": 1.3999717235565186
+        "time_elapsed": 22.00828504562378
     },
     {
         "realidx": "Text-144",
@@ -791,13 +1008,20 @@
         },
         "answer_idx": "I",
         "answer": "Hypomagnesemia",
-        "raw_response": "Answer: Hemochromatosis\n\nChondrocalcinosis, which is the deposition of calcium pyrophosphate dihydrate crystals in the joint, is commonly associated with conditions like hemochromatosis. Hemochromatosis can lead to joint issues such as pseudogout, which is characterized by chondrocalcinosis and joint effusion.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "A"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3472,
-            "completion_tokens": 73
+            "prompt_tokens": 2224,
+            "completion_tokens": 2630
         },
-        "time_elapsed": 1.2108418941497803
+        "time_elapsed": 37.15015912055969
     },
     {
         "realidx": "Text-146",
@@ -816,13 +1040,20 @@
         },
         "answer_idx": "J",
         "answer": "Needle thoracostomy at the 5th intercostal space, midaxillary line",
-        "raw_response": "Answer: Needle thoracostomy at the 2nd intercostal space, anterior axillary line\n\nIn this scenario, the patient is likely experiencing a tension pneumothorax, which is characterized by absent breath sounds, hyperresonance to percussion, jugular venous distention, and mediastinal shift. The most appropriate immediate intervention is needle decompression (needle thoracostomy) to relieve the pressure in the pleural space. This is typically performed at the 2nd intercostal space in the midclavicular line, but the anterior axillary line is also a valid option.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "B",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The clinical scenario described in the question is indicative of a tension pneumothorax. The patient exhibits signs such as severe respiratory distress, absent breath sounds on the right side, hyperresonance to percussion, jugular venous distention, hypotension, and mediastinal shift on chest radiography. These are classic signs of a tension pneumothorax, which is a life-threatening condition requiring immediate intervention.\n\nThe most appropriate immediate intervention for a tension pneumothorax is needle decompression (needle thoracostomy) to rapidly relieve the pressure in the pleural space. This is typically performed at the 2nd intercostal space in the midclavicular line on the affected side.\n\nUpon reviewing the solutions provided, Solution 1, Solution 3, Solution 4, and Solution 5 all suggest option D, which corresponds to \"Needle thoracostomy at the 2nd intercostal space, anterior axillary line.\" Although the typical site for needle decompression is the midclavicular line, the anterior axillary line is also a viable option in emergency settings.\n\nGiven the consistency across multiple solutions, the most frequently suggested answer is option D.\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3815,
-            "completion_tokens": 126
+            "prompt_tokens": 4282,
+            "completion_tokens": 2504
         },
-        "time_elapsed": 4.108416795730591
+        "time_elapsed": 31.755794763565063
     },
     {
         "realidx": "Text-147",
@@ -841,13 +1072,20 @@
         },
         "answer_idx": "D",
         "answer": "Central precocious puberty related to a central nervous system lesion",
-        "raw_response": "Answer: Late-onset congenital adrenal hyperplasia\n\nExplanation: The presentation of precocious puberty with signs such as body odor, acne, pubic hair growth, and a growth spurt, along with an elevated bone age, suggests an excess of androgens. The normal 17-hydroxyprogesterone level in the morning rules out classic congenital adrenal hyperplasia but is consistent with late-onset congenital adrenal hyperplasia, which can present with signs of androgen excess without significant elevation of 17-hydroxyprogesterone.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F\n\nThe most consistent solution across all the generated solutions is \"F,\" which corresponds to Idiopathic central precocious puberty. This diagnosis is supported by the clinical presentation of the child, including the development of secondary sexual characteristics such as body odor, acne, pubic hair growth, and a growth spurt. The bone age is advanced, which is typical in cases of precocious puberty. The testicular volume is consistent with early pubertal changes, and the 17-hydroxyprogesterone level is within the normal range, which helps rule out congenital adrenal hyperplasia. Idiopathic central precocious puberty is a common cause of early puberty in children, especially when there is no evidence of a central nervous system lesion or other underlying pathology.",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3562,
-            "completion_tokens": 108
+            "prompt_tokens": 2764,
+            "completion_tokens": 2916
         },
-        "time_elapsed": 3.919452428817749
+        "time_elapsed": 28.34216833114624
     },
     {
         "realidx": "Text-148",
@@ -866,13 +1104,20 @@
         },
         "answer_idx": "A",
         "answer": "Obliterated x descent",
-        "raw_response": "Answer: Prominent v waves\n\nExplanation: In the context of tricuspid regurgitation, which is likely given the patient's history of infective endocarditis affecting the tricuspid valve, the jugular venous pulse tracing typically shows prominent v waves. This is due to the increased volume of blood being regurgitated back into the right atrium during systole, leading to elevated atrial pressures and thus prominent v waves on the jugular venous pulse tracing.",
-        "predicted_answer": "C",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question describes a patient with a history of intravenous drug use and infective endocarditis affecting the tricuspid valve, leading to tricuspid regurgitation. The physical examination reveals neck vein distention, which is indicative of elevated venous pressure, commonly associated with tricuspid regurgitation.\n\nIn tricuspid regurgitation, the jugular venous pulse tracing typically shows prominent v waves. This is because during systole, when the right ventricle contracts, blood regurgitates back into the right atrium due to the incompetent tricuspid valve, causing an increase in atrial pressure that is reflected as prominent v waves in the jugular venous pulse.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify \"G\" as the correct answer, which corresponds to \"Prominent v waves.\" This consistency across multiple solutions strongly supports \"G\" as the most reliable answer.\n\nTherefore, the most consistent solution is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3466,
-            "completion_tokens": 97
+            "prompt_tokens": 2188,
+            "completion_tokens": 2592
         },
-        "time_elapsed": 1.7331585884094238
+        "time_elapsed": 32.4356529712677
     },
     {
         "realidx": "Text-15",
@@ -891,13 +1136,20 @@
         },
         "answer_idx": "G",
         "answer": "Rotation at the atlantoaxial joint",
-        "raw_response": "Answer: Flexion and extension in the subaxial cervical spine",
-        "predicted_answer": "C",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3463,
-            "completion_tokens": 14
+            "prompt_tokens": 2170,
+            "completion_tokens": 1981
         },
-        "time_elapsed": 1.8706135749816895
+        "time_elapsed": 22.837849855422974
     },
     {
         "realidx": "Text-16",
@@ -916,13 +1168,20 @@
         },
         "answer_idx": "A",
         "answer": "Pneumococcal vaccine",
-        "raw_response": "Answer: Hepatitis A vaccine\n\nExplanation: For travelers to areas where hepatitis A is common, such as Taiwan, the hepatitis A vaccine is recommended. This vaccine is particularly important for individuals who have not previously been vaccinated against hepatitis A or who have not had the disease. Given the patient's travel plans and the endemic nature of hepatitis A in Taiwan, administering the hepatitis A vaccine is appropriate.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question involves determining which vaccine should be administered to a 42-year-old male who is planning a trip to Taiwan. His medical history and current vaccination status are provided, along with his lifestyle habits. The key considerations for this decision include his travel destination, current health status, and vaccination history.\n\n1. **Travel Destination**: Taiwan is a developed country with a relatively low risk for many travel-related diseases. However, Hepatitis A is a common travel-related illness, and vaccination is often recommended for travelers to areas where the disease is prevalent.\n\n2. **Current Health Status**: The patient has allergic rhinitis and hypertension, which are managed with medication. These conditions do not specifically necessitate any of the vaccines listed.\n\n3. **Vaccination History**: He has completed childhood vaccinations, receives annual influenza shots, has a complete COVID-19 vaccination series, and had a Td booster 5 years ago. This suggests he is up-to-date with routine vaccinations.\n\n4. **Lifestyle Habits**: He smokes and drinks alcohol occasionally, but these habits do not directly influence the choice of travel-related vaccines.\n\nGiven these considerations, the most relevant vaccine for his upcoming travel to Taiwan is the Hepatitis A vaccine. Hepatitis A is endemic in many parts of Asia, and vaccination is recommended for travelers to these regions.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify the Hepatitis A vaccine (Option D) as the appropriate choice. This consistency across multiple solutions indicates a strong consensus.\n\nTherefore, the most reliable solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3483,
-            "completion_tokens": 78
+            "prompt_tokens": 2290,
+            "completion_tokens": 2962
         },
-        "time_elapsed": 2.5837063789367676
+        "time_elapsed": 30.34789752960205
     },
     {
         "realidx": "Text-18",
@@ -941,13 +1200,20 @@
         },
         "answer_idx": "G",
         "answer": "Coagulase-negative *Staphylococcus spp.*",
-        "raw_response": "Answer: Coagulase-negative *Staphylococcus spp.*\n\nExplanation: In patients with prosthetic heart valves, coagulase-negative staphylococci, particularly *Staphylococcus epidermidis*, are common causes of prosthetic valve endocarditis. The patient's symptoms, including low-grade fever, malaise, weight loss, and a new heart murmur, are consistent with endocarditis, and the history of mitral valve replacement increases the likelihood of infection with coagulase-negative staphylococci.",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question describes a 65-year-old man with symptoms suggestive of infective endocarditis, including low-grade fever, weight loss, fatigue, and a new heart murmur. The patient has a history of mitral valve replacement, which is a risk factor for prosthetic valve endocarditis.\n\nInfective endocarditis on prosthetic valves can be caused by various organisms, but the most common ones include:\n\n1. **Early prosthetic valve endocarditis** (within 60 days of surgery): Typically caused by coagulase-negative staphylococci and *Staphylococcus aureus*.\n2. **Late prosthetic valve endocarditis** (after 60 days): Often caused by organisms similar to native valve endocarditis, including *Streptococcus* species, *Enterococcus*, and HACEK organisms.\n\nGiven that the valve replacement was five years ago, this would be considered late prosthetic valve endocarditis. Among the options provided, *Enterococcus* (Option J) is a common cause of late prosthetic valve endocarditis, especially in older adults.\n\nThe solutions provided are:\n- Solution 1: J\n- Solution 2: J\n- Solution 3: J\n- Solution 4: G\n- Solution 5: G\n\nThe most frequently appearing answer is J, which corresponds to *Enterococcus*. This consistency suggests that *Enterococcus* is the most likely organism responsible for the patient's condition, given the context of late prosthetic valve endocarditis.\n\nTherefore, the most consistent solution is:\n\nJ",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3556,
-            "completion_tokens": 103
+            "prompt_tokens": 2728,
+            "completion_tokens": 3077
         },
-        "time_elapsed": 3.789544105529785
+        "time_elapsed": 31.57474112510681
     },
     {
         "realidx": "Text-2",
@@ -966,13 +1232,20 @@
         },
         "answer_idx": "C",
         "answer": "This is hard to distinguish from pneumonia and sepsis so empirical antibiotics are given for 48 hours after birth until sepsis is ruled out",
-        "raw_response": "Answer: This is most likely transient tachypnea of the newborn and requires no antibiotics\n\nTransient tachypnea of the newborn (TTN) is a common condition that occurs shortly after birth, especially in infants delivered via cesarean section. It is characterized by tachypnea and mild respiratory distress due to delayed clearance of fetal lung fluid. TTN is typically self-limiting and resolves within 24 to 72 hours. Antibiotics are not required unless there is a suspicion of infection, which is not indicated in this case given the absence of fever, cyanosis, or other signs of illness.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3702,
-            "completion_tokens": 123
+            "prompt_tokens": 3604,
+            "completion_tokens": 2672
         },
-        "time_elapsed": 2.6112966537475586
+        "time_elapsed": 31.622094869613647
     },
     {
         "realidx": "Text-20",
@@ -991,13 +1264,20 @@
         },
         "answer_idx": "J",
         "answer": "Bacterial destruction",
-        "raw_response": "Answer: Decreased production of coagulation factors\n\nExplanation: The patient's condition is most likely due to decreased production of coagulation factors, which is a common consequence of liver dysfunction. The liver is responsible for producing most of the coagulation factors, and in the setting of liver failure or cirrhosis, this production is impaired, leading to bleeding tendencies. The patient's jaundice, history of cirrhosis, and bleeding from IV sites suggest liver dysfunction as the underlying cause of his coagulation abnormalities.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3642,
-            "completion_tokens": 103
+            "prompt_tokens": 3244,
+            "completion_tokens": 2796
         },
-        "time_elapsed": 2.748411178588867
+        "time_elapsed": 27.38680648803711
     },
     {
         "realidx": "Text-22",
@@ -1016,13 +1296,20 @@
         },
         "answer_idx": "E",
         "answer": "Enclosed muscular floor within the right atrium",
-        "raw_response": "Answer: Total anomalous pulmonary venous return\n\nExplanation: The symptoms and findings in this neonate, including cyanosis, jugular venous distention, tachypnea, and reduced pulmonary vascular markings on chest X-ray, are suggestive of a congenital heart defect that affects pulmonary blood flow. Total anomalous pulmonary venous return (TAPVR) is a condition where the pulmonary veins do not connect normally to the left atrium, leading to mixing of oxygenated and deoxygenated blood and resulting in cyanosis. The presence of a continuous murmur and the specific ECG findings further support this diagnosis.",
+        "solutions": [
+            "G",
+            "I",
+            "F",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a neonate with feeding difficulties, rapid breathing, cyanosis, jugular venous distention, and specific findings on physical examination and diagnostic tests. The key findings include:\n\n- Cyanosis and lethargy\n- Jugular venous distention\n- Tachypnea and a single second heart sound\n- Continuous murmur\n- Reduced pulmonary vascular markings on chest X-ray\n- Electrocardiogram showing tall P-waves in lead II and low-amplitude R-waves in leads V1-V3\n\nThese findings suggest a congenital heart defect that results in poor oxygenation and possibly mixing of oxygenated and deoxygenated blood. The reduced pulmonary vascular markings indicate decreased blood flow to the lungs, which is consistent with a condition where pulmonary venous return is abnormal.\n\nThe solutions provided are:\n- Solution 1: G\n- Solution 2: I\n- Solution 3: F\n- Solution 4: A\n- Solution 5: A\n\nThe most frequently appearing answer is \"A\" (Total anomalous pulmonary venous return), which appears twice. This condition involves the pulmonary veins draining into the systemic venous circulation instead of the left atrium, leading to cyanosis and reduced pulmonary blood flow, consistent with the findings described.\n\nTherefore, the most consistent solution is \"A\".",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3616,
-            "completion_tokens": 124
+            "prompt_tokens": 3088,
+            "completion_tokens": 3216
         },
-        "time_elapsed": 2.628157615661621
+        "time_elapsed": 35.737695932388306
     },
     {
         "realidx": "Text-24",
@@ -1041,13 +1328,20 @@
         },
         "answer_idx": "G",
         "answer": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years",
-        "raw_response": "Answer: Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "B",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves determining the appropriate timing for vaccination against encapsulated organisms and the initiation of penicillin prophylaxis for a patient undergoing splenectomy due to refractory idiopathic thrombocytopenic purpura (ITP). \n\nSplenectomy increases the risk of infections from encapsulated organisms such as Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae. Therefore, it is crucial to vaccinate the patient against these organisms before the surgery to ensure adequate immune response. The general recommendation is to vaccinate at least 2 weeks prior to surgery to allow the immune system to develop a sufficient response.\n\nRegarding penicillin prophylaxis, it is typically initiated at the time of surgery or shortly thereafter to prevent overwhelming post-splenectomy infection (OPSI). The duration of prophylaxis can vary, but a common practice is to continue it for at least 5 years, or sometimes indefinitely, depending on the patient's risk factors and local guidelines.\n\nUpon reviewing the solutions provided:\n- Solution 1: G\n- Solution 2: B\n- Solution 3: G\n- Solution 4: G\n- Solution 5: G\n\nThe answer that appears most frequently across the solutions is \"G\". This suggests that the consensus is to vaccinate 2 weeks prior to surgery and initiate penicillin prophylaxis at the time of surgery for 5 years.\n\nTherefore, the most consistent solution is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3834,
-            "completion_tokens": 24
+            "prompt_tokens": 4396,
+            "completion_tokens": 1954
         },
-        "time_elapsed": 3.1440279483795166
+        "time_elapsed": 24.799120903015137
     },
     {
         "realidx": "Text-26",
@@ -1066,13 +1360,20 @@
         },
         "answer_idx": "A",
         "answer": "Age of menopause",
-        "raw_response": "Answer: History of chronic anovulation\n\nExplanation: The patient's medical history includes polycystic ovarian syndrome, which is associated with chronic anovulation. Chronic anovulation is a significant risk factor for ovarian cancer, particularly serous cystadenocarcinoma, due to the increased number of ovulatory cycles over a woman's lifetime. This condition leads to repeated trauma and repair of the ovarian epithelium, increasing the risk of malignant transformation.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "E",
+            "E",
+            "D",
+            "E"
+        ],
+        "ensemble_response": "The question is asking for the most significant risk factor for the patient's condition, which is serous cystadenocarcinoma of the ovary, a type of ovarian cancer. To determine the most significant risk factor, we need to consider the common risk factors associated with ovarian cancer.\n\nThe solutions provided are:\n- Solution 1: D (History of chronic anovulation)\n- Solution 2: E (The patient\u2019s family history)\n- Solution 3: E (The patient\u2019s family history)\n- Solution 4: D (History of chronic anovulation)\n- Solution 5: E (The patient\u2019s family history)\n\nThe most frequently appearing answer is E, which appears in solutions 2, 3, and 5. This suggests that the patient's family history is considered the most significant risk factor by the majority of solutions.\n\nFamily history is indeed a well-known risk factor for ovarian cancer, especially if there is a history of breast or ovarian cancer in the family, which may suggest a genetic predisposition such as BRCA mutations. Although the patient\u2019s family history includes breast cancer in a cousin and colon cancer in her father, the presence of any cancer in the family can be indicative of a hereditary cancer syndrome, which is a significant risk factor for ovarian cancer.\n\nTherefore, based on the consistency across the solutions, the most reliable answer is E.",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3546,
-            "completion_tokens": 92
+            "prompt_tokens": 2668,
+            "completion_tokens": 2589
         },
-        "time_elapsed": 4.0728442668914795
+        "time_elapsed": 28.579296827316284
     },
     {
         "realidx": "Text-27",
@@ -1091,13 +1392,20 @@
         },
         "answer_idx": "C",
         "answer": "Osteoid osteoma",
-        "raw_response": "Answer: Osteochondroma",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A\n\nExplanation: The solutions provided all consistently identify \"Lytic Paget disease\" as the condition linked to bone enlargement. Paget's disease of bone is characterized by abnormal bone remodeling, leading to enlarged and deformed bones. The consistency across all solutions suggests that this is the most reliable answer.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3366,
-            "completion_tokens": 6
+            "prompt_tokens": 1588,
+            "completion_tokens": 1830
         },
-        "time_elapsed": 0.7171599864959717
+        "time_elapsed": 21.461518049240112
     },
     {
         "realidx": "Text-28",
@@ -1116,13 +1424,20 @@
         },
         "answer_idx": "E",
         "answer": "Decreased serum haptoglobin concentration",
-        "raw_response": "Answer: Elevated anti-Scl-70 antibodies\n\nThis patient's presentation is suggestive of systemic sclerosis (scleroderma), particularly the diffuse form, which is associated with elevated anti-Scl-70 antibodies (also known as anti-topoisomerase I antibodies). The symptoms of skin thickening, contractures, and pulmonary involvement, along with renal impairment, align with this diagnosis.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3681,
-            "completion_tokens": 78
+            "prompt_tokens": 3478,
+            "completion_tokens": 2388
         },
-        "time_elapsed": 2.481761932373047
+        "time_elapsed": 24.974600553512573
     },
     {
         "realidx": "Text-29",
@@ -1141,13 +1456,20 @@
         },
         "answer_idx": "J",
         "answer": "Meta-analysis",
-        "raw_response": "Answer: Randomized control trial\n\nA randomized control trial (RCT) is considered the gold standard for evaluating the efficacy of a new treatment or intervention. It provides the most robust evidence due to its design, which minimizes bias and allows for the establishment of causality between the intervention and the outcomes. In the context of switching patients to a new blood pressure medication, an RCT would offer the most reliable evidence to support the decision, as it would directly compare the new medication X to the usual antihypertensive treatment in a controlled and randomized manner.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3394,
-            "completion_tokens": 111
+            "prompt_tokens": 1756,
+            "completion_tokens": 2302
         },
-        "time_elapsed": 10.880163431167603
+        "time_elapsed": 25.138336658477783
     },
     {
         "realidx": "Text-3",
@@ -1166,13 +1488,20 @@
         },
         "answer_idx": "I",
         "answer": "Begin cabergoline 0.25 mg twice weekly",
-        "raw_response": "Answer: Begin cabergoline 0.25 mg twice weekly\n\nCabergoline is a dopamine agonist that is effective in reducing prolactin levels and shrinking prolactinomas. It is typically the first-line treatment for patients with prolactin-secreting pituitary adenomas, especially when there is no immediate threat to vision or neurological function. In this case, the patient has a prolactinoma with elevated prolactin levels and symptoms consistent with hyperprolactinemia, such as galactorrhea and irregular menses. Cabergoline can help manage these symptoms and potentially reduce the size of the adenoma.",
-        "predicted_answer": "B",
+        "solutions": [
+            "I",
+            "G",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The clinical scenario presented describes a 34-year-old woman with symptoms and laboratory findings suggestive of a prolactinoma, a type of pituitary adenoma that secretes prolactin. The elevated prolactin level, galactorrhea, irregular menses, and the MRI findings of a sellar mass with suprasellar extension and compression of the optic chiasm are consistent with this diagnosis.\n\nThe most common initial treatment for a prolactinoma is medical therapy with dopamine agonists, such as cabergoline or bromocriptine, which can effectively reduce prolactin levels and shrink the tumor. Cabergoline is often preferred due to its better side effect profile and dosing convenience compared to bromocriptine.\n\nThe solutions provided are:\n- Solution 1: I (Begin cabergoline 0.25 mg twice weekly)\n- Solution 2: G (Schedule urgent transsphenoidal surgery)\n- Solution 3: I (Begin cabergoline 0.25 mg twice weekly)\n- Solution 4: I (Begin cabergoline 0.25 mg twice weekly)\n- Solution 5: I (Begin cabergoline 0.25 mg twice weekly)\n\nThe most frequently appearing solution is \"I,\" which suggests beginning cabergoline therapy. This is consistent with the standard approach for treating prolactinomas, especially when the tumor is causing symptoms such as galactorrhea and menstrual irregularities, but not acute visual impairment or other urgent complications that would necessitate immediate surgical intervention.\n\nTherefore, the most consistent and appropriate next step for this patient, based on the solutions provided, is to begin cabergoline therapy.\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3703,
-            "completion_tokens": 130
+            "prompt_tokens": 3610,
+            "completion_tokens": 2584
         },
-        "time_elapsed": 2.615445375442505
+        "time_elapsed": 27.437097549438477
     },
     {
         "realidx": "Text-30",
@@ -1191,13 +1520,20 @@
         },
         "answer_idx": "I",
         "answer": "Referral to craniofacial specialists",
-        "raw_response": "Answer: Cranial ultrasound to assess for hydrocephalus",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D\n\nThe most consistent solution across all generated solutions is option (D), which is \"Cranial ultrasound to assess for hydrocephalus.\" This choice is appropriate given the clinical scenario described. The infant's head circumference has increased significantly, and the head shape is elongated and narrow, which could suggest a condition like hydrocephalus. A cranial ultrasound is a non-invasive and effective initial imaging modality for infants to assess for hydrocephalus or other intracranial abnormalities. It is particularly useful in infants because their fontanelles are still open, allowing for good visualization of the brain structures. This option is chosen consistently across all solutions, indicating it is the most reliable initial management step in this case.",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3572,
-            "completion_tokens": 13
+            "prompt_tokens": 2824,
+            "completion_tokens": 2297
         },
-        "time_elapsed": 1.1779673099517822
+        "time_elapsed": 24.24577760696411
     },
     {
         "realidx": "Text-31",
@@ -1216,13 +1552,20 @@
         },
         "answer_idx": "D",
         "answer": "Superior vertical strain",
-        "raw_response": "Answer: Inferior vertical strain\n\nExplanation: The description of the greater wings of the sphenoid being deviated caudad suggests an inferior vertical strain. In cranial osteopathy, vertical strains are named based on the direction of the sphenoid base relative to the occiput. An inferior vertical strain indicates that the sphenoid base is moving inferiorly, which correlates with the caudad deviation of the greater wings of the sphenoid.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3473,
-            "completion_tokens": 89
+            "prompt_tokens": 2230,
+            "completion_tokens": 1834
         },
-        "time_elapsed": 2.6253561973571777
+        "time_elapsed": 19.30788540840149
     },
     {
         "realidx": "Text-32",
@@ -1241,13 +1584,20 @@
         },
         "answer_idx": "F",
         "answer": "Colonoscopy",
-        "raw_response": "Answer: Oral iron supplementation\n\nThe patient's laboratory results indicate iron deficiency anemia, as evidenced by low hemoglobin, hematocrit, mean corpuscular volume (MCV), iron, and ferritin levels. The most appropriate next step in management for iron deficiency anemia, especially in the absence of acute bleeding or severe symptoms, is oral iron supplementation to replenish iron stores.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3643,
-            "completion_tokens": 74
+            "prompt_tokens": 3250,
+            "completion_tokens": 2433
         },
-        "time_elapsed": 1.5158357620239258
+        "time_elapsed": 30.23160672187805
     },
     {
         "realidx": "Text-33",
@@ -1266,13 +1616,20 @@
         },
         "answer_idx": "G",
         "answer": "L3-L4",
-        "raw_response": "Answer: L4-L5\n\nThe symptoms described, including numbness, tingling, radiating pain down the right leg, decreased sensation, reduced strength, and diminished patellar reflex, are consistent with involvement of the L4-L5 nerve root levels. The positive straight leg raise test also suggests nerve root compression or irritation, commonly seen in lumbar radiculopathy affecting these levels.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3486,
-            "completion_tokens": 78
+            "prompt_tokens": 2308,
+            "completion_tokens": 1734
         },
-        "time_elapsed": 2.300060987472534
+        "time_elapsed": 19.670317888259888
     },
     {
         "realidx": "Text-34",
@@ -1291,13 +1648,20 @@
         },
         "answer_idx": "G",
         "answer": "Synovitis of the metacarpophalangeal joints and subcutaneous nodules",
-        "raw_response": "Answer: Clubbing of the digits\n\nThe presence of a pleural effusion with a low pH, high lactate dehydrogenase, low glucose, and spindle-shaped cells on cytology suggests a diagnosis of mesothelioma. Clubbing of the digits is a common physical examination finding associated with mesothelioma and other pulmonary conditions.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3685,
-            "completion_tokens": 70
+            "prompt_tokens": 3502,
+            "completion_tokens": 2417
         },
-        "time_elapsed": 1.49934720993042
+        "time_elapsed": 24.691004276275635
     },
     {
         "realidx": "Text-35",
@@ -1316,13 +1680,20 @@
         },
         "answer_idx": "J",
         "answer": "Diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age",
-        "raw_response": "Answer: Hepatitis B vaccine now\n\nThe hepatitis B vaccine is recommended for all newborns, including those born preterm, as soon as they are medically stable and weigh at least 2,000 grams. However, for those weighing less than 2,000 grams, the vaccine should be administered at birth if the mother is hepatitis B surface antigen positive or if her status is unknown. In this case, the newborn should receive the hepatitis B vaccine now.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3666,
-            "completion_tokens": 93
+            "prompt_tokens": 3388,
+            "completion_tokens": 1558
         },
-        "time_elapsed": 1.685927152633667
+        "time_elapsed": 18.397482872009277
     },
     {
         "realidx": "Text-36",
@@ -1341,13 +1712,20 @@
         },
         "answer_idx": "D",
         "answer": "Administer hepatitis B vaccine only within 12 hours of birth",
-        "raw_response": "Answer: Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3603,
-            "completion_tokens": 21
+            "prompt_tokens": 3010,
+            "completion_tokens": 1694
         },
-        "time_elapsed": 1.2495543956756592
+        "time_elapsed": 21.626157522201538
     },
     {
         "realidx": "Text-37",
@@ -1366,13 +1744,20 @@
         },
         "answer_idx": "G",
         "answer": "Repeat thoracentesis with cytopathologic study",
-        "raw_response": "Answer: Video-assisted thoracoscopic surgery (VATS)\n\nExplanation: The patient's pleural effusion is bloody, and initial cytopathology is negative for malignancy. Given the complexity and the need for a definitive diagnosis, VATS is the most appropriate next step. It allows direct visualization of the pleura and the ability to obtain biopsies, which can help identify the underlying cause of the effusion, such as malignancy or other pleural diseases.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "I\n\nExplanation:\n\nThe patient presents with a large bloody pleural effusion, and the initial diagnostic thoracentesis did not reveal an obvious cause such as infection or malignancy. The pleural fluid analysis shows characteristics of an exudative effusion, given the elevated lactate dehydrogenase and protein levels compared to serum values. The negative cytopathology and low adenosine deaminase level make tuberculosis and malignancy less likely. \n\nGiven the complexity and the bloody nature of the effusion, further invasive investigation is warranted to directly visualize the pleura and obtain biopsies. Video-assisted thoracoscopic surgery (VATS) is the most appropriate next step as it allows direct visualization of the pleura, collection of pleural biopsies, and potentially therapeutic intervention. This approach is particularly useful when initial thoracentesis and imaging do not provide a definitive diagnosis, and it is consistent with the solutions provided.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3967,
-            "completion_tokens": 93
+            "prompt_tokens": 5194,
+            "completion_tokens": 3344
         },
-        "time_elapsed": 3.6845574378967285
+        "time_elapsed": 35.58531951904297
     },
     {
         "realidx": "Text-39",
@@ -1391,13 +1776,20 @@
         },
         "answer_idx": "H",
         "answer": "480 mL",
-        "raw_response": "To determine the total volume of gas in the patient's airways and lungs that does not participate in gas exchange, we need to consider the anatomical dead space, which includes the upper airway volume and the conducting airway volume. \n\nThe anatomical dead space is calculated as follows:\n- Upper airway volume: 100 mL\n- Conducting airway volume: 125 mL\n\nTotal anatomical dead space = Upper airway volume + Conducting airway volume = 100 mL + 125 mL = 225 mL\n\nTherefore, the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange is 225 mL.\n\nAnswer: 225 mL",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3563,
-            "completion_tokens": 138
+            "prompt_tokens": 2770,
+            "completion_tokens": 2006
         },
-        "time_elapsed": 3.373900890350342
+        "time_elapsed": 21.85725736618042
     },
     {
         "realidx": "Text-4",
@@ -1416,13 +1808,20 @@
         },
         "answer_idx": "J",
         "answer": "A 9-month-old boy with a 4-mm muscular defect with\u00a0pulmonary hypertension",
-        "raw_response": "Answer: A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators\n\nExplanation: Surgical repair is typically recommended for patients with large defects that lead to significant hemodynamic changes, such as severe pulmonary vascular disease that is unresponsive to medical management. In this case, the 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators would require surgical intervention to prevent further complications and deterioration of his condition.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3778,
-            "completion_tokens": 111
+            "prompt_tokens": 4060,
+            "completion_tokens": 3112
         },
-        "time_elapsed": 5.109130620956421
+        "time_elapsed": 35.94766044616699
     },
     {
         "realidx": "Text-40",
@@ -1441,13 +1840,20 @@
         },
         "answer_idx": "A",
         "answer": "Meta-analysis of prospective cohort studies of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
-        "raw_response": "Answer: Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3740,
-            "completion_tokens": 29
+            "prompt_tokens": 3832,
+            "completion_tokens": 2618
         },
-        "time_elapsed": 3.2195382118225098
+        "time_elapsed": 26.930922031402588
     },
     {
         "realidx": "Text-41",
@@ -1466,13 +1872,20 @@
         },
         "answer_idx": "J",
         "answer": "Convert it to a full-thickness tear and repair it with suture anchors",
-        "raw_response": "Answer: Arthroscopic repair of the bursal-sided tear without conversion",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "I",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3559,
-            "completion_tokens": 14
+            "prompt_tokens": 2746,
+            "completion_tokens": 2302
         },
-        "time_elapsed": 0.999891996383667
+        "time_elapsed": 22.83554434776306
     },
     {
         "realidx": "Text-44",
@@ -1491,13 +1904,20 @@
         },
         "answer_idx": "G",
         "answer": "An activated protein C resistance ratio of 0.3",
-        "raw_response": "Answer: A cardiac catheterization showing mean pulmonary artery pressure of 15 mmHg",
-        "predicted_answer": "A",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "J",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 3639,
-            "completion_tokens": 17
+            "prompt_tokens": 3226,
+            "completion_tokens": 2935
         },
-        "time_elapsed": 1.2664132118225098
+        "time_elapsed": 30.617494106292725
     },
     {
         "realidx": "Text-46",
@@ -1516,13 +1936,20 @@
         },
         "answer_idx": "E",
         "answer": "Place an anterior nasal pack",
-        "raw_response": "Answer: Place an anterior and a posterior nasal pack\n\nIn the case of severe epistaxis, especially when the source of bleeding is not clearly identified and there is significant bleeding into the posterior oropharynx, placing both an anterior and posterior nasal pack is a common and effective initial management strategy. This approach helps to control bleeding from both anterior and posterior sources, which is crucial in stabilizing the patient and preventing further blood loss.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves a 70-year-old man with severe ongoing epistaxis and a history of atrial fibrillation, hypertension, and anticoagulation therapy with apixaban. The patient is hypotensive, indicating significant blood loss, and the bleeding is severe enough to saturate a hand towel. The examination reveals active bleeding from the left nares and blood in the posterior oropharynx, suggesting both anterior and posterior involvement.\n\nIn cases of severe epistaxis, especially when the source is not clearly identified and there is significant bleeding, immediate management often involves nasal packing to control the bleeding. Anterior nasal packing alone may not be sufficient if there is posterior involvement, as suggested by the presence of blood in the posterior oropharynx. Therefore, placing both anterior and posterior nasal packs is a common and effective approach to control severe epistaxis.\n\nThe solutions provided consistently suggest option (G), which is to place an anterior and a posterior nasal pack. This approach is appropriate given the severity of the bleeding and the need for immediate control to prevent further hemodynamic instability.\n\nTherefore, the most consistent solution across the provided answers is option (G).\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3661,
-            "completion_tokens": 88
+            "prompt_tokens": 3358,
+            "completion_tokens": 2960
         },
-        "time_elapsed": 3.61240816116333
+        "time_elapsed": 32.23491716384888
     },
     {
         "realidx": "Text-47",
@@ -1541,13 +1968,20 @@
         },
         "answer_idx": "J",
         "answer": "Blood culture, lumbar puncture, then administration of antibiotics and dexamethasone",
-        "raw_response": "Answer: Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture\n\nIn cases of suspected bacterial meningitis, it is crucial to administer antibiotics and dexamethasone as soon as possible to prevent complications and improve outcomes. Blood cultures should be obtained before starting antibiotics to identify the causative organism, but treatment should not be delayed for lumbar puncture or imaging if the patient is stable and there are no signs of increased intracranial pressure or focal neurological deficits.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3769,
-            "completion_tokens": 100
+            "prompt_tokens": 4006,
+            "completion_tokens": 2066
         },
-        "time_elapsed": 1.668395757675171
+        "time_elapsed": 22.048479080200195
     },
     {
         "realidx": "Text-49",
@@ -1566,13 +2000,20 @@
         },
         "answer_idx": "G",
         "answer": "Glycogen storage disease type 1",
-        "raw_response": "Answer: Glycogen storage disease type 1\n\nThe clinical presentation of the infant, including difficulty weaning from nighttime feedings, distinctive facial fullness, significantly distended abdomen, thin limbs, and hepatomegaly, along with the characteristic milky white layer on the blood sample, is suggestive of Glycogen storage disease type 1 (also known as von Gierke disease). This condition is characterized by hypoglycemia, hepatomegaly, and hyperlipidemia, which can lead to the appearance of a milky white layer in the blood sample due to elevated triglycerides.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3549,
-            "completion_tokens": 123
+            "prompt_tokens": 2686,
+            "completion_tokens": 3122
         },
-        "time_elapsed": 3.041247844696045
+        "time_elapsed": 32.1720495223999
     },
     {
         "realidx": "Text-5",
@@ -1591,13 +2032,20 @@
         },
         "answer_idx": "C",
         "answer": "Three weeks elapse after the onset of symptoms",
-        "raw_response": "Answer: An abdominal ultrasound confirms the absence of splenomegaly\n\nIn cases of infectious mononucleosis, particularly in athletes, the risk of splenic rupture is a significant concern. Therefore, confirming the absence of splenomegaly through an abdominal ultrasound is a critical criterion for safely returning to full activity, including sports. This ensures that the spleen has returned to normal size, reducing the risk of rupture during physical exertion.",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question describes a 19-year-old college athlete with symptoms consistent with infectious mononucleosis, confirmed by positive heterophile antibody and Epstein-Barr virus (EBV) tests. A key concern in mononucleosis is the risk of splenic rupture, which can occur due to splenomegaly associated with the infection. Therefore, determining when it is safe for the athlete to return to full activity, including contact sports, is crucial.\n\nThe solutions provided all consistently suggest option (G) as the answer. This option states: \"An abdominal ultrasound confirms the absence of splenomegaly.\" This is a critical criterion because the presence of splenomegaly increases the risk of splenic rupture, especially in contact sports like lacrosse. An ultrasound confirming the absence of splenomegaly would indicate that the spleen has returned to normal size, significantly reducing the risk of rupture and making it safer for the athlete to resume full activity.\n\nGiven the consistent selection of option (G) across all solutions, it is the most reliable answer. The absence of splenomegaly is a direct indicator of reduced risk for splenic rupture, which is a primary concern in the management of athletes recovering from infectious mononucleosis.\n\nTherefore, the most consistent and reliable solution is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3574,
-            "completion_tokens": 91
+            "prompt_tokens": 2836,
+            "completion_tokens": 2933
         },
-        "time_elapsed": 3.6578567028045654
+        "time_elapsed": 33.691455364227295
     },
     {
         "realidx": "Text-50",
@@ -1616,13 +2064,20 @@
         },
         "answer_idx": "B",
         "answer": "Axillary lymph nodes",
-        "raw_response": "Answer: Dermal lymphatics\n\nThe physical findings described in the patient, such as redness, swelling, induration, and skin retraction, are suggestive of inflammatory breast cancer. This condition is characterized by the involvement of dermal lymphatics, leading to the classic presentation of peau d'orange (orange peel-like texture) and erythema due to lymphatic obstruction.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3492,
-            "completion_tokens": 77
+            "prompt_tokens": 2344,
+            "completion_tokens": 2003
         },
-        "time_elapsed": 2.716423988342285
+        "time_elapsed": 22.498136043548584
     },
     {
         "realidx": "Text-51",
@@ -1641,13 +2096,20 @@
         },
         "answer_idx": "F",
         "answer": "Mood dysregulation, inattentiveness, and hyperactivity",
-        "raw_response": "Answer: Cognitive decline and irreversible demyelination\n\nIn patients with phenylketonuria (PKU), maintaining a diet low in phenylalanine is crucial to prevent the accumulation of phenylalanine in the body, which can lead to neurotoxicity. An unrestricted vegetarian diet, even though it excludes animal protein, can still contain significant amounts of phenylalanine from plant-based sources such as legumes, nuts, and soy products. Without proper dietary management, elevated phenylalanine levels can result in cognitive decline and irreversible neurological damage, including demyelination. Therefore, it is important for individuals with PKU to adhere to a carefully controlled diet to prevent these adverse effects.",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3583,
-            "completion_tokens": 140
+            "prompt_tokens": 2890,
+            "completion_tokens": 2760
         },
-        "time_elapsed": 4.96947717666626
+        "time_elapsed": 27.733074188232422
     },
     {
         "realidx": "Text-53",
@@ -1666,13 +2128,20 @@
         },
         "answer_idx": "E",
         "answer": "Fingerstick glucose\u00a0level",
-        "raw_response": "Answer: Computerized tomography (CT) of the head\n\nIn the case of a suspected stroke, the immediate next step is to perform a CT scan of the head. This is crucial to differentiate between ischemic and hemorrhagic stroke, as the treatment approach differs significantly between the two. Administering intravenous tissue plasminogen activator (tPA) is appropriate for ischemic strokes but contraindicated in hemorrhagic strokes, hence the need for imaging to confirm the type of stroke before proceeding with treatment.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3579,
-            "completion_tokens": 104
+            "prompt_tokens": 2866,
+            "completion_tokens": 1850
         },
-        "time_elapsed": 3.70019793510437
+        "time_elapsed": 21.37804102897644
     },
     {
         "realidx": "Text-55",
@@ -1691,13 +2160,20 @@
         },
         "answer_idx": "J",
         "answer": "Fenoldopam",
-        "raw_response": "Answer: Labetalol\n\nExplanation: In the context of hypertensive emergency, especially with end-organ damage such as headache and visual disturbances, intravenous antihypertensive agents are preferred for rapid blood pressure control. Labetalol is a suitable choice because it can be administered intravenously, has both alpha and beta-blocking properties, and is effective in rapidly reducing blood pressure without significantly affecting renal function. Given the patient's chronic kidney disease, medications that can potentially worsen renal function, such as nitroprusside, should be used cautiously. Labetalol provides a balanced approach to managing this patient's hypertensive crisis.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a scenario of a 71-year-old male with chronic kidney disease, hypertension, and diabetes who presents with symptoms indicative of hypertensive emergency, such as headache and visual disturbances. His blood pressure is significantly elevated at 200/120 mm Hg, and his creatinine level has worsened from a baseline of 2.0 mg/dL to 3.0 mg/dL, indicating possible acute kidney injury.\n\nIn hypertensive emergencies, the goal is to rapidly lower blood pressure to prevent end-organ damage. Intravenous antihypertensive medications are typically used in such situations. The options provided include several intravenous medications suitable for acute management of severe hypertension.\n\nNicardipine (Option C) is a calcium channel blocker that is often used in hypertensive emergencies due to its ability to quickly and effectively lower blood pressure. It is particularly useful because it can be titrated easily and has a favorable safety profile. It does not adversely affect renal function, which is important given the patient's chronic kidney disease and current elevated creatinine levels.\n\nThe consistency across all solutions (Solution 1 to Solution 5) indicates that Nicardipine (Option C) is the most appropriate choice for this patient's condition. This consensus suggests that Nicardipine is the preferred medication for managing this hypertensive emergency.\n\nTherefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3463,
-            "completion_tokens": 127
+            "prompt_tokens": 2170,
+            "completion_tokens": 2960
         },
-        "time_elapsed": 5.058729410171509
+        "time_elapsed": 35.61318516731262
     },
     {
         "realidx": "Text-58",
@@ -1716,13 +2192,20 @@
         },
         "answer_idx": "A",
         "answer": "Elevated levels of IL-6",
-        "raw_response": "Answer: Antibodies to phospholipase A2 receptor\n\nExplanation: The patient's symptoms and findings are suggestive of membranous nephropathy, which is characterized by proteinuria and edema. The presence of casts with a cross-like appearance under polarized light and the characteristic finding on renal biopsy further support this diagnosis. Membranous nephropathy is often associated with antibodies to the phospholipase A2 receptor, which is a key marker for this condition.",
-        "predicted_answer": "A",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The clinical presentation described in the question suggests a case of multiple myeloma or a related plasma cell dyscrasia. The key findings include leg swelling, proteinuria, and casts with a cross-like appearance under polarized light, which are indicative of Bence Jones proteinuria often seen in multiple myeloma. The renal biopsy finding visible only under polarized light further supports this diagnosis, as it suggests the presence of light chain deposits.\n\nThe altered kappa to lambda ratio is a hallmark of multiple myeloma, where there is an overproduction of one type of light chain (either kappa or lambda) by the malignant plasma cells. This imbalance can lead to kidney damage and the symptoms described, including edema due to nephrotic syndrome.\n\nGiven the solutions provided, all solutions consistently identify \"I\" as the answer, which corresponds to \"Altered kappa to lambda ratio.\" This consistency across solutions indicates that the most reliable answer is indeed \"I.\"\n\nTherefore, the answer is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3571,
-            "completion_tokens": 96
+            "prompt_tokens": 2818,
+            "completion_tokens": 2924
         },
-        "time_elapsed": 3.75852632522583
+        "time_elapsed": 27.3130362033844
     },
     {
         "realidx": "Text-59",
@@ -1741,13 +2224,20 @@
         },
         "answer_idx": "G",
         "answer": "Fibrosing mediastinitis",
-        "raw_response": "Answer: Chronic thromboembolic disease\n\nChronic thromboembolic disease is most likely to result in a whole-lung ventilation-perfusion (V/Q) mismatch on a ventilation-perfusion lung scan. This condition can lead to significant perfusion defects due to obstruction of pulmonary arteries, while ventilation may remain relatively preserved, resulting in a mismatch.",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3422,
-            "completion_tokens": 71
+            "prompt_tokens": 1924,
+            "completion_tokens": 2393
         },
-        "time_elapsed": 3.67761492729187
+        "time_elapsed": 24.755199909210205
     },
     {
         "realidx": "Text-60",
@@ -1766,13 +2256,20 @@
         },
         "answer_idx": "J",
         "answer": "Cidofovir",
-        "raw_response": "Answer: Foscarnet\n\nExplanation: The patient's symptoms and the genetic mutation in the viral phosphotransferase gene suggest resistance to medications that require phosphorylation by viral enzymes, such as acyclovir, ganciclovir, and valganciclovir. Foscarnet is an antiviral medication that does not require activation by viral kinases and is effective against resistant strains of herpesviruses, making it the most appropriate treatment in this case.",
-        "predicted_answer": "F",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3483,
-            "completion_tokens": 93
+            "prompt_tokens": 2290,
+            "completion_tokens": 1989
         },
-        "time_elapsed": 3.8867721557617188
+        "time_elapsed": 25.353095769882202
     },
     {
         "realidx": "Text-62",
@@ -1791,13 +2288,20 @@
         },
         "answer_idx": "A",
         "answer": "Ischemic segmental resorption",
-        "raw_response": "Answer: Failed luminal recanalization\n\nThe presentation of bilious emesis in a newborn, along with the radiographic finding of \"three distinct gastric bubbles,\" suggests a condition known as duodenal atresia. Duodenal atresia is typically caused by failed luminal recanalization during fetal development, leading to obstruction. This condition is characterized by the \"double bubble\" sign on radiographs, which is indicative of the presence of air in the stomach and proximal duodenum, with no air distally due to the atresia.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3532,
-            "completion_tokens": 114
+            "prompt_tokens": 2584,
+            "completion_tokens": 1986
         },
-        "time_elapsed": 1.86539888381958
+        "time_elapsed": 19.645065307617188
     },
     {
         "realidx": "Text-63",
@@ -1816,13 +2320,20 @@
         },
         "answer_idx": "F",
         "answer": "Malrotation of the gut",
-        "raw_response": "Answer: Volvulus\n\nThe clinical presentation of progressive abdominal pain, constipation, vomiting, and upper abdominal distention in a 5-year-old child is suggestive of volvulus. Volvulus occurs when a loop of intestine twists around itself and the mesentery that supports it, potentially leading to bowel obstruction and ischemia. The absence of bloody stools and the presence of tympany on examination further support this diagnosis. Immediate medical evaluation and intervention are necessary to prevent complications such as bowel necrosis.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "F",
+            "F",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The question describes a 5-year-old female with progressive abdominal pain, constipation, vomiting, and upper abdominal distention. The physical examination reveals tympany but no mass, guarding, or rebound tenderness. The task is to identify the most probable underlying etiology from the given options.\n\nLet's evaluate the options:\n\n- (A) Hirschsprung disease: Typically presents with chronic constipation from birth, not sudden onset.\n- (B) Intestinal lymphoma: Rare in this age group and unlikely to present acutely.\n- (C) Superior mesenteric artery syndrome: Causes duodenal obstruction but is rare in young children.\n- (D) Chronic intestinal pseudo-obstruction: Would likely have a history of recurrent symptoms.\n- (E) Volvulus: Can cause acute obstruction and is consistent with the symptoms described.\n- (F) Malrotation of the gut: Often associated with volvulus, which can cause acute obstruction.\n- (G) Pyloric stenosis: Typically presents in infants with projectile vomiting, not constipation.\n- (H) Intussusception: Common in this age group, but often presents with bloody stools and palpable mass.\n- (I) Meckel diverticulum: Can cause bleeding or obstruction but less likely without bloody stools.\n- (J) Duodenal web: Would likely present earlier in life with feeding difficulties.\n\nThe solutions provided are:\n- Solution 1: E (Volvulus)\n- Solution 2: F (Malrotation of the gut)\n- Solution 3: F (Malrotation of the gut)\n- Solution 4: E (Volvulus)\n- Solution 5: E (Volvulus)\n\nThe most frequently occurring answer is \"E\" (Volvulus), appearing in three out of five solutions. Volvulus is consistent with acute abdominal pain, vomiting, and constipation due to bowel obstruction, and it can occur in the setting of malrotation.\n\nTherefore, the most consistent solution is \"E\" (Volvulus).",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3472,
-            "completion_tokens": 103
+            "prompt_tokens": 2224,
+            "completion_tokens": 3284
         },
-        "time_elapsed": 2.822150707244873
+        "time_elapsed": 33.334415912628174
     },
     {
         "realidx": "Text-64",
@@ -1841,13 +2352,20 @@
         },
         "answer_idx": "J",
         "answer": "Cystathionine synthase deficiency",
-        "raw_response": "Answer: Fibrillin 1 deficiency\n\nThe clinical findings described in the question are characteristic of Marfan syndrome, which is caused by a deficiency or mutation in the fibrillin 1 gene. The features such as tall stature, long slender fingers, lens dislocation, and hyperelastic skin are typical of this connective tissue disorder.",
-        "predicted_answer": "F",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 4-year-old boy with specific clinical features: delayed motor milestones, speech delay, tall stature, low weight, bilateral inferior lens dislocation, long slender fingers, high-arched palate, hyperelastic skin, and the ability to overlap his thumb and fifth finger when wrapping one hand around the opposite wrist. These features are characteristic of Marfan syndrome, which is caused by a deficiency in Fibrillin 1.\n\nThe answer choices provided include various genetic and enzymatic deficiencies. Among these, Fibrillin 1 deficiency (option A) is directly associated with Marfan syndrome. The other options describe conditions that do not match the clinical presentation given in the question:\n\n- (B) Procollagen peptidase deficiency is related to Ehlers-Danlos syndrome, which can have overlapping features but does not typically include lens dislocation.\n- (C) Type I collagen mutation is associated with Osteogenesis Imperfecta, which primarily involves bone fragility.\n- (D) Deficiency of pyridoxine-dependent enzymes is not related to the described symptoms.\n- (E) Alpha-1,4-glucosidase deficiency is related to Pompe disease, a glycogen storage disorder.\n- (F) Mutation in the FGFR3 gene is associated with achondroplasia, which involves short stature.\n- (G) Type V collagen deficiency is another form of Ehlers-Danlos syndrome.\n- (H) Lysyl hydroxylase deficiency is linked to a form of Ehlers-Danlos syndrome.\n- (I) Homogentisic acid oxidase deficiency causes alkaptonuria, which involves dark urine and ochronosis.\n- (J) Cystathionine synthase deficiency is related to homocystinuria, which can have similar features to Marfan syndrome but typically includes thromboembolic events.\n\nAll solutions provided (Solution 1 through Solution 5) consistently identify option A as the answer. This consistency strongly suggests that Fibrillin 1 deficiency is the most likely cause of the findings described in the question.\n\nTherefore, the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3556,
-            "completion_tokens": 67
+            "prompt_tokens": 2728,
+            "completion_tokens": 2945
         },
-        "time_elapsed": 1.6066076755523682
+        "time_elapsed": 31.93481731414795
     },
     {
         "realidx": "Text-65",
@@ -1866,13 +2384,20 @@
         },
         "answer_idx": "C",
         "answer": "Levofloxacin",
-        "raw_response": "Answer: Hydrocodone-acetaminophen\n\nHydrocodone, an opioid, is known to cause constipation as a common side effect due to its action on the gastrointestinal tract, which decreases bowel motility. This is likely contributing to the patient's decreased bowel movement frequency.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "I",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3499,
-            "completion_tokens": 57
+            "prompt_tokens": 2386,
+            "completion_tokens": 2193
         },
-        "time_elapsed": 2.0569891929626465
+        "time_elapsed": 22.235378742218018
     },
     {
         "realidx": "Text-66",
@@ -1891,13 +2416,20 @@
         },
         "answer_idx": "J",
         "answer": "58\u00ba",
-        "raw_response": "Answer: 45\u00ba",
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3496,
-            "completion_tokens": 6
+            "prompt_tokens": 2368,
+            "completion_tokens": 2055
         },
-        "time_elapsed": 2.046718120574951
+        "time_elapsed": 21.662391901016235
     },
     {
         "realidx": "Text-67",
@@ -1916,13 +2448,20 @@
         },
         "answer_idx": "A",
         "answer": "Repeating the urine dipstick test",
-        "raw_response": "Answer: 24-hour urine collection\n\nExplanation: In a patient with significant proteinuria detected on urinalysis, the next best step is to quantify the proteinuria with a 24-hour urine collection. This helps to assess the severity of the proteinuria and guide further management.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3497,
-            "completion_tokens": 57
+            "prompt_tokens": 2374,
+            "completion_tokens": 2673
         },
-        "time_elapsed": 3.6289243698120117
+        "time_elapsed": 32.415372371673584
     },
     {
         "realidx": "Text-68",
@@ -1941,13 +2480,20 @@
         },
         "answer_idx": "A",
         "answer": "Transverse axis",
-        "raw_response": "Answer: Anteroposterior axis\n\nThe patient's symptoms and physical examination findings suggest costochondritis, which is inflammation of the costal cartilage. The restriction of motion in the ribs during inhalation is primarily due to a restriction about the anteroposterior axis, which affects the pump-handle motion of the ribs.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "A",
+            "C",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3627,
-            "completion_tokens": 67
+            "prompt_tokens": 3154,
+            "completion_tokens": 1582
         },
-        "time_elapsed": 2.521005868911743
+        "time_elapsed": 17.596810817718506
     },
     {
         "realidx": "Text-69",
@@ -1966,13 +2512,20 @@
         },
         "answer_idx": "H",
         "answer": "Perform liver function testing",
-        "raw_response": "Answer: Initiate atorvastatin therapy\n\nExplanation: The patient has an elevated LDL level of 190 mg/dL, which is a significant risk factor for cardiovascular disease, especially given his family history of myocardial infarction and current smoking habit. Initiating atorvastatin therapy is appropriate to lower LDL levels and reduce cardiovascular risk. Statins are the first-line treatment for hyperlipidemia and are effective in reducing the risk of cardiovascular events.",
-        "predicted_answer": "A",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question involves a 45-year-old male with type II diabetes mellitus, hypertension, and a significant smoking history. His LDL cholesterol level is notably high at 190 mg/dL, which is a major risk factor for cardiovascular disease. Given his family history of myocardial infarction and his smoking habit, he is at increased risk for cardiovascular events.\n\nThe most appropriate next step in managing this patient is to address the elevated LDL cholesterol level. Statins are the first-line treatment for lowering LDL cholesterol and reducing cardiovascular risk. Atorvastatin is a commonly prescribed statin for this purpose.\n\nThe solutions provided all consistently suggest initiating atorvastatin therapy (Solution 1: I, Solution 2: I, Solution 3: I, Solution 4: I, Solution 5: I). This consistency indicates that initiating atorvastatin therapy is the most reliable and appropriate next step in this patient's management.\n\nTherefore, the answer is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3651,
-            "completion_tokens": 90
+            "prompt_tokens": 3298,
+            "completion_tokens": 2885
         },
-        "time_elapsed": 3.713675022125244
+        "time_elapsed": 28.321471691131592
     },
     {
         "realidx": "Text-7",
@@ -1991,13 +2544,20 @@
         },
         "answer_idx": "F",
         "answer": "Index finger MCP hyperextension",
-        "raw_response": "Answer: Full extension of the elbow",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "I",
+            "H"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3419,
-            "completion_tokens": 8
+            "prompt_tokens": 1906,
+            "completion_tokens": 3372
         },
-        "time_elapsed": 3.8800299167633057
+        "time_elapsed": 43.9610595703125
     },
     {
         "realidx": "Text-70",
@@ -2016,13 +2576,20 @@
         },
         "answer_idx": "J",
         "answer": "Between L3 and L4",
-        "raw_response": "Answer: Between L5 and S1\n\nThe symptoms described, including radiating pain and tingling from the left lateral thigh to the medial leg and foot, diminished patellar reflexes, and positive straight leg test, suggest involvement of the L5-S1 nerve root, which is commonly affected in cases of lumbar disc herniation. The location of the damaged structure is most likely between L5 and S1.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "G"
+        ],
+        "ensemble_response": "The clinical presentation described in the question suggests a case of lumbar radiculopathy, likely due to a herniated disc. The key symptoms include lower back pain, radiating pain and tingling from the left lateral thigh to the medial leg and foot, diminished patellar reflexes, and a positive straight leg test. These symptoms are indicative of nerve root compression, commonly affecting the L4 or L5 nerve roots.\n\nThe diminished patellar reflex and the pattern of radiating pain suggest involvement of the L4 nerve root, which is typically compressed by a disc herniation at the L4-L5 level. However, the radiating pain extending to the medial leg and foot could also suggest involvement of the L5 nerve root, which is more commonly compressed at the L5-S1 level.\n\nThe solutions provided are:\n- Solution 1: D (Between L4 and L5)\n- Solution 2: D (Between L4 and L5)\n- Solution 3: D (Between L4 and L5)\n- Solution 4: D (Between L4 and L5)\n- Solution 5: G (Between L5 and S1)\n\nThe most consistent answer across the solutions is \"D\" (Between L4 and L5), appearing in four out of five solutions. This consistency suggests that the most likely location of the damaged structure is at the L4-L5 level, which aligns with the clinical presentation of diminished patellar reflexes and radiating pain.\n\nTherefore, the most reliable solution based on the consistency of answers is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3546,
-            "completion_tokens": 85
+            "prompt_tokens": 2668,
+            "completion_tokens": 2266
         },
-        "time_elapsed": 2.5240108966827393
+        "time_elapsed": 25.952356576919556
     },
     {
         "realidx": "Text-71",
@@ -2041,13 +2608,20 @@
         },
         "answer_idx": "G",
         "answer": "Nifedipine",
-        "raw_response": "Answer: Letrazole\n\nExplanation: In a patient with irregular menstrual cycles and difficulty conceiving, letrozole is often used as an ovulation induction agent, especially in cases of polycystic ovary syndrome (PCOS), which may be suggested by the antral follicle count and the patient's symptoms. Letrozole is an aromatase inhibitor that can help stimulate ovulation. Clomiphene citrate is another option for ovulation induction, but letrozole has been shown to be more effective in certain cases, particularly in women with PCOS.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3554,
-            "completion_tokens": 116
+            "prompt_tokens": 2716,
+            "completion_tokens": 2514
         },
-        "time_elapsed": 2.862227439880371
+        "time_elapsed": 23.163901567459106
     },
     {
         "realidx": "Text-72",
@@ -2066,13 +2640,20 @@
         },
         "answer_idx": "J",
         "answer": "Start levofloxacin and observe for 72 hours",
-        "raw_response": "Answer: Add tiotropium to current regimen\n\nExplanation: In a patient with COPD experiencing worsening symptoms, adding a long-acting muscarinic antagonist (LAMA) like tiotropium can help improve lung function and reduce symptoms. Tiotropium is often used to manage COPD by providing bronchodilation and reducing exacerbations. Given the patient's history and current symptoms, this is an appropriate step in optimizing his treatment regimen.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "E",
+            "E",
+            "D",
+            "E"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3559,
-            "completion_tokens": 86
+            "prompt_tokens": 2746,
+            "completion_tokens": 2665
         },
-        "time_elapsed": 1.8081321716308594
+        "time_elapsed": 26.530069589614868
     },
     {
         "realidx": "Text-73",
@@ -2091,13 +2672,20 @@
         },
         "answer_idx": "B",
         "answer": "Exertional heat stroke",
-        "raw_response": "Answer: Exertional heat stroke\n\nExplanation: The patient's presentation is consistent with exertional heat stroke, characterized by high body temperature, confusion, and lack of purposeful movement, often occurring in individuals exposed to high temperatures and physical exertion. His occupation as a construction worker and the acute onset of symptoms after being found unconscious at the worksite further support this diagnosis.",
-        "predicted_answer": "D",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3500,
-            "completion_tokens": 74
+            "prompt_tokens": 2392,
+            "completion_tokens": 3147
         },
-        "time_elapsed": 2.6809067726135254
+        "time_elapsed": 35.124743700027466
     },
     {
         "realidx": "Text-75",
@@ -2116,13 +2704,20 @@
         },
         "answer_idx": "A",
         "answer": "Wrist/hand tendon transfer surgery",
-        "raw_response": "Answer: Selective dorsal rhizotomy",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the strongest predictor of functional improvement in individuals with cerebral palsy following a specific procedure, with voluntary motion control being the key factor. The answer choices provided include various surgical and therapeutic interventions.\n\nThe solutions generated all consistently point to option (A) Wrist/hand tendon transfer surgery. This suggests that voluntary motion control is particularly relevant for predicting functional improvement following this type of surgery. Tendon transfer surgeries are often performed to improve hand and wrist function in individuals with cerebral palsy, and the ability to voluntarily control motion is crucial for the success of such procedures.\n\nGiven the consistency across all solutions, the most reliable answer is option (A). Therefore, the single letter ID corresponding to the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3376,
-            "completion_tokens": 9
+            "prompt_tokens": 1648,
+            "completion_tokens": 2751
         },
-        "time_elapsed": 1.1290197372436523
+        "time_elapsed": 28.239271879196167
     },
     {
         "realidx": "Text-78",
@@ -2141,13 +2736,20 @@
         },
         "answer_idx": "H",
         "answer": "Mesenteric angiography",
-        "raw_response": "Answer: Mesenteric angiography\n\nMesenteric angiography is the most appropriate next diagnostic step in this scenario. The patient is experiencing significant active rectal bleeding, and mesenteric angiography can help localize the source of bleeding, especially when the bleeding rate is high enough (typically >0.5 mL/min) to be detected by angiography. This procedure also allows for potential therapeutic intervention, such as embolization, to control the bleeding.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3552,
-            "completion_tokens": 94
+            "prompt_tokens": 2704,
+            "completion_tokens": 2475
         },
-        "time_elapsed": 3.155717134475708
+        "time_elapsed": 23.9264554977417
     },
     {
         "realidx": "Text-79",
@@ -2166,13 +2768,20 @@
         },
         "answer_idx": "B",
         "answer": "Perform the imaging study using a standard contrast medium",
-        "raw_response": "Answer: Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "H",
+            "A"
+        ],
+        "ensemble_response": "The task is to determine the most appropriate approach for managing a patient with a shellfish allergy who requires intravenous radiocontrast for a CT scan. The solutions provided are:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: H\nSolution 5: A\n\nThe most frequently appearing answer across the solutions is \"A,\" which appears in four out of five solutions. This consistency suggests that \"A\" is the most reliable solution.\n\nThe reasoning behind choosing \"A\" involves understanding the management of patients with a history of shellfish allergy who need radiocontrast. Historically, there was a misconception that shellfish allergy, which is due to proteins in shellfish, is related to iodine allergy. However, iodine is not an allergen, and shellfish allergy does not increase the risk of contrast reactions. Despite this, patients with a history of allergic reactions are often premedicated to reduce the risk of contrast reactions. Premedication typically involves antihistamines like diphenhydramine and corticosteroids like prednisone, and using a nonionic contrast medium, which is associated with a lower risk of adverse reactions compared to ionic contrast media.\n\nTherefore, the most appropriate approach, given the patient's history, is to premedicate with diphenhydramine and prednisone and use a nonionic contrast medium, as indicated by option \"A.\"\n\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3579,
-            "completion_tokens": 27
+            "prompt_tokens": 2866,
+            "completion_tokens": 3160
         },
-        "time_elapsed": 0.9725253582000732
+        "time_elapsed": 34.297048807144165
     },
     {
         "realidx": "Text-8",
@@ -2191,13 +2800,20 @@
         },
         "answer_idx": "H",
         "answer": "Repeat blood cultures now",
-        "raw_response": "Answer: Perform transesophageal echocardiography immediately",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question describes a clinical scenario suggestive of infective endocarditis, particularly with the presence of Staphylococcus aureus in the blood culture and the high-pitched systolic murmur. The patient has risk factors such as intravenous drug use, which increases the likelihood of right-sided endocarditis affecting the tricuspid valve.\n\nTo confirm the diagnosis of infective endocarditis, echocardiography is typically performed to visualize vegetations on the heart valves. Transesophageal echocardiography (TEE) is more sensitive than transthoracic echocardiography (TTE) for detecting vegetations and is often preferred in cases where endocarditis is strongly suspected.\n\nThe solutions provided all consistently suggest performing transesophageal echocardiography immediately (Solution G). This is the most appropriate next step to confirm the diagnosis of infective endocarditis in this clinical scenario, given the high suspicion based on the patient's symptoms, history, and positive blood culture for Staphylococcus aureus.\n\nTherefore, the most consistent and reliable solution across all provided solutions is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 3624,
-            "completion_tokens": 12
+            "prompt_tokens": 3136,
+            "completion_tokens": 2286
         },
-        "time_elapsed": 2.9245853424072266
+        "time_elapsed": 23.246711254119873
     },
     {
         "realidx": "Text-80",
@@ -2216,13 +2832,20 @@
         },
         "answer_idx": "I",
         "answer": "Weight loss",
-        "raw_response": "Answer: Physical therapy referral\n\nIn the case of a 55-year-old male with worsening knee pain, the most appropriate initial step in management is a referral to physical therapy. This approach can help improve joint function, reduce pain, and enhance mobility through targeted exercises and interventions. Physical therapy is often a first-line treatment for managing chronic joint pain and can be beneficial before considering more invasive options like injections or surgery.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The question describes a 55-year-old male with worsening knee pain over the past year, minor relief with ice and rest, and no significant change in pain after a recent bump to the knee. The physical examination shows mild erythema and bruising but no joint tenderness or pain during passive range of motion, and the patient has a mildly antalgic gait. The patient's medical history includes diabetes, hypertension, and alcohol use disorder, and he is on several medications.\n\nThe most appropriate initial step in managing this patient's condition should focus on conservative management, given the chronic nature of the knee pain and the absence of acute findings such as severe pain or joint instability. The solutions provided all consistently suggest \"E\" as the answer, which corresponds to a physical therapy referral.\n\nPhysical therapy is a common initial management strategy for chronic knee pain, especially when the pain is not severe and there are no acute changes in the joint. It can help improve strength, flexibility, and function, potentially alleviating pain and improving the patient's gait. Other options like MRI, intra-articular corticosteroid injection, or knee replacement evaluation are more invasive or advanced steps that may be considered later if conservative management fails.\n\nTherefore, based on the consistency of the solutions and the appropriateness of the answer given the patient's condition, the most reliable solution is:\n\nE",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3522,
-            "completion_tokens": 83
+            "prompt_tokens": 2524,
+            "completion_tokens": 3068
         },
-        "time_elapsed": 2.4985239505767822
+        "time_elapsed": 29.156161069869995
     },
     {
         "realidx": "Text-83",
@@ -2241,13 +2864,20 @@
         },
         "answer_idx": "I",
         "answer": "T5 FRRSR",
-        "raw_response": "Answer: T5 FRRSR\n\nExplanation: The description of the transverse process on the right side being prominent and tender during anterior motion testing suggests that the vertebra is rotated to the right. The increased posterior movement of the left transverse process during forward flexion indicates that the vertebra is flexed. Therefore, the most likely diagnosis is T5 FRRSR, which stands for T5 Flexed, Rotated Right, Sidebent Right.",
-        "predicted_answer": "A",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "D",
+            "I"
+        ],
+        "ensemble_response": "The question involves diagnosing a somatic dysfunction based on the description of the patient's symptoms and the findings during the osteopathic structural examination. The key details provided are:\n\n- Hypertonic and mildly tender paraspinal muscles in the lower cervical and upper thoracic regions.\n- A prominent transverse process on the right side, medial to the scapula's medial border, with sharp tenderness during anterior motion testing.\n- During forward flexion, the left transverse process demonstrates increased posterior movement.\n\nThe diagnosis involves identifying the type of somatic dysfunction based on the position and movement of the transverse processes. The description suggests a dysfunction at the thoracic level, likely involving rotation and sidebending.\n\nThe solutions provided are:\n- Solution 1: I\n- Solution 2: I\n- Solution 3: I\n- Solution 4: D\n- Solution 5: I\n\nThe most frequently occurring answer among the solutions is \"I,\" which corresponds to \"T5 FRRSR.\" This suggests that the dysfunction involves flexion, rotation to the right, and sidebending to the right at the T5 level.\n\nTherefore, based on the consistency of the solutions, the most reliable answer is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3502,
-            "completion_tokens": 92
+            "prompt_tokens": 2404,
+            "completion_tokens": 2047
         },
-        "time_elapsed": 3.6758408546447754
+        "time_elapsed": 24.18730616569519
     },
     {
         "realidx": "Text-84",
@@ -2266,13 +2896,20 @@
         },
         "answer_idx": "G",
         "answer": "Thoracolumbar scoliosis",
-        "raw_response": "Answer: Aortic root dilation\n\nThis patient presents with features suggestive of Marfan syndrome, which is characterized by connective tissue abnormalities. Common findings in Marfan syndrome include joint hypermobility, pectus excavatum, arachnodactyly, increased arm span-to-height ratio, and cardiovascular manifestations such as aortic root dilation and mitral valve prolapse. Aortic root dilation is a significant concern in Marfan syndrome due to the risk of aortic dissection.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3489,
-            "completion_tokens": 98
+            "prompt_tokens": 2326,
+            "completion_tokens": 2053
         },
-        "time_elapsed": 2.7675907611846924
+        "time_elapsed": 23.482917308807373
     },
     {
         "realidx": "Text-85",
@@ -2291,13 +2928,20 @@
         },
         "answer_idx": "J",
         "answer": "Ibuprofen",
-        "raw_response": "Answer: Acetazolamide\n\nAcetazolamide is commonly used for the prevention and treatment of acute mountain sickness (AMS). It helps to accelerate acclimatization by promoting renal bicarbonate excretion, which leads to metabolic acidosis and stimulates ventilation. This can help alleviate symptoms such as headache and nausea associated with AMS.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The scenario described in the question is indicative of Acute Mountain Sickness (AMS), which commonly occurs when individuals ascend to high altitudes too quickly. The symptoms of headache, nausea, mild edema, and decreased oxygen saturation are consistent with AMS. The most appropriate medication for preventing and treating AMS is Acetazolamide, which helps to acclimatize by promoting renal bicarbonate excretion, thereby inducing a mild metabolic acidosis that stimulates ventilation.\n\nIn evaluating the solutions provided, all solutions (1 through 5) consistently identify Acetazolamide (A) as the most appropriate medication to prescribe in this situation. This consistency across multiple solutions strongly supports Acetazolamide as the correct choice.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3496,
-            "completion_tokens": 66
+            "prompt_tokens": 2368,
+            "completion_tokens": 2412
         },
-        "time_elapsed": 2.4318227767944336
+        "time_elapsed": 25.83844518661499
     },
     {
         "realidx": "Text-87",
@@ -2316,13 +2960,20 @@
         },
         "answer_idx": "H",
         "answer": "Azygos vein",
-        "raw_response": "Answer: Batson's vertebral venous plexus\n\nThe spread of breast cancer to the thoracic spine is most likely through Batson's vertebral venous plexus. This plexus is a network of valveless veins that connect the deep pelvic veins and thoracic veins to the internal vertebral venous plexuses. It provides a pathway for metastatic spread to the vertebral column, especially in cases of breast, prostate, and other cancers.",
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question involves a case of breast cancer that has metastasized to the thoracic spine, as evidenced by osteolytic lesions at T4 and T5. The key aspect to consider is the pathway through which the cancer cells spread from the breast to the spine.\n\nBreast cancer commonly metastasizes to the spine via the venous system. The Batson's vertebral venous plexus, also known as the vertebral venous plexus, is a network of valveless veins that connect the deep pelvic veins and thoracic veins to the internal vertebral venous plexus. This plexus provides a direct route for cancer cells to spread to the vertebral column, especially in cases of breast cancer.\n\nThe solutions provided all consistently identify option (C) Batson's vertebral venous plexus as the most likely anatomical structure through which the cancer spread to the thoracic spine. This consistency across multiple solutions indicates a strong consensus and reliability in the answer.\n\nTherefore, the most frequently appearing and consistent solution is option (C).\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3463,
-            "completion_tokens": 92
+            "prompt_tokens": 2170,
+            "completion_tokens": 2303
         },
-        "time_elapsed": 2.826535940170288
+        "time_elapsed": 26.897858142852783
     },
     {
         "realidx": "Text-88",
@@ -2341,13 +2992,20 @@
         },
         "answer_idx": "C",
         "answer": "Create an action plan to assign responsibilities to prevent similar errors in the future",
-        "raw_response": "Answer: Create a flowchart to illustrate the sequence of key events in this case",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question involves determining the next appropriate action in the root cause analysis process after conducting participant interviews, process review, and analysis of proximate causes and contributing factors. The goal of root cause analysis is to systematically identify the underlying issues that led to the error and to prevent future occurrences.\n\nThe solutions provided all consistently suggest option (B) as the next step. Creating a flowchart to illustrate the sequence of key events in the case is a logical step in the root cause analysis process. It helps visualize the timeline and interactions that led to the error, making it easier to identify where the process failed and what changes can be implemented to prevent similar issues in the future.\n\nThe consistency across all solutions indicates that option (B) is the most reliable choice. It aligns with the standard practices in root cause analysis, where mapping out the sequence of events is crucial for understanding the problem comprehensively.\n\nTherefore, the most frequently appearing and consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3570,
-            "completion_tokens": 17
+            "prompt_tokens": 2812,
+            "completion_tokens": 1772
         },
-        "time_elapsed": 2.87277889251709
+        "time_elapsed": 19.096946239471436
     },
     {
         "realidx": "Text-89",
@@ -2366,13 +3024,20 @@
         },
         "answer_idx": "A",
         "answer": "Hydroxyurea and measurement of ristocetin cofactor activity",
-        "raw_response": "Answer: Low-dose aspirin alone\n\nExplanation: In patients with essential thrombocythemia who are asymptomatic and have no history of thrombotic events, low-dose aspirin is often used to reduce the risk of thrombosis, especially in those with the JAK2 V617F mutation. Hydroxyurea or other cytoreductive therapies are typically reserved for patients with higher risk profiles, such as those with a history of thrombosis or significant symptoms. In this case, the patient is asymptomatic, and low-dose aspirin is an appropriate management strategy.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "H",
+            "E"
+        ],
+        "ensemble_response": "E",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3544,
-            "completion_tokens": 113
+            "prompt_tokens": 2656,
+            "completion_tokens": 2538
         },
-        "time_elapsed": 2.7304632663726807
+        "time_elapsed": 26.249141216278076
     },
     {
         "realidx": "Text-9",
@@ -2391,13 +3056,20 @@
         },
         "answer_idx": "B",
         "answer": "Reassure the patient and schedule a follow-up appointment",
-        "raw_response": "Answer: Initiate low-dose aspirin therapy\n\nExplanation: The patient is at increased risk for preeclampsia due to her family history (sister had preeclampsia) and the presence of mild leg swelling and low platelet count. Initiating low-dose aspirin therapy is recommended for women at high risk for preeclampsia to help prevent its development.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "E",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3656,
-            "completion_tokens": 76
+            "prompt_tokens": 3328,
+            "completion_tokens": 2769
         },
-        "time_elapsed": 1.6834180355072021
+        "time_elapsed": 30.83530354499817
     },
     {
         "realidx": "Text-92",
@@ -2416,13 +3088,20 @@
         },
         "answer_idx": "G",
         "answer": "Hemolytic anemia and ataxia",
-        "raw_response": "Answer: Previous anaphylactic reactions",
-        "predicted_answer": "B",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3602,
-            "completion_tokens": 8
+            "prompt_tokens": 3004,
+            "completion_tokens": 2825
         },
-        "time_elapsed": 1.053276538848877
+        "time_elapsed": 35.001699447631836
     },
     {
         "realidx": "Text-93",
@@ -2441,13 +3120,20 @@
         },
         "answer_idx": "D",
         "answer": "N-acetylcysteine",
-        "raw_response": "Answer: Blood acetaminophen levels\n\nIn the case of suspected acetaminophen overdose, the most appropriate immediate step is to measure blood acetaminophen levels. This will help determine the risk of hepatotoxicity and guide further management, including the potential need for N-acetylcysteine treatment.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3544,
-            "completion_tokens": 62
+            "prompt_tokens": 2656,
+            "completion_tokens": 2483
         },
-        "time_elapsed": 3.452636957168579
+        "time_elapsed": 27.833460569381714
     },
     {
         "realidx": "Text-96",
@@ -2466,13 +3152,20 @@
         },
         "answer_idx": "E",
         "answer": "Staphylococcus aureus",
-        "raw_response": "Answer: Parainfluenza virus type 1\n\nThe clinical presentation of sore throat, breathing difficulties, inspiratory stridor, and moderate intercostal retractions, along with the lack of improvement with racemic epinephrine, suggests croup. Croup is commonly caused by the Parainfluenza virus, particularly type 1, which is the most frequent cause of this condition in children.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3615,
-            "completion_tokens": 82
+            "prompt_tokens": 3082,
+            "completion_tokens": 2482
         },
-        "time_elapsed": 1.6853680610656738
+        "time_elapsed": 25.829224586486816
     },
     {
         "realidx": "Text-99",
@@ -2491,12 +3184,19 @@
         },
         "answer_idx": "F",
         "answer": "Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone",
-        "raw_response": "Answer: Order CT of the head\n\nIn this scenario, the patient with HIV presents with neurological symptoms including seizure, fever, neck stiffness, and focal neurological deficits. These symptoms raise concern for possible central nervous system infection or other intracranial pathology. The most appropriate initial management step is to order a CT of the head to assess for any intracranial abnormalities such as mass lesions, hemorrhage, or hydrocephalus before proceeding with further diagnostic steps like lumbar puncture.",
-        "predicted_answer": "A",
+        "solutions": [
+            "E",
+            "E",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3589,
-            "completion_tokens": 97
+            "prompt_tokens": 2926,
+            "completion_tokens": 2424
         },
-        "time_elapsed": 1.6950788497924805
+        "time_elapsed": 25.887168645858765
     }
 ]

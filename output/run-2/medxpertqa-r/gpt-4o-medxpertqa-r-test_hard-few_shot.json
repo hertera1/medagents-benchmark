@@ -1225,6 +1225,31 @@
         "time_elapsed": 2.040269374847412
     },
     {
+        "realidx": "Text-32",
+        "question": "A 70-year-old male presents with an 8-month history of fatigue. He reports that he previously walked 2 miles daily but now becomes fatigued after less than half a mile and experiences shortness of breath when climbing one flight of stairs. His medical history includes hypertension and osteoarthritis, and his medications are lisinopril, aspirin, and occasional tylenol for pain. He denies weight loss, visible blood in his stool or urine, and dark stools. His last colonoscopy, performed 8 years ago, revealed benign polyps that were removed. Vital signs show a temperature of 37.2\u00b0C (98.9\u00b0F), pulse of 110/min, respiratory rate of 16/min, and blood pressure of 132/87 mmHg. On physical examination, conjunctival pallor, pale nail beds, dry skin, and tachycardia with a regular rhythm are noted. Lungs are clear to auscultation, and the abdominal exam is normal. Laboratory results are as follows:  \n\n| **Laboratory value** | **Result** |\n| --- | --- |\n| Hemoglobin | 8.5 g/dL |\n| Hematocrit | 32% |\n| MCV | 72 fL |\n| Fecal occult blood test | Negative |\n| Iron | 38 \u03bcg/dL |\n| Ferritin | 12 ng/mL |\n\nWhat is the most appropriate next step in management?\nAnswer Choices: (A) CT scan abdomen (B) Capsule endoscopy (C) Esophagogastroduodenoscopy (EGD) (D) Reticulocyte count analysis (E) Packed red blood cell transfusion (F) Colonoscopy (G) Bone marrow biopsy (H) Oral iron supplementation (I) Peripheral blood smear (J) IV iron supplementation",
+        "options": {
+            "A": "CT scan abdomen",
+            "B": "Capsule endoscopy",
+            "C": "Esophagogastroduodenoscopy (EGD)",
+            "D": "Reticulocyte count analysis",
+            "E": "Packed red blood cell transfusion",
+            "F": "Colonoscopy",
+            "G": "Bone marrow biopsy",
+            "H": "Oral iron supplementation",
+            "I": "Peripheral blood smear",
+            "J": "IV iron supplementation"
+        },
+        "answer_idx": "F",
+        "answer": "Colonoscopy",
+        "raw_response": "Answer: Oral iron supplementation\n\nThe laboratory results indicate microcytic anemia with low iron and ferritin levels, which is consistent with iron deficiency anemia. The most appropriate next step in management for iron deficiency anemia is oral iron supplementation to replenish iron stores.",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 3643,
+            "completion_tokens": 51
+        },
+        "time_elapsed": 1.97135329246521
+    },
+    {
         "realidx": "Text-33",
         "question": "A 52-year-old paralegal comes to the clinic reporting chronic low back pain that has gradually worsened over two years. She describes an achy pain rated at 7/10 and spends considerable time at her computer desk. She experiences numbness, tingling, and radiating pain down her right leg during prolonged sitting or standing. Her examination reveals:\n\n- No urinary/bowel incontinence or perineal numbness\n- Right lower extremity strength of 4/5\n- Decreased sensation in right leg\n- Right patellar reflex grade 1/4\n- Positive straight leg raise test on right side\n\nWhich nerve root levels are most likely involved in this presentation?\nAnswer Choices: (A) L1-L2 (B) L5-S1 (C) L2-L3 (D) S2-S3 (E) L4-L5 (F) L4-S1 (G) L3-L4 (H) S1-S2 (I) T12-L1 (J) L5-S2",
         "options": {
@@ -1848,6 +1873,31 @@
             "completion_tokens": 57
         },
         "time_elapsed": 3.4056999683380127
+    },
+    {
+        "realidx": "Text-66",
+        "question": "A 15-year-old boy comes to the clinic with a 3-year history of chronic back pain that has not been previously evaluated. His review of systems is notable for occasional dyspnea. His vital signs show:\n\n| Temperature | 37\u00baC (98.6\u00baF) |\n| --- | --- |\n| Blood pressure | 110/70 mm Hg |\n| Heart rate | 76/min |\n| Respiratory rate | 20/min |\n| Oxygen saturation | 99% on room air |\n\nPhysical examination reveals an alert patient with asymmetric hip movement during ambulation. Lung auscultation demonstrates clear but shallow breath sounds. Standing examination shows left shoulder elevation compared to the right, with the left scapula positioned more posteriorly. The patient is referred for orthopedic surgical consultation. What is the most likely Cobb angle measurement in this patient?\nAnswer Choices: (A) 50\u00ba (B) 32\u00ba (C) 45\u00ba (D) 29\u00ba (E) 25\u00ba (F) 20\u00ba (G) 40\u00ba (H) 14\u00ba (I) 35\u00ba (J) 58\u00ba",
+        "options": {
+            "A": "50\u00ba",
+            "B": "32\u00ba",
+            "C": "45\u00ba",
+            "D": "29\u00ba",
+            "E": "25\u00ba",
+            "F": "20\u00ba",
+            "G": "40\u00ba",
+            "H": "14\u00ba",
+            "I": "35\u00ba",
+            "J": "58\u00ba"
+        },
+        "answer_idx": "J",
+        "answer": "58\u00ba",
+        "raw_response": "Answer: 45\u00ba\n\nThe clinical presentation of asymmetric hip movement, shoulder elevation, and scapular positioning suggests scoliosis. The Cobb angle is a measure used to quantify the degree of spinal curvature in scoliosis. Given the significant asymmetry and the referral for orthopedic surgical consultation, it is likely that the Cobb angle is substantial, typically warranting surgical consideration at angles greater than 40\u00ba. Therefore, the most likely Cobb angle measurement in this patient is 45\u00ba.",
+        "predicted_answer": "A",
+        "token_usage": {
+            "prompt_tokens": 3496,
+            "completion_tokens": 96
+        },
+        "time_elapsed": 1.5790793895721436
     },
     {
         "realidx": "Text-67",

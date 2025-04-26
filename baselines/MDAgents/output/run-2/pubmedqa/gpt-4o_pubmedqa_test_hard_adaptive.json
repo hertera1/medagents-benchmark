@@ -1,0 +1,838 @@
+[
+    {
+        "idx": "10173769",
+        "realidx": "10173769",
+        "question": "To consider whether the Barthel Index alone provides sufficient information about the long term outcome of stroke.\nCross sectional follow up study with a structured interview questionnaire and measures of impairment, disability, handicap, and general health. The scales used were the hospital anxiety and depression scale, mini mental state examination, Barthel index, modified Rankin scale, London handicap scale, Frenchay activities index, SF36, Nottingham health profile, life satisfaction index, and the caregiver strain index.\nSouth east London.\nPeople, and their identified carers, resident in south east London in 1989-90 when they had their first in a life-time stroke aged under 75 years.\nObservational study.\nComparison and correlation of the individual Barthel index scores with the scores on other outcome measures.\nOne hundred and twenty three (42%) people were known to be alive, of whom 106 (86%) were interviewed. The median age was 71 years (range 34-79). The mean interval between the stroke and follow up was 4.9 years. The rank correlation coefficients between the Barthel and the different dimensions of the SF36 ranged from r = 0.217 (with the role emotional dimension) to r = 0.810 (with the physical functioning dimension); with the Nottingham health profile the range was r = -0.189 (with the sleep dimension, NS) to r = -0.840 (with the physical mobility dimension); with the hospital and anxiety scale depression component the coefficient was r = -0.563, with the life satisfaction index r = 0.361, with the London handicap scale r = 0.726 and with the Frenchay activities index r = 0.826.\nLonger term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 48822,
+            "completion_tokens": 2138
+        },
+        "time_elapsed": 49.41593670845032
+    },
+    {
+        "idx": "11146778",
+        "realidx": "11146778",
+        "question": "The APACHE II (Acute Physiology and Chronic Health Evaluation II) score used as an intensive care unit (ICU) admission score in emergency surgical patients is not independent of the effects of treatment and might lead to considerable bias in the comparability of defined groups of patients and in the evaluation of treatment policies. Postoperative monitoring with the APACHE II score is clinically irrelevant.\nInception cohort study.\nSecondary referral center.\nEighty-five consecutive emergency surgical patients admitted to the surgical ICU in 1999. The APACHE II score was calculated before surgery; after admission to the ICU; and on postoperative days 3, 7, and 10.\nAPACHE II scores and predicted and observed mortality rates.\nThe mean +/- SD APACHE II score of 24.2 +/- 8.3 at admission to the ICU was approximately 36% greater than the initial APACHE II score of 17.8 +/- 7.7, a difference that was highly statistically significant (P<.001). The overall mortality of 32% favorably corresponds with the predicted mortality of 34% according to the initial APACHE II score. However, the predicted mortality of 50% according to the APACHE II score at admission to the ICU was significantly different from the observed mortality rate (P =.02). In 40 long-term patients (>/=10 days in the ICU), the difference between the APACHE II scores of survivors and patients who died was statistically significant on day 10 (P =.04).\nRisk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 20931,
+            "completion_tokens": 1565
+        },
+        "time_elapsed": 176.05688500404358
+    },
+    {
+        "idx": "11458136",
+        "realidx": "11458136",
+        "question": "By requiring or encouraging enrollees to obtain a usual source of care, managed care programs hope to improve access to care without incurring higher costs.\n(1) To examine the effects of managed care on the likelihood of low-income persons having a usual source of care and a usual physician, and; (2) To examine the association between usual source of care and access.\nCross-sectional survey of households conducted during 1996 and 1997.\nA nationally representative sample of 14,271 low-income persons.\nUsual source of care, usual physician, managed care enrollment, managed care penetration.\nHigh managed care penetration in the community is associated with a lower likelihood of having a usual source of care for uninsured persons (54.8% vs. 62.2% in low penetration areas) as well as a lower likelihood of having a usual physician (60% vs. 72.8%). Managed care has only marginal effects on the likelihood of having a usual source of care for privately insured and Medicaid beneficiaries. Having a usual physician substantially reduces unmet medical needs for the insured but less so for the uninsured.\nDoes managed care enable more low income persons to identify a usual source of care? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 44722,
+            "completion_tokens": 1702
+        },
+        "time_elapsed": 51.504329204559326
+    },
+    {
+        "idx": "11926574",
+        "realidx": "11926574",
+        "question": "Hepatitis G virus can cause chronic infection in man but the role of this agent in chronic liver disease is poorly understood. Little is known about the relation of another newly discovered agent, the TT virus, with chronic liver disease.AIM: To investigate the rate of infection with hepatitis G virus and TT virus in patients with cryptogenic chronic liver disease.\nA total of 23 subjects with chronically raised alanine transaminase and a liver biopsy in whom all known causes of liver disease had been excluded, and 40 subjects with hepatitis C virus-related chronic liver disease.\nEvaluation of anti-hepatitis G virus by enzyme immunoassay. Hepatitis G virus-RNA by polymerase chain reaction with primers from the 5' NC and NS5a regions. TT virus-DNA by nested polymerase chain reaction with primers from the ORF1 region. Results. Hepatitis G virus-RNA was detected in 4 out of 23 patients with cryptogenic chronic hepatitis and in 6 out of 40 with hepatitis C virus chronic hepatitis (17.4% vs 15% p=ns). At least one marker of hepatitis G virus infection (hepatitis G virus-RNA and/or anti-hepatitis G virus, mostly mutually exclusive) was present in 6 out of 23 patients with cryptogenic hepatitis and 16 out of 40 with hepatitis C virus liver disease (26. 1% vs 40% p=ns). T virus-DNA was present in serum in 3 subjects, 1 with cryptogenic and 2 with hepatitis C virus-related chronic liver disease. Demographic and clinical features, including stage and grade of liver histology, were comparable between hepatitis G virus-infected and uninfected subjects. Severe liver damage [chronic hepatitis with fibrosis or cirrhosis) were significantly more frequent in subjects with hepatitis C virus liver disease.\nAre hepatitis G virus and TT virus involved in cryptogenic chronic liver disease? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 49992,
+            "completion_tokens": 2142
+        },
+        "time_elapsed": 50.35692238807678
+    },
+    {
+        "idx": "12630042",
+        "realidx": "12630042",
+        "question": "The long-term survival of patients with gastric cancer is governed by various factors, such as the clinical stage of the cancer, the patient's nutritional state, and the treatment and may be governed by the volume of intraperitoneal adipose tissue. The aim of this study is to clarify the relationship between the degree of the patients' body mass index and their long-term survival.\nGastric cancer patients who had undergone a gastrectomy with D2-lymphadenectomy and with resection A and B according to the criteria of the Japanese Research Society for Gastric Cancer Rules were subgrouped into those patients with a body mass index<0.185 (the lower body mass index group) and those patients with a body mass index>0.210 (the higher body mass index group). The patient's morbidity and long-term survival rate was retrospectively compared between the 2 groups.\nA significantly longer mean survival rate was observed for the lower body mass index group in stage 2 (1667 vs. 1322 days, P = 0.0240). Also, a significantly longer mean survival rate was observed for the higher BMI group in stage 3a (1431 vs. 943, P = 0.0071).\nDoes body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11126,
+            "completion_tokens": 977
+        },
+        "time_elapsed": 13.741883516311646
+    },
+    {
+        "idx": "16816043",
+        "realidx": "16816043",
+        "question": "To determine under what conditions lay people and health professionals find it acceptable for a physician to breach confidentiality to protect the wife of a patient with a sexually transmitted disease (STD).\nIn a study in France, breaching confidentiality in 48 scenarios were accepted by 144 lay people, 10 psychologists and 7 physicians. The scenarios were all possible combinations of five factors: severity of the disease (severe, lethal); time taken to discuss this with (little time, much time); intent to inform the spouse about the disease (none, one of these days, immediately); intent to adopt protective behaviours (no intent, intent); and decision to consult an expert in STDs (yes, no), 2 x 2 x 3 x 2 x 2. The importance and interactions of each factor were determined, at the group level, by performing analyses of variance and constructing graphs.\nThe concept of breaching confidentiality to protect a wife from her husband's STD was favoured much more by lay people and psychologists than by physicians (mean ratings 11.76, 9.28 and 2.90, respectively, on a scale of 0-22). The patient's stated intentions to protect his wife and to inform her of the disease had the greatest impact on acceptability. A cluster analysis showed groups of lay participants who found breaching confidentiality \"always acceptable\" (n = 14), \"depending on the many circumstances\" (n = 87), requiring \"consultation with an expert\" (n = 30) and \"never acceptable (n = 13)\".\nDo French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 15907,
+            "completion_tokens": 1439
+        },
+        "time_elapsed": 125.11896824836731
+    },
+    {
+        "idx": "17445978",
+        "realidx": "17445978",
+        "question": "To evaluate renal damage and impairment of renal function 1 yr after laparoscopic partial nephrectomy (LPN) with warm ischemia>30 min.\nFrom July 2004 to June 2005, 18 patients underwent LPN with warm ischemia time>30 min. Kidney damage markers (daily proteinuria and tubular enzymes) and renal function (serum creatinine, cystatin C, and creatinine clearances) were assessed on postoperative days 1 and 5 and at 12 mo. Glomerular filtration rate (GFR) was evaluated before surgery and at 3 mo. Renal scintigraphy was performed before the procedure, at 5 d and at 3 and 12 mo postoperatively. Statistical analysis was performed using the Student t test and logistic regression analysis.\nIn terms of kidney damage and renal function markers, the statistical analysis demonstrated that at 1 yr there was complete return to the normal range and no statistical difference between the values at the various time points. The GFR was not significantly different before and 3 mo after surgery. In terms of scintigraphy of the operated kidney, the values were 48.35+/-3.82% (40-50%) before the procedure, 36.88+/-8.42 (16-50%) on postoperative day 5 (p=0.0001), 40.56+/-8.96 (20-50%) at 3 mo (p=0.003), and 42.8+/-7.2% (20-50%) 1 yr after surgery (p=0.001).\nIs renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 316095,
+            "completion_tokens": 5714
+        },
+        "time_elapsed": 128.77894163131714
+    },
+    {
+        "idx": "17565137",
+        "realidx": "17565137",
+        "question": "To evaluate the effect of an antismoking advertisement on young people's perceptions of smoking in movies and their intention to smoke.SUBJECTS/\n3091 cinema patrons aged 12-24 years in three Australian states; 18.6% of the sample (n = 575) were current smokers.DESIGN/\nQuasi-experimental study of patrons, surveyed after having viewed a movie. The control group was surveyed in week 1, and the intervention group in weeks 2 and 3. Before seeing the movie in weeks 2 and 3, a 30 s antismoking advertisement was shown, shot in the style of a movie trailer that warned patrons not to be sucked in by the smoking in the movie they were about to see.\nAttitude of current smokers and non-smokers to smoking in the movies; intention of current smokers and non-smokers to smoke in 12 months.\nAmong non-smokers, 47.8% of the intervention subjects thought that the smoking in the viewed movie was not OK compared with 43.8% of the control subjects (p = 0.04). However, there was no significant difference among smokers in the intervention (16.5%) and control (14.5%) groups (p = 0.4). A higher percentage of smokers in the intervention group indicated that they were likely to be smoking in 12 months time (38.6%) than smokers in the control group (25.6%; p<0.001). For non-smokers, there was no significant difference in smoking intentions between groups, with 1.2% of intervention subjects and 1.6% of controls saying that they would probably be smoking in 12 months time (p = 0.54).\nOut of the smokescreen II: will an advertisement targeting the tobacco industry affect young people's perception of smoking in movies and their intention to smoke? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 49551,
+            "completion_tokens": 2166
+        },
+        "time_elapsed": 58.40383529663086
+    },
+    {
+        "idx": "17621202",
+        "realidx": "17621202",
+        "question": "A prospective randomized clinical study.\nTo determine whether shaving the incision site before spinal surgery causes postsurgical infection.\nSpine surgeons usually shave the skin of the incision site immediately before surgery is performed. However, evidence from some surgical series suggests that presurgical shaving may increase the postsurgical infection rate. To our knowledge, no previously published studies have addressed this issue.\nA total of 789 patients scheduled to undergo spinal surgery were randomly allocated into 2 groups: those in whom the site of operation was shaved immediately before surgery (shaved group; 371 patients) and the patients in whom presurgical shaving was not performed (unshaved group; 418 patients). The mean duration of anesthesia and the infection rates in both groups were recorded and compared.\nThe duration of anesthesia did not differ in the 2 groups (P>0.05). A postoperative infection developed in 4 patients in the shaved group and in 1 patient in the nonshaved group (P<0.01).\nDoes shaving the incision site increase the infection rate after spinal surgery? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9539,
+            "completion_tokens": 861
+        },
+        "time_elapsed": 13.460079908370972
+    },
+    {
+        "idx": "17894828",
+        "realidx": "17894828",
+        "question": "An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.\nPeople with Type 1 diabetes, none of whom was taking renin-angiotensin system blocking drugs, were recruited. Participants recorded the frequency with which they had experienced SH. Glycated haemoglobin (HbA(1c)) and serum ACE were measured. The difference in the incidence of SH between different quartiles of ACE activity and the relationship between serum ACE and SH were examined using non-parametric statistical tests and a negative binomial model.\nData were obtained from 300 patients [158 male; HbA(1c) median (range) 8.2% (5.2-12.8%), median age 36 years (16-88); duration of diabetes 14.5 years (2-49)]. The incidence of SH was 0.93 episodes per patient year. The mean incidence of SH in the top and bottom quartiles of ACE activity was 0.5 and 1.7 episodes per patient year, respectively, but this difference was not statistically significant (P = 0.075). Spearman's test showed a very weak, although statistically significant, association between serum ACE level and SH incidence (r = 0.115, P = 0.047). The binomial model also showed a statistically significant (P = 0.002), but clinically weak, relationship between serum ACE and SH.\nSerum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 48702,
+            "completion_tokens": 2235
+        },
+        "time_elapsed": 44.9583535194397
+    },
+    {
+        "idx": "17940352",
+        "realidx": "17940352",
+        "question": "To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.\nWe studied 114 formalin-fixed paraffin-embedded specimens obtained from locally advanced urothelial carcinoma patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using immunohistochemical staining and explored the influence of pathological parameters and HER2 immunoreactivity on progression-free survival (PFS) and disease-specific overall survival (OS) using univariate and multivariate Cox's analyses.\nUrothelial carcinoma of the bladder had a significantly higher frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 vs. 20.7%, p<0.0001). Overall, nodal status was a strong and independent prognostic indicator for clinical outcome. The HER2 immunoreactivity was significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate analysis, but not multivariate analysis, and not for patients receiving watchful waiting.\nDoes HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 47648,
+            "completion_tokens": 2061
+        },
+        "time_elapsed": 54.11461400985718
+    },
+    {
+        "idx": "18243752",
+        "realidx": "18243752",
+        "question": "This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.\nRetrospective analysis of 92 internal or central-breast node-negative tumours with mastectomy and external irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 1998.\nLocal recurrence rate was 5 % (five cases). Recurrence sites were the operative scare and chest wall. Factors associated with increased risk of local failure were age<or = 40 years and tumour size greater than 20mm, without statistical significance.\nShould chest wall irradiation be included after mastectomy and negative node breast cancer? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 43710,
+            "completion_tokens": 1913
+        },
+        "time_elapsed": 60.049893617630005
+    },
+    {
+        "idx": "18359123",
+        "realidx": "18359123",
+        "question": "Swedish hospital mergers seem to stem from a conviction among policy makers that bigger hospitals lead to lower average costs and improved clinical outcomes. The effects of mergers in the form of multisited hospitals have not been systematically evaluated. The purpose of this article is to contribute to this area of knowledge by exploring responses to the merger of Blekinge Hospital.\nThe evaluation was guided by the philosophy of triangulation. A questionnaire was sent to 597 randomly selected employees, that is 24% of the health care staff. Four hundred ninety-eight employees answered the questionnaire, giving a response rate of 83%. Furthermore, interviews of different groups of stakeholders were conducted.\nA moderate increase of quality was assessed, which, a low proportion of the employees perceived had decisively or largely to do with the merger. The majority perceives economical incentives as the drivers of change, but, at the same time, only 10% of this group believes this target was reached completely or to a large extent.\nIs it better to be big? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17219,
+            "completion_tokens": 1711
+        },
+        "time_elapsed": 142.06278324127197
+    },
+    {
+        "idx": "18496363",
+        "realidx": "18496363",
+        "question": "To characterize the gender dimorphism after injury with specific reference to the reproductive age of the women (young,<48 yrs of age, vs. old,>52 yrs of age) in a cohort of severely injured trauma patients for which significant variation in postinjury care is minimized.\nSecondary data analysis of an ongoing prospective multicenter cohort study.\nAcademic, level I trauma and intensive care unit centers.\nBlunt-injured adults with hemorrhagic shock.\nNone.\nSeparate Cox proportional hazard regression models were formulated based on all patients to evaluate the effects of gender on mortality, multiple organ failure, and nosocomial infection, after controlling for all important confounders. These models were then used to characterize the effect of gender in young and old age groups. Overall mortality, multiple organ failure, and nosocomial infection rates for the entire cohort (n = 1,036) were 20%, 40%, and 45%, respectively. Mean Injury Severity Score was 32 +/- 14 (mean +/- SD). Men (n = 680) and women (n = 356) were clinically similar except that men required higher crystalloid volumes, more often had a history of alcoholism and liver disease, and had greater ventilatory and intensive care unit requirements. Female gender was independently associated with a 43% and 23% lower risk of multiple organ failure and nosocomial infection, respectively. Gender remained an independent risk factor in young and old subgroup analysis, with the protection afforded by female gender remaining unchanged.\nCharacterization of the gender dimorphism after injury and hemorrhagic shock: are hormonal differences responsible? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 20078,
+            "completion_tokens": 1491
+        },
+        "time_elapsed": 163.2448148727417
+    },
+    {
+        "idx": "18714572",
+        "realidx": "18714572",
+        "question": "Vaginal intraepithelial neoplasia is a little known disease which could be related to risk factors different from simple HPV infections.\nTo ascertain wheter vaginal lesions have a natural history similar to cervical lesions.MATERIALS &\nA retrospective study to identify patients with vaginal lesions and synchronous cervical lesions through biopsy. The rate of mild cervical lesions (koilocytosis, warts, CIN I with and without koilocytosis) was compared with the rate of severe cervical lesions (CIN II and III, cervical carcinoma) in patients with mild vaginal lesions (warts and koilocytosis, and low-grade VAIN) and in patients with severe vaginal lesions (high-grade VAIN). Using koilocytosis as a marker, the rate of \"active\" cervical lesions was compared with the rate of \"non active\" cervical lesions in patients with \"active\" versus \"non active\" vaginal lesions. Finally, the rates of mild and severe cervical lesions were compared among each group of VAIN (low-grade, high-grade, with or without koilocytosis).\nIn patients with mild vaginal lesions, mild cervical lesions were significantly more frequent than severe cervical lesions. In patients with \"active\" vaginal lesions the rate of \"active\" cervical lesions was significantly higher than \"non active\" cervical lesions. The differences in rates of mild cervical lesions and severe cervical lesions among patients with high-grade VAIN and low-grade VAIN (with and without koilocytosis) were not significant.\nDoes vaginal intraepithelial neoplasia have the same evolution as cervical intraepithelial neoplasia? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17953,
+            "completion_tokens": 1849
+        },
+        "time_elapsed": 142.76833605766296
+    },
+    {
+        "idx": "18802997",
+        "realidx": "18802997",
+        "question": "Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.\nNinety-seven patients with ulcerative colitis (UC) and 65 with Crohn's disease (CD) in clinical remission were prospectively included in the study. A 10-g stool sample was collected for calprotectin assay. The cutoff level was set at 130 mg/kg of feces. Patients were followed up for 1 yr after the test or until relapse. The cumulative proportion of relapses was estimated by the Kaplan-Meier analysis. Statistics for equality of survival distribution were tested using the log-rank test.\nThe calprotectin test was positive in 44 UC patients and 26 of them relapsed within a year, while 11 of 53 UC patients with a negative calprotectin test relapsed within the same time frame. Thirty CD patients had a positive calprotectin test and 13 of them relapsed within a year, as did 7 of the 35 with a negative test result. A significant correlation emerged between a positive calprotectin test and the probability of relapse in UC patients (P= 0.000). In CD patients, only cases of colonic CD showed a significant correlation between a positive calprotectin test and the probability of relapse, i.e., 6 colonic CD patients were positive for the calprotectin test and 4 relapsed (P= 0.02).\nCan calprotectin predict relapse risk in inflammatory bowel disease? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 46857,
+            "completion_tokens": 1795
+        },
+        "time_elapsed": 40.77749228477478
+    },
+    {
+        "idx": "19108857",
+        "realidx": "19108857",
+        "question": "Tuberculosis continues to be a public health problem in emerging countries with a recent evidence of increased incidence of extrapulmonary localization in developed countries probably linked to HIV. To our knowledge the occurrence of cerebro-mediastinal tuberculosis in an immuno-competent child has not been previously described; moreover the child we describe has a probable Say-Barber-Miller syndrome. We discuss a putative causative link between this syndrome and the occurrence of tuberculosis.\nA seven-year-old girl presented to our department with a history of infantile encephalopathy since birth characterized by a facial dysmorphy (evocative of a bird face), microcephaly, and mental retardation, and with recurrent infections. The child had complained of back pain for several months; the parents reported anorexia, loss of weight. Spinal and cerebral MRI showed a mediastinal mass involving the spine and cerebral lesions evocative of tuberculomas. The tuberculin interdermal reaction was positive. Culture of a vertebral biopsy was positive for Koch bacillus. Anti-tuberculosis treatment improved general and local status. An extensive immunological work-up was normal.\nCerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17348,
+            "completion_tokens": 1914
+        },
+        "time_elapsed": 153.05038356781006
+    },
+    {
+        "idx": "19468282",
+        "realidx": "19468282",
+        "question": "Prospective multicenter longitudinal cohort study.\nTo validate the prognostic value of the acute phase sacral sparing measurements with regard to chronic phase-independent ambulation in patients with traumatic spinal cord injury (SCI).\nEuropean Multicenter Study of Human Spinal Cord Injury (EM-SCI).\nIn 432 patients, acute phase (0-15 days) American Spinal Injury Association (ASIA)/International Spinal Cord Society neurological standard scale (AIS) grades, ASIA sacral sparing measurements, which are S4-5 light touch (LT), S4-5 pin prick (PP), anal sensation and voluntary anal contraction; and chronic phase (6 or 12 months) indoor mobility Spinal Cord Independence Measure (SCIM) measurements were analyzed. Calculations of positive and negative predictive values (PPV/NPV) as well as univariate and multivariate logistic regressions were performed in all four sacral sparing criteria. The area under the receiver-operating characteristic curve (AUC) ratios of all regression equations was calculated.\nTo achieve independent ambulation 1-year post injury, a normal S4-5 PP score showed the best PPV (96.5%, P<0.001, 95% confidence interval (95% CI): 87.9-99.6). Best NPV was reported in the S4-5 LT score (91.7%, P<0.001, 95% CI: 81.6-97.2). The use of the combination of only voluntary anal contraction and the S4-5 LT and PP sensory scores (AUC: 0.906, P<0.001, 95% CI: 0.871-0.941) showed significantly better (P<0.001, 95% CI: 0.038-0.128) discriminating results in prognosticating 1-year independent ambulation than with the use of currently used distinction between complete and incomplete SCI (AUC: 0.823, P<0.001, 95% CI: 0.781-0.864).\nIs determination between complete and incomplete traumatic spinal cord injury clinically relevant? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17982,
+            "completion_tokens": 1217
+        },
+        "time_elapsed": 119.2599868774414
+    },
+    {
+        "idx": "20197761",
+        "realidx": "20197761",
+        "question": "Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.\nWe developed a survey to measure decision-making in two standardized patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS with constipation (C-IBS). The survey elicited provider knowledge and beliefs about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis of exclusion. We surveyed nurse practitioners, primary care physicians, community gastroenterologists, and IBS experts.\nExperts were less likely than nonexperts to endorse IBS as a diagnosis of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts only rated celiac sprue screening and complete blood count as appropriate in D-IBS; nonexperts rated most tests as appropriate. Parallel results were found in the C-IBS vignette.\nIs irritable bowel syndrome a diagnosis of exclusion? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 47884,
+            "completion_tokens": 1971
+        },
+        "time_elapsed": 47.00494360923767
+    },
+    {
+        "idx": "20297950",
+        "realidx": "20297950",
+        "question": "To investigate the effect of fenofibrate on sleep apnoea indices.\nProof-of-concept study comprising a placebo run-in period (1 week, 5 weeks if fibrate washout was required) and a 4-week randomized, double-blind treatment period. Thirty-four subjects (mean age 55 years, body mass index 34 kg/m 2 , fasting triglycerides 3.5 mmol/L) with diagnosed sleep apnoea syndrome not treated with continuous positive airways pressure were enrolled and randomized to once daily treatment with fenofibrate (145 mg NanoCrystal(R) tablet) or placebo. Overnight polysomnography, computerized attention/vigilance tests and blood sampling for measurement of lipids, insulin, fasting plasma glucose and fibrinogen were performed at the end of each study period.\nNCT00816829.\nAs this was an exploratory study, a range of sleep variables were evaluated. The apnoea/hypopnoea index (AHI) and percentage of time spent with arterial oxygen saturation (SpO(2))<90% were relevant as they have been evaluated in other clinical trials. Other variables included total apnoeas, hypopnoeas and oxygen desaturations, and non-cortical micro-awakenings related to respiratory events per hour.\nFenofibrate treatment significantly reduced the percentage of time with SpO(2)<90% (from 9.0% to 3.5% vs. 10.0% to 11.5% with placebo, p = 0.007), although there was no significant change in the AHI (reduction vs. control 14% (95%CI -47 to 40%, p = 0.533). Treatment reduced obstructive apnoeas (by 44%, from 18.5 at baseline to 15.0 at end of treatment vs. 29.0 to 30.5 on placebo, p = 0.048), and non-cortical micro-awakenings per hour (from 23.5 to 18.0 vs. 24.0 to 25.0 with placebo, p = 0.004). Other sleep variables were not significantly influenced by fenofibrate.\nExploratory study in patients with mild to moderate sleep apnoea, limited treatment duration; concomitant hypnotic treatment (35%); lack of correction for multiplicity of testing.\nProof of concept study: does fenofibrate have a role in sleep apnoea syndrome? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 53997,
+            "completion_tokens": 2244
+        },
+        "time_elapsed": 50.19699025154114
+    },
+    {
+        "idx": "21164063",
+        "realidx": "21164063",
+        "question": "A possible role for fondaparinux as a bridging agent in the perioperative setting is explored.\nAnticoagulation guidelines provide minimal direction on the perioperative use of fondaparinux. Fondaparinux's extended half-life of 17-21 hours complicates its use as a perioperative bridging therapy. The ideal time for discontinuation before surgery is an issue, particularly in surgeries with a high bleeding risk or in which neuraxial anesthesia is used. Guidance for perioperative bridging with fondaparinux must be derived from pharmacokinetic data, surgical prophylaxis trials, case reports, and anesthesia guidelines. Published trials used fondaparinux sodium 2.5 mg daily for venous thromboembolism prophylaxis in surgical patients, and the majority avoided its use before surgery in patients receiving neuraxial anesthesia. Three case reports cited the use of fondaparinux sodium as perioperative bridge therapy; one used a 2.5-mg dose, and the other two used a full treatment dose of 7.5 mg. Furthermore, professional anesthesia guidelines conflict in their recommendations regarding the timing of drug administration with neuraxial catheter use. For these reasons, it may be optimal to avoid fondaparinux use before surgery. In some instances, the use of low-molecular-weight heparin or inpatient use of i.v. unfractionated heparin is not possible, is contraindicated, or has limited efficacy, such as a patient with history of heparin-induced thrombocytopenia or antithrombin III deficiency. Fondaparinux may have a role in bridge therapy for these patients.\nIs there a role for fondaparinux in perioperative bridging? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 20612,
+            "completion_tokens": 2026
+        },
+        "time_elapsed": 153.2018039226532
+    },
+    {
+        "idx": "21889895",
+        "realidx": "21889895",
+        "question": "The aim of this study was to determine if educating residents about the potential effects of radiation exposure from computed tomographic (CT) imaging alters ordering patterns. This study also explored whether referring physicians are interested in radiation education and was an initial effort to address their CT ordering behavior.\nTwo to four months after a radiologist's lecture on the potential effects of radiation exposure related to CT scans, urology and orthopedic residents were surveyed regarding the number and types of CT scans they ordered, the use of alternative imaging modalities, and whether they used the lecture information to educate patients.\nTwenty-one resident lecture attendants completed the survey. The number of CT scans ordered after the lecture stayed constant for 90% (19 of 21) and decreased for 10% (two of 21). The types of CT scans ordered changed after the lecture for 14% (three of 21). Thirty-three percent (seven of 21) reported increases in alternative imaging after the lecture, including 24% (five of 21) reporting increases in magnetic resonance imaging and 19% (four of 21) reporting increases in ultrasound. Patients directed questions about radiation exposure to 57% (12 of 21); 38% (eight of 21) used the lecture information to educate patients. Referring physicians were interested in the topic, and afterward, other physician groups requested radiation education lectures.\nWill CT ordering practices change if we educate residents about the potential effects of radiation exposure? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 51723,
+            "completion_tokens": 2188
+        },
+        "time_elapsed": 51.07274842262268
+    },
+    {
+        "idx": "22227642",
+        "realidx": "22227642",
+        "question": "The aim of this work is to assess a previously described slit-lamp biomicroscopy-based method (SLBM) for measuring pupil diameter and compare it to Colvard infrared pupillometry (CIP).\nTwo examiners performed three repeated measurements with each instrument in 40 healthy eyes. We determined the agreement of SLBM and CIP, intraobserver and interobserver repeatabilities, and interobserver concordance (kappa) and SLBM ability for detecting pupil sizes over 6.0\u00a0mm.\nThe mean (\u00b1standard deviation [SD]) pupil diameter was 5.81 \u00b1 0.70\u00a0mm with SLBM and 6.26 \u00b1 0.68\u00a0mm with CIP (p\u2009=\u20090.01) averaging both examiner's results. Mean differences between the SLBM and CIP were -0.60\u00a0mm and -0.30\u00a0mm for each examiner using the average of the three readings (p\u2009=\u20090.02), and they were very similar using the first reading. Intraobserver reproducibility: the width of the 95% LoA ranged from 1.79 to 2.30\u00a0mm. The ICCs were 0.97 and 0.92 for SLBM, and 0.96 and 0.90 for CIP. Interobserver reproducibility: the width of the LoA ranged from 1.82 to 2.09\u00a0mm. Kappa statistics were 0.39 and 0.49 for the first and mean SLBM readings, respectively, and 0.45 for both the first and mean CIP readings. Sensitivity and specificity of SLBM for detection of pupils larger than 6\u00a0mm ranged from 55.56% to 73.68% and from 76.19% to 95.45%, respectively. The best trade-off between sensitivity and specificity ranged from 5.4\u00a0mm to 6.2\u00a0mm.\nCan we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 127558,
+            "completion_tokens": 3497
+        },
+        "time_elapsed": 64.36028122901917
+    },
+    {
+        "idx": "22491528",
+        "realidx": "22491528",
+        "question": "To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.\nLongitudinal analysis of consistency between composite measures based on process indicators and outcome indicators for 85 Dutch hospitals.\nThe Dutch Surgical Colorectal Audit database, the Netherlands.\n4732 elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 85 hospitals were included in the analyses.\nAll available process indicators were aggregated into five different composite measures. The association of the different composite measures with risk-adjusted postoperative mortality and morbidity was analysed at the patient and hospital level.\nAt the patient level, only one of the composite measures was negatively associated with morbidity for rectum carcinoma. At the hospital level, a strong negative association was found between composite measures and hospital mortality and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates for colon carcinoma.\nCombining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17151,
+            "completion_tokens": 1397
+        },
+        "time_elapsed": 152.6764211654663
+    },
+    {
+        "idx": "22617083",
+        "realidx": "22617083",
+        "question": "To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.\nConsenting eligible adults (N=238) from 18-100 years of age consecutively admitted to inpatient psychiatry units were assessed using the SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and non-English speaking patients were excluded).\nOlder adults reported less symptomatology than younger patients and younger patients described more personality dysfunction than older patients. As assessed by the COPE, older adults reported lower levels of dysfunctional coping strategies than younger adults. Personality traits, social supports, gender, and age predicted coping strategies, while Axis I diagnosis, education, personality disorder, and symptom severity were not significant predictors of coping strategies.\nDoes age moderate the effect of personality disorder on coping style in psychiatric inpatients? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 170248,
+            "completion_tokens": 3903
+        },
+        "time_elapsed": 93.65880846977234
+    },
+    {
+        "idx": "23422012",
+        "realidx": "23422012",
+        "question": "Vancomycin is the primary treatment for infections caused by methicilin-resistant Staphylococcus aureus (MRSA). The association of vancomycin treatment failures with increased vancomycin minimum inhibitory concentration (MIC) is a well-recognized problem. A number of single-centre studies have identified progressive increases in glycopeptide MICs for S. aureus strains over recent years - a phenomenon known as vancomycin MIC creep. It is unknown if this is a worldwide phenomenon or if it is localized to specific centers.\nThe aim of this study was to evaluate the trend of vancomycin MIC for isolates of MRSA over a 3-year period in a tertiary university hospital in Portugal. MRSA isolates from samples of patients admitted from January 2007 to December 2009 were assessed. Etest method was used to determine the respective vancomycin MIC. Only one isolate per patient was included in the final analysis.\nA total of 93 MRSA isolates were studied. The vancomycin MICs were 0.75, 1, 1.5 and 2 mg/L for 1 (1.1%), 19 (20.4%), 38 (40.9%), 35 (37.6%) isolates, respectively. During the 3 year period, we observed a significant fluctuation in the rate of MRSA with a vancomycin MIC\u2009>\u20091 mg/L (2007: 86.2%; 2008: 93.3%; 2009: 58.8%, p\u2009=\u20090.002). No MRSA isolate presented a MIC\u2009>\u20092 mg/L.\nIs vancomycin MIC creep a worldwide phenomenon? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 19947,
+            "completion_tokens": 1616
+        },
+        "time_elapsed": 144.31695365905762
+    },
+    {
+        "idx": "24139705",
+        "realidx": "24139705",
+        "question": "Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.\nAmong the high users, the proportion of informed meals remained stable from baseline to the end of the study 6months later (from 78.1\u00b121.5% to 73.8\u00b125.1%; P=0.107), but decreased in the low users (from 36.6\u00b129.4% to 26.7\u00b128.4%; P=0.005). As expected, HbA1c improved in high users from 8.7% [range: 8.3-9.2%] to 8.2% [range: 7.8-8.7%]in patients with (n=26) vs without (n=30) the benefit of telemonitoring/teleconsultation (-0.49\u00b10.60% vs -0.52\u00b10.73%, respectively; P=0.879). However, although HbA1c also improved in low users from 9.0% [8.5-10.1] to 8.5% [7.9-9.6], those receiving support via teleconsultation tended to show greater improvement than the others (-0.93\u00b10.97 vs -0.46\u00b11.05, respectively; P=0.084).\nTelemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 77275,
+            "completion_tokens": 2550
+        },
+        "time_elapsed": 52.98682880401611
+    },
+    {
+        "idx": "24318956",
+        "realidx": "24318956",
+        "question": "Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.\nData from a population-based case-control study of incident cases aged 35-74 years at PCa diagnosis in 2002-2005 in King County, Washington were available. Controls were identified by random digit dialing and frequency matched by age. Use of digoxin was determined from in-person questionnaires regarding medical and prescription history. The relationship of digoxin use with PCa risk was evaluated with logistic regression.\nOne thousand one cases of PCa and 942 controls were analyzed. The prevalence of digoxin use in controls was 2.7%, and use was positively correlated with age. In multivariate analysis adjusting for age, race, PSA screening, and family history of PCa, digoxin use was associated with a reduction in the odds ratio of PCa (OR 0.58, 95% CI: 0.30-1.10). Among those with \u22653 PSA tests over the preceding 5 years (546 cases, 380 controls), digoxin use was associated with a stronger reduction of PCa risk (OR 0.44, 95% CI: 0.20-0.98).\nIs digoxin use for cardiovascular disease associated with risk of prostate cancer? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10948,
+            "completion_tokens": 693
+        },
+        "time_elapsed": 15.5405855178833
+    },
+    {
+        "idx": "24336869",
+        "realidx": "24336869",
+        "question": "The 'law of spatiotemporal concentrations of events' introduced major preventative shifts in policing communities. 'Hotspots' are at the forefront of these developments yet somewhat understudied in emergency medicine. Furthermore, little is known about interagency 'data-crossover', despite some developments through the Cardiff Model. Can police-ED interagency data-sharing be used to reduce community-violence using a hotspots methodology?\n12-month (2012) descriptive study and analysis of spatiotemporal clusters of police and emergency calls for service using hotspots methodology and assessing the degree of incident overlap. 3775 violent crime incidents and 775 assault incidents analysed using spatiotemporal clustering with k-means++ algorithm and Spearman's rho.\nSpatiotemporal location of calls for services to the police and the ambulance service are equally highly concentrated in a small number of geographical areas, primarily within intra-agency hotspots (33% and 53%, respectively) but across agencies' hotspots as well (25% and 15%, respectively). Datasets are statistically correlated with one another at the 0.57 and 0.34 levels, with 50% overlap when adjusted for the number of hotspots. At least one in every two police hotspots does not have an ambulance hotspot overlapping with it, suggesting half of assault spatiotemporal concentrations are unknown to the police. Data further suggest that more severely injured patients, as estimated by transfer to hospital, tend to be injured in the places with the highest number of police-recorded crimes.\nCan routinely collected ambulance data about assaults contribute to reduction in community violence? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 20126,
+            "completion_tokens": 1539
+        },
+        "time_elapsed": 158.21941781044006
+    },
+    {
+        "idx": "24352924",
+        "realidx": "24352924",
+        "question": "The purpose of this study was to investigate the efficacy of ultrasonography to confirm Schanz pin placement in a cadaveric model, and the interobserver repeatability of the ultrasound methodology.\nThis investigation is a repeated measures cadaveric study with multiple examiners.\nCadaveric preparation and observations were done by an orthopaedic traumatologist and resident, and two general surgery traumatologists.\nA total of 16 Schanz pins were equally placed in bilateral femora and tibiae. Four examiners took measurements of pin protrusion beyond the distal cortices using first ultrasonography and then by direct measurement after gross dissection.MAIN OUTCOME MEASURE(S): Distal Schanz pin protrusion length measurements from both ultrasonography and direct measurement post dissection.\nSchanz pin protrusion measurements are underestimated by ultrasonography (p<0.01) by an average of 10 percent over the range of 5 to 18 mm, and they display a proportional bias that increases the under reporting as the magnitude of pin protrusion increases. Ultrasound data demonstrate good linear correlation and closely represent actual protrusion values in the 5 to 12 mm range. Interobserver repeatability analysis demonstrated that all examiners were not statistically different in their measurements despite minimal familiarity with the ultrasound methodology (p>0.8).\nIs portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10306,
+            "completion_tokens": 1111
+        },
+        "time_elapsed": 15.807395219802856
+    },
+    {
+        "idx": "24449622",
+        "realidx": "24449622",
+        "question": "This study aimed to show the relationship between serum paraoxonase 1 level and the epicardial fat tissue thickness.\nTwo hundred and seven patients without any atherosclerotic disease history were included in this cross-sectional observational study. Correlation analysis was performed to determine the correlation between epicardial fat tissue thickness, which was measured by echocardiography and serum paraoxonase 1 level. Also correlation analysis was performed to show correlation between patients' clinical and laboratory findings and the level of serum paraoxonase 1 (PON 1) and the epicardial fat tissue thickness. Pearson and Spearman test were used for correlation analysis.\nNo linear correlation between epicardial fat tissue thickness and serum PON 1 found (correlation coefficient: -0.127, p=0.069). When epicardial fat tissue thickness were grouped as 7 mm and over, and below, and 5 mm and over, and below, serum PON 1 level were significantly lower in \u22657 mm group (PON1 : 168.9 U/L) than<7 mm group (PON 1: 253.9 U/L) (p<0.001). Also hypertension prevalence was increased in \u22657 mm group (p=0.001). Serum triglyceride was found to be higher in \u22657 mm group (p=0.014), body mass index was found higher in \u22655 mm group (p=0.006).\nIs there a relationship between serum paraoxonase level and epicardial fat tissue thickness? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10479,
+            "completion_tokens": 933
+        },
+        "time_elapsed": 15.913739442825317
+    },
+    {
+        "idx": "24495711",
+        "realidx": "24495711",
+        "question": "More than 50,000 new HIV infections occur annually in the United States. Injection drug users represent twelve percent of incident HIV infections each year. Pharmacy sales of over-the-counter (OTC) syringes have helped prevent HIV transmission among injection drug users in many states throughout the United States. However, concerns exist among some law enforcement officials, policymakers, pharmacists, and community members about potential links between OTC syringe sales and crime.\nWe used a geographic information system and novel spatial and longitudinal analyses to determine whether implementation of pharmacy-based OTC syringe sales were associated with reported crime between January 2006 and December 2008 in Los Angeles Police Department Reporting Districts. We assessed reported crime pre- and post-OTC syringe sales initiation as well as longitudinal associations between crime and OTC syringe-selling pharmacies.\nBy December 2008, 9.3% (94/1010) of Los Angeles Police Department Reporting Districts had at least one OTC syringe-selling pharmacy. Overall reported crime counts and reported crime rates decreased between 2006 and 2008 in all 1010 Reporting Districts. Using generalized estimating equations and adjusting for potential confounders, reported crime rates were negatively associated with OTC syringe sales (adjusted rate ratio: 0.89; 95% confidence interval: 0.81, 0.99).\nIs crime associated with over-the-counter pharmacy syringe sales? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 46306,
+            "completion_tokens": 1601
+        },
+        "time_elapsed": 51.32267928123474
+    },
+    {
+        "idx": "24977765",
+        "realidx": "24977765",
+        "question": "Concussions are commonly diagnosed in pediatric patients presenting to the emergency department (ED). The primary objective of this study was to evaluate compliance with ED discharge instructions for concussion management.\nA prospective cohort study was conducted from November 2011 to November 2012 in a pediatric ED at a regional Level 1 trauma center, serving 35,000 pediatric patients per year. Subjects were aged 8 years to 17 years and were discharged from the ED with a diagnosis of concussion. Exclusion criteria included recent (past 3 months) diagnosis of head injury, hospital admission, intracranial injury, skull fracture, suspected nonaccidental trauma, or preexisting neurologic condition. Subjects were administered a baseline survey in the ED and were given standardized discharge instructions for concussion by the treating physician. Telephone follow-up surveys were conducted at 2 weeks and 4 weeks after ED visit.\nA total of 150 patients were enrolled. The majority (67%) of concussions were sports related. Among sports-related concussions, soccer (30%), football (11%), lacrosse (8%), and basketball (8%) injuries were most common. More than one third (39%) reported return to play (RTP) on the day of the injury. Physician follow-up was equivalent for sport and nonsport concussions (2 weeks, 58%; 4 weeks, 64%). Sports-related concussion patients were more likely to follow up with a trainer (2 weeks, 25% vs. 10%, p = 0.06; 4 weeks, 29% vs. 8%, p<0.01). Of the patients who did RTP or normal activities at 2 weeks (44%), more than one third (35%) were symptomatic, and most (58%) did not receive medical clearance. Of the patients who had returned to activities at 4 weeks (64%), less than one quarter (23%) were symptomatic, and most (54%) received medical clearance.\nAre pediatric concussion patients compliant with discharge instructions? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 49526,
+            "completion_tokens": 2178
+        },
+        "time_elapsed": 50.55532360076904
+    },
+    {
+        "idx": "25371231",
+        "realidx": "25371231",
+        "question": "The aetiology of osteochondritis dissecans is still unclear. The aim of this prospective pilot study was to analyse whether vitamin D insufficiency, or deficiency, might be a contributing etiological factor in the development of an OCD lesion.\nThe serum level of vitamin D3 in 23 consecutive patients (12 male and 11 female) suffering from a stage III, or stages III and IV, OCD lesion (mostly stage III) admitted for surgery was measured.\nThe patients' mean age was 31.3\u00a0years and most of them already exhibited closed epiphyseal plates. In the majority of patients (18/23), a distinct vitamin D3 deficiency was found, two patients were vitamin D3-insufficient and, in three patients, the vitamin D3 level reached the lowest normal value.\nIs vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 14955,
+            "completion_tokens": 1264
+        },
+        "time_elapsed": 129.32652306556702
+    },
+    {
+        "idx": "25394614",
+        "realidx": "25394614",
+        "question": "To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.\nThe primary outcome was chronic lung disease (CLD) and mortality before/at 36 weeks. Secondary outcomes included: duration of mechanical ventilation and continuous positive airway pressure (CPAP), post-natal steroids for CLD and major neonatal morbidities.\nPremature infants born at 22-32 weeks' gestation between January 2006 and December 2009.\nTen neonatal intensive care units (NICUs) in New South Wales (NSW) and Australian Capital Territory (ACT), Australia.\nRetrospective analysis of prospectively collected data from the regional NICU database in NSW and ACT.\nOf the 2170 infants who received surfactant, 1182 (54.5%) and 988 (45.5%) received early and late surfactant, respectively. The early surfactant group was less mature (27.1\u2009\u00b1\u20092.1 versus 29.4\u2009\u00b1\u20092.1 weeks) and had more CLD and mortality (40.2% versus 20.0%). The multivariable analysis showed early surfactant to be associated with less duration of ventilation, longer duration of CPAP and longer hospital stay but had little or no impact on CLD/mortality.\nDoes timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 51130,
+            "completion_tokens": 1986
+        },
+        "time_elapsed": 60.147483587265015
+    },
+    {
+        "idx": "25614468",
+        "realidx": "25614468",
+        "question": "The aim of this study was to prospectively compare the diagnostic performance of magnetic resonance imaging (MRI), multidetector computed tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative locoregional staging of gastric cancer.\nThis study had Institutional Review Board approval, and informed consent was obtained from all patients. Fifty-two patients with biopsy-proven gastric cancer underwent preoperative 1.5-T MRI, 64-channel MDCT and EUS. All images were analysed blind, and the results were compared with histopathological findings according to the seventh edition of the TNM classification. After the population had been divided on the basis of the local invasion (T1-3 vs T4a-b) and nodal involvement (N0 vs N+), sensitivity, specificity, positive and negative predictive value, and accuracy were calculated and diagnostic performance measures were assessed using the McNemar test.\nFor T staging, EUS showed higher sensitivity (94%) than MDCT and MRI (65 and 76%; p = 0.02 and p = 0.08). MDCT and MRI had significantly higher specificity (91 and 89%) than EUS (60%) (p = 0.0009 and p = 0.003). Adding MRI to MDCT or EUS did not result in significant differences for sensitivity. For N staging, EUS showed higher sensitivity (92%) than MRI and MDCT (69 and 73%; p = 0.01 and p = 0.02). MDCT showed better specificity (81%) than EUS and MRI (58 and 73%; p = 0.03 and p = 0.15).\nPreoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 19954,
+            "completion_tokens": 1965
+        },
+        "time_elapsed": 150.92492985725403
+    },
+    {
+        "idx": "26778755",
+        "realidx": "26778755",
+        "question": "Although dose-volume parameters in image-guided brachytherapy have become a standard, the use of posterior-inferior border of the pubic symphysis (PIBS) points has been recently proposed in the reporting of vaginal doses. The aim was to evaluate their pertinence.\nNineteen patients who received image-guided brachytherapy after concurrent radiochemotherapy were included. Per treatment, CT scans were performed at Days 2 and 3, with reporting of the initial dwell positions and times. Doses delivered to the PIBS points were evaluated on each plan, considering that they were representative of one-third of the treatment. The movements of the applicator according to the PIBS point were analysed.\nMean prescribed doses at PIBS -2, PIBS, PIBS +2 were, respectively, 2.23 \u00b1 1.4, 6.39 \u00b1 6.6, and 31.85 \u00b1 36.06 Gy. Significant differences were observed between the 5 patients with vaginal involvement and the remaining 14 at the level of PIBS +2 and PIBS: +47.60 Gy and +7.46 Gy, respectively (p = 0.023 and 0.03). The variations between delivered and prescribed doses at PIBS points were not significant. However, at International commission on radiation units and measurements rectovaginal point, the delivered dose was decreased by 1.43 \u00b1 2.49 Gy from the planned dose (p = 0.019). The delivered doses at the four points were strongly correlated with the prescribed doses with R(2) ranging from 0.93 to 0.95. The movements of the applicator in regard of the PIBS point assessed with the Digital Imaging and Communications in Medicine coordinates were insignificant.\nVaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 19276,
+            "completion_tokens": 1744
+        },
+        "time_elapsed": 134.97931289672852
+    },
+    {
+        "idx": "26852225",
+        "realidx": "26852225",
+        "question": "Anchoring vignettes are brief texts describing a hypothetical character who illustrates a certain fixed level of a trait under evaluation. This research uses vignettes to elucidate factors associated with sleep disorders in adult Japanese before and after adjustment for reporting heterogeneity in self-reports. This study also evaluates the need for adjusting for reporting heterogeneity in the management of sleep and energy related problems in Japan.\nWe investigated a dataset of 1002 respondents aged 18 years and over from the Japanese World Health Survey, which collected information through face-to-face interview from 2002 to 2003. The ordered probit model and the Compound Hierarchical Ordered Probit (CHOPIT) model, which incorporated anchoring vignettes, were employed to estimate and compare associations of sleep and energy with socio-demographic and life-style factors before and after adjustment for differences in response category cut-points for each individual.\nThe prevalence of self-reported problems with sleep and energy was 53 %. Without correction of cut-point shifts, age, sex, and the number of comorbidities were significantly associated with a greater severity of sleep-related problems. After correction, age, the number of comorbidities, and regular exercise were significantly associated with a greater severity of sleep-related problems; sex was no longer a significant factor. Compared to the ordered probit model, the CHOPIT model provided two changes with a subtle difference in the magnitude of regression coefficients after correction for reporting heterogeneity.\nIs adjustment for reporting heterogeneity necessary in sleep disorders? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11654,
+            "completion_tokens": 856
+        },
+        "time_elapsed": 18.341583251953125
+    },
+    {
+        "idx": "26864326",
+        "realidx": "26864326",
+        "question": "In this single-centre prospective study, triage nurses estimated the probability of admission using a 100\u2005mm visual analogue scale (VAS), and GAPS was generated automatically from triage data. We compared calibration using rank sum tests, discrimination using area under receiver operating characteristic curves (AUC) and accuracy with McNemar's test.\nOf 1829 attendances, 745 (40.7%) were admitted, not significantly different from GAPS' prediction of 750 (41.0%, p=0.678). In contrast, the nurses' mean VAS predicted 865 admissions (47.3%), overestimating by 6.6% (p<0.0001). GAPS discriminated between admission and discharge as well as nurses, its AUC 0.876 compared with 0.875 for VAS (p=0.93). As a binary predictor, its accuracy was 80.6%, again comparable with VAS (79.0%), p=0.18. In the minority of attendances, when nurses felt at least 95% certain of the outcome, VAS' accuracy was excellent, at 92.4%. However, in the remaining majority, GAPS significantly outperformed VAS on calibration (+1.2% vs +9.2%, p<0.0001), discrimination (AUC 0.810 vs 0.759, p=0.001) and accuracy (75.1% vs 68.9%, p=0.0009). When we used GAPS, but 'over-ruled' it when clinical certainty was \u226595%, this significantly outperformed either method, with AUC 0.891 (0.877-0.907) and accuracy 82.5% (80.7%-84.2%).\nPredicting admission at triage: are nurses better than a simple objective score? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 47230,
+            "completion_tokens": 1933
+        },
+        "time_elapsed": 49.11940312385559
+    },
+    {
+        "idx": "26965932",
+        "realidx": "26965932",
+        "question": "This study sought to investigate the ischemic and bleeding outcomes of patients fulfilling high bleeding risk (HBR) criteria who were randomized to zotarolimus-eluting Endeavor Sprint stent (E-ZES) or bare-metal stent (BMS) implantation followed by an abbreviated dual antiplatelet therapy (DAPT) duration for stable or unstable coronary artery disease.\nDES instead of BMS use remains controversial in HBR patients, in whom long-term DAPT poses safety concerns.\nThe ZEUS (Zotarolimus-Eluting Endeavor Sprint Stent in Uncertain DES Candidates) is a multinational, randomized single-blinded trial that randomized among others, in a stratified manner, 828 patients fulfilling pre-defined clinical or biochemical HBR criteria-including advanced age, indication to oral anticoagulants or other pro-hemorrhagic medications, history of bleeding and known anemia-to receive E-ZES or BMS followed by a protocol-mandated 30-day DAPT regimen. The primary endpoint of the study was the 12-month major adverse cardiovascular event rate, consisting of death, myocardial infarction, or target vessel revascularization.\nCompared with patients without, those with 1 or more HBR criteria had worse outcomes, owing to higher ischemic and bleeding risks. Among HBR patients, major adverse cardiovascular events occurred in 22.6% of the E-ZES and 29% of the BMS patients (hazard ratio: 0.75; 95% confidence interval: 0.57 to 0.98; p = 0.033), driven by lower myocardial infarction (3.5% vs. 10.4%; p<0.001) and target vessel revascularization (5.9% vs. 11.4%; p = 0.005) rates in the E-ZES arm. The composite of definite or probable stent thrombosis was significantly reduced in E-ZES recipients, whereas bleeding events did not differ between stent groups.\nIs Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10791,
+            "completion_tokens": 909
+        },
+        "time_elapsed": 15.935442686080933
+    },
+    {
+        "idx": "27136599",
+        "realidx": "27136599",
+        "question": "Patient data were retrospectively collected from a database for gynaecological cancer procedures carried out between January 2013 and July 2015. All patients who underwent a colorectal resection during cytoreduction were included in the study. The primary outcome was anastomotic leakage in the presence or absence of a diverting stoma. Secondary outcome parameters were complications and reoperations.\nIn the period of study, 43 major colorectal procedures were performed on 37 women. The most common colorectal procedure was low rectal resection (n\u00a0=\u00a022; 59%) followed by anterior rectal resection (n\u00a0=\u00a07; 19%) and sigmoid resection (n\u00a0=\u00a04; 11%). Five (14%) patients underwent Hartmann's procedure. In three (8%) patients, a diverting loop ileostomy was created.\nIs it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17680,
+            "completion_tokens": 1941
+        },
+        "time_elapsed": 139.8168969154358
+    },
+    {
+        "idx": "27217036",
+        "realidx": "27217036",
+        "question": "Longer duration of neoadjuvant (NA) imatinib\u00a0(IM) used for locally advanced (LA) gastrointestinal stromal tumours (GIST) is not based on biology of the tumour reflected by kit mutation analysis.\nLA or locally recurrent (LR) GIST treated with NA IM from May 2008 to March 2015 from a prospective database were included in\u00a0the analysis. Archived formalin-fixed paraffin-embedded tissues (FFPE) were used for testing KIT exons 9, 11, 13 and 17 by PCR.\nOne hundred twenty-five patients with LA or LR GIST were treated with NA IM. Forty-five patients (36\u00a0%) had undergone c-kit mutation testing. Exon 11 was seen in 25 patients (55.5\u00a0%), 3 with exon 9 (6.7\u00a0%) and 2 with exon 13 (4.4\u00a0%). Twelve were wild type (26.6\u00a0%) and \u00a03 (6.7 %) were declared uninterpretable. Response rate (RR) for the exon 11 mutants was higher than the non-exon 11 mutant group (84 vs. 40\u00a0%, p\u2009=\u20090.01). Disease stabilization rate (DSR) rates were also higher in the exon 11 subgroup than non-exon 11 group (92 vs. 75\u00a0%). Eighty-four per cent exon 11 and 75\u00a0% non-exon 11 mutants were surgical candidates. Patients undergoing surgery had significantly improved event free survival (EFS) (p\u2009<\u20090.001) compared to patients not undergoing surgery, with the same trend seen in OS (p\u2009=\u20090.021). Patients with a SD on response to NA IM had a lower EFS (p\u2009=\u20090.076) and OS compared to patients achieving CR/PR. There were no differences between the various exon variants in terms of outcomes and responses\nNeoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 19608,
+            "completion_tokens": 1805
+        },
+        "time_elapsed": 150.75820779800415
+    },
+    {
+        "idx": "7497757",
+        "realidx": "7497757",
+        "question": "To determine if temperature during cardiopulmonary bypass (CPB) has an effect on perioperative and postoperative thyroid function.\nProspective study comparing thyroid function during and after hypothermic and normothermic CPB.\nCardiac surgical unit at a university-affiliated hospital.\nTwelve patients scheduled to undergo cardiac operations with normothermic (n = 6) or hypothermic (n = 6) CPB.\nBlood was analyzed for serum concentration of total thyroxine (TT4), total triiodothyronine (TT3), free T3 (fT3), reverse T3 (rT3), and thyroid stimulating hormone (TSH) preoperatively, 60 min after CPB was initiated, 30 min after discontinuing CPB, and on postoperative days (POD) 1, 3, and 5.\nPatients who underwent either cold (26 degrees +/- 5 degrees C) or warm (35 degrees +/- 1 degree C) CPB were comparable with regard to age, body weight, duration of CPB, cross-clamp time, use of inotropes, total heparin dose, and length of hospital stay. Incidence of postoperative myocardial infarction, congestive heart failure, and death were similar. In both groups, TT4 and TT3 were reduced below baseline values beginning with CPB and persisting for up to 5 days after CPB (p<0.05), free T3 was reduced for up to 3 days after CPB (p<0.05), mean serum rT3 was elevated on POD 1 and POD 3 (p<0.05), and TSH remained unchanged.\nCardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 19489,
+            "completion_tokens": 1423
+        },
+        "time_elapsed": 149.23735427856445
+    },
+    {
+        "idx": "9363244",
+        "realidx": "9363244",
+        "question": "To determine the effect of occupational exposure in a nuclear power plant in Griefswald, Germany on male and female fecundity.\nThe frequency of men and women exposed to ionizing radiation through work in a nuclear power plant among 270 infertile couples was retrospectively compared to a control fertile population using a pair-matched analysis. The total cumulative equivalent radiation dose was determined. In addition, the spermiograms of the male partners in both groups were compared and correlated to the degree of exposure.\nNo differences were noted in the frequency of nuclear power plant exposure between sterile and fertile groups. There was a higher rate of anomalous spermiograms in nuclear power plant workers. However, abnormalities were temporary. No correlation was found between the cumulative equivalent radiation dose and abnormal spermiograms.\nDoes occupational nuclear power plant radiation affect conception and pregnancy? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16683,
+            "completion_tokens": 1881
+        },
+        "time_elapsed": 156.4129204750061
+    }
+]

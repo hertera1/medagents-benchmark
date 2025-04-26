@@ -1,0 +1,2067 @@
+[
+    {
+        "idx": 6002,
+        "realidx": 6002,
+        "question": "Which disease do polyomaviruses predominantly cause? Options: (D) Kidney infections (A) Tumours (C) No disease at all (B) Brain pathology",
+        "answer_idx": "C",
+        "answer": "No disease at all",
+        "options": {
+            "A": "Tumours",
+            "B": "Brain pathology",
+            "C": "No disease at all",
+            "D": "Kidney infections"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5444,
+            "completion_tokens": 699
+        },
+        "time_elapsed": 9.708201169967651
+    },
+    {
+        "idx": 6003,
+        "realidx": 6003,
+        "question": "Who discovered the first virus? Options: (J) The physicist Albert Einstein (C) The physician Edward Jenner (B) The virologist Jonas Salk (I) The botanist Dmitri Iwanowsky (H) The geneticist James Watson (D) The microbiologist Louis Pasteur (E) The bacteriologist Charles Chamberland (F) The biologist Robert Hooke (G) The biologist Gregor Mendel (A) The microscopist Antonie van Leeuwenhoek",
+        "answer_idx": "I",
+        "answer": "The botanist Dmitri Iwanowsky",
+        "options": {
+            "A": "The microscopist Antonie van Leeuwenhoek",
+            "B": "The virologist Jonas Salk",
+            "C": "The physician Edward Jenner",
+            "D": "The microbiologist Louis Pasteur",
+            "E": "The bacteriologist Charles Chamberland",
+            "F": "The biologist Robert Hooke",
+            "G": "The biologist Gregor Mendel",
+            "H": "The geneticist James Watson",
+            "I": "The botanist Dmitri Iwanowsky",
+            "J": "The physicist Albert Einstein"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5332,
+            "completion_tokens": 746
+        },
+        "time_elapsed": 10.872222661972046
+    },
+    {
+        "idx": 6013,
+        "realidx": 6013,
+        "question": "Bronchial breathing is characterized by Options: (F) Both inspiratory and expiratory components are equal with no gap between them (D) Both inspiratory and expiratory components are equal in length and volume (A) Inspiratory component louder and longer with a gap between inspiration and expiration (H) Expiratory component louder and longer with a gap between expiration and inspiration (J) Expiratory component shorter and quieter with a gap between inspiration and expiration (C) Expiratory component louder and longer, but no gap between expiration and inspiration (I) Inspiratory component shorter and quieter with a gap between expiration and inspiration (B) Inspiratory component louder and longer, but no gap between expiration and inspiration (E) Inspiratory component louder and longer with a gap between expiration and inspiration (G) Expiratory component louder and longer with a gap between inspiration and expiration",
+        "answer_idx": "G",
+        "answer": "Expiratory component louder and longer with a gap between inspiration and expiration",
+        "options": {
+            "A": "Inspiratory component louder and longer with a gap between inspiration and expiration",
+            "B": "Inspiratory component louder and longer, but no gap between expiration and inspiration",
+            "C": "Expiratory component louder and longer, but no gap between expiration and inspiration",
+            "D": "Both inspiratory and expiratory components are equal in length and volume",
+            "E": "Inspiratory component louder and longer with a gap between expiration and inspiration",
+            "F": "Both inspiratory and expiratory components are equal with no gap between them",
+            "G": "Expiratory component louder and longer with a gap between inspiration and expiration",
+            "H": "Expiratory component louder and longer with a gap between expiration and inspiration",
+            "I": "Inspiratory component shorter and quieter with a gap between expiration and inspiration",
+            "J": "Expiratory component shorter and quieter with a gap between inspiration and expiration"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5440,
+            "completion_tokens": 556
+        },
+        "time_elapsed": 9.010040998458862
+    },
+    {
+        "idx": 6018,
+        "realidx": 6018,
+        "question": "Remarriages are Options: (H) Typically less successful (E) Always unsuccessful (G) More frequent for woman than men (I) Only allowed after a certain period of time (D) Typically more successful (A) More frequent for men than women (B) Illegal in most countries (J) Most common among those who have been married multiple times before (F) Always successful (C) Most common among those who have never been married before",
+        "answer_idx": "H",
+        "answer": "Typically less successful",
+        "options": {
+            "A": "More frequent for men than women",
+            "B": "Illegal in most countries",
+            "C": "Most common among those who have never been married before",
+            "D": "Typically more successful",
+            "E": "Always unsuccessful",
+            "F": "Always successful",
+            "G": "More frequent for woman than men",
+            "H": "Typically less successful",
+            "I": "Only allowed after a certain period of time",
+            "J": "Most common among those who have been married multiple times before"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5489,
+            "completion_tokens": 885
+        },
+        "time_elapsed": 12.36112928390503
+    },
+    {
+        "idx": 6021,
+        "realidx": 6021,
+        "question": "Very rapid disposal of the body, before sundown on the day of the death, is typical of which religion? Options: (C) Hindu (H) Buddhism (B) Jewish (J) Shinto (I) Christianity (G) Sikhism (A) Tao (D) Baha'i (F) Zoroastrianism (E) Islam",
+        "answer_idx": "C",
+        "answer": "Hindu",
+        "options": {
+            "A": "Tao",
+            "B": "Jewish",
+            "C": "Hindu",
+            "D": "Baha'i",
+            "E": "Islam",
+            "F": "Zoroastrianism",
+            "G": "Sikhism",
+            "H": "Buddhism",
+            "I": "Christianity",
+            "J": "Shinto"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5032,
+            "completion_tokens": 568
+        },
+        "time_elapsed": 8.528154373168945
+    },
+    {
+        "idx": 6029,
+        "realidx": 6029,
+        "question": "The coronary arteries Options: (B) arise from the arch of the aorta and do not fill during either systole or diastole. (H) arise from the descending aorta and fill during diastole. (C) arise from the ascending aorta and fill during systole. (G) arise from the descending aorta and fill during systole. (A) arise from the ascending aorta and do not fill during either systole or diastole. (I) arise from the ascending aorta and fill during diastole. (D) arise from the arch of the aorta and fill during systole. (J) arise from the arch of the aorta and fill during diastole. (E) arise from the pulmonary artery and fill during systole. (F) arise from the pulmonary artery and fill during diastole.",
+        "answer_idx": "I",
+        "answer": "arise from the ascending aorta and fill during diastole.",
+        "options": {
+            "A": "arise from the ascending aorta and do not fill during either systole or diastole.",
+            "B": "arise from the arch of the aorta and do not fill during either systole or diastole.",
+            "C": "arise from the ascending aorta and fill during systole.",
+            "D": "arise from the arch of the aorta and fill during systole.",
+            "E": "arise from the pulmonary artery and fill during systole.",
+            "F": "arise from the pulmonary artery and fill during diastole.",
+            "G": "arise from the descending aorta and fill during systole.",
+            "H": "arise from the descending aorta and fill during diastole.",
+            "I": "arise from the ascending aorta and fill during diastole.",
+            "J": "arise from the arch of the aorta and fill during diastole."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5562,
+            "completion_tokens": 566
+        },
+        "time_elapsed": 9.21615719795227
+    },
+    {
+        "idx": 6030,
+        "realidx": 6030,
+        "question": "Which of the following bones develop by endochondral ossification? Options: (F) The ribs, sternum and femur (J) The ribs (A) The ribs, sternum, clavicle, vertebrae and femur (H) The ribs, sternum, clavicle, vertebrae, pelvis and femur (I) The ribs, sternum and clavicle (B) The ribs, sternum, clavicle and vertebrae (G) The ribs and sternum (D) The sternum and clavicle (C) The ribs, sternum, clavicle, vertebrae and pelvis (E) The ribs and pelvis",
+        "answer_idx": "G",
+        "answer": "The ribs and sternum",
+        "options": {
+            "A": "The ribs, sternum, clavicle, vertebrae and femur",
+            "B": "The ribs, sternum, clavicle and vertebrae",
+            "C": "The ribs, sternum, clavicle, vertebrae and pelvis",
+            "D": "The sternum and clavicle",
+            "E": "The ribs and pelvis",
+            "F": "The ribs, sternum and femur",
+            "G": "The ribs and sternum",
+            "H": "The ribs, sternum, clavicle, vertebrae, pelvis and femur",
+            "I": "The ribs, sternum and clavicle",
+            "J": "The ribs"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5743,
+            "completion_tokens": 841
+        },
+        "time_elapsed": 10.363393783569336
+    },
+    {
+        "idx": 6032,
+        "realidx": 6032,
+        "question": "A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. Options: (F) Pupillary constriction, vasodilation of facial vessels and increased facial sweating (B) Pupillary dilation (I) Pupillary dilation and vasoconstriction of facial vessels (E) Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation (C) Pupillary constriction, vasoconstriction of facial vessels and increased facial sweating (J) Pupillary dilation, vasoconstriction of facial vessels and decreased facial sweating (D) Pupillary dilation, vasoconstriction of facial vessels, decreased facial sweating and increased lacrimation (G) Pupillary constriction and vasodilation of facial vessels, decreased facial sweating and increased lacrimation (A) Pupillary constriction and vasodilation of facial vessels (H) Pupillary constriction",
+        "answer_idx": "A",
+        "answer": "Pupillary constriction and vasodilation of facial vessels",
+        "options": {
+            "A": "Pupillary constriction and vasodilation of facial vessels",
+            "B": "Pupillary dilation",
+            "C": "Pupillary constriction, vasoconstriction of facial vessels and increased facial sweating",
+            "D": "Pupillary dilation, vasoconstriction of facial vessels, decreased facial sweating and increased lacrimation",
+            "E": "Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation",
+            "F": "Pupillary constriction, vasodilation of facial vessels and increased facial sweating",
+            "G": "Pupillary constriction and vasodilation of facial vessels, decreased facial sweating and increased lacrimation",
+            "H": "Pupillary constriction",
+            "I": "Pupillary dilation and vasoconstriction of facial vessels",
+            "J": "Pupillary dilation, vasoconstriction of facial vessels and decreased facial sweating"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6058,
+            "completion_tokens": 741
+        },
+        "time_elapsed": 14.487598896026611
+    },
+    {
+        "idx": 6039,
+        "realidx": 6039,
+        "question": "A 78-year-old male presents to the office\u00a0with the complaint of severe neck pain. He rates the pain as a 7\u00a0on a scale of 0 to 10 scale. He denies any trauma but reports that he had been doing a lot of painting over the past week. He denies any radicular pain or numbness. Cervical range of motion is moderately limited in all fields. He is treated with articulatory springing technique. Four hours later the physician receives a call from the local emergency department, where the patient presented confused, nauseated, and vertiginous. The physician may be found liable if Options: (I) the motion barrier was articulated more than 3 times (G) the physician did not ask about any pre-existing conditions before treatment (D) the physician failed to recognize the patient's age as a risk factor for complications (A) the neck was treated in simultaneous hyperrotation and extension (B) the treatment was performed without first conducting a thorough physical examination (H) the patient was not advised of potential risks before the treatment (J) the motion barrier was met with a vectored force from the direction of ease (F) the patient was not properly instructed on aftercare following the treatment (C) the treatment was performed without prior consent from the patient (E) the patient was previously treated for osteoarthritis of the cervical spine",
+        "answer_idx": "A",
+        "answer": "the neck was treated in simultaneous hyperrotation and extension",
+        "options": {
+            "A": "the neck was treated in simultaneous hyperrotation and extension",
+            "B": "the treatment was performed without first conducting a thorough physical examination",
+            "C": "the treatment was performed without prior consent from the patient",
+            "D": "the physician failed to recognize the patient's age as a risk factor for complications",
+            "E": "the patient was previously treated for osteoarthritis of the cervical spine",
+            "F": "the patient was not properly instructed on aftercare following the treatment",
+            "G": "the physician did not ask about any pre-existing conditions before treatment",
+            "H": "the patient was not advised of potential risks before the treatment",
+            "I": "the motion barrier was articulated more than 3 times",
+            "J": "the motion barrier was met with a vectored force from the direction of ease"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 158276,
+            "completion_tokens": 5165
+        },
+        "time_elapsed": 86.7719988822937
+    },
+    {
+        "idx": 6049,
+        "realidx": 6049,
+        "question": "What proportion of vegans is likely to be deficient in vitamin B12?\n Options: (F) 75% (G) 15% (H) 20% (E) 10% (B) 50% (D) 85% (A) 66% (I) 5% (J) 32% (C) 3%",
+        "answer_idx": "J",
+        "answer": "32%",
+        "options": {
+            "A": "66%",
+            "B": "50%",
+            "C": "3%",
+            "D": "85%",
+            "E": "10%",
+            "F": "75%",
+            "G": "15%",
+            "H": "20%",
+            "I": "5%",
+            "J": "32%"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5144,
+            "completion_tokens": 536
+        },
+        "time_elapsed": 9.38427734375
+    },
+    {
+        "idx": 6050,
+        "realidx": 6050,
+        "question": "Which of the following is a function of biotin?\n Options: (J) Synthesis of methylene tetrahydrofolate (E) Decarboxylation of amino acids to form amine neurotransmitters (B) Conversion of pyruvate to lactate (I) Carboxylation of pyruvate to oxaloacetate (C) Synthesis of methionine from homocysteine (A) Oxidation of glucose to carbon dioxide and water (G) Conversion of phenylalanine to tyrosine (H) Conversion of glucose to glycogen (F) Synthesis of fatty acids from acetyl-CoA (D) Synthesis of purine nucleotides",
+        "answer_idx": "I",
+        "answer": "Carboxylation of pyruvate to oxaloacetate",
+        "options": {
+            "A": "Oxidation of glucose to carbon dioxide and water",
+            "B": "Conversion of pyruvate to lactate",
+            "C": "Synthesis of methionine from homocysteine",
+            "D": "Synthesis of purine nucleotides",
+            "E": "Decarboxylation of amino acids to form amine neurotransmitters",
+            "F": "Synthesis of fatty acids from acetyl-CoA",
+            "G": "Conversion of phenylalanine to tyrosine",
+            "H": "Conversion of glucose to glycogen",
+            "I": "Carboxylation of pyruvate to oxaloacetate",
+            "J": "Synthesis of methylene tetrahydrofolate"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5619,
+            "completion_tokens": 558
+        },
+        "time_elapsed": 8.925935745239258
+    },
+    {
+        "idx": 6051,
+        "realidx": 6051,
+        "question": "Which of the following is a function of biotin?\n Options: (F) Synthesis of fatty acids from acetyl-CoA (E) Decarboxylation of amino acids to form amine neurotransmitters (A) Oxidation of glucose to carbon dioxide and water (D) Synthesis of purine nucleotides (C) Synthesis of methionine from homocysteine (J) Synthesis of methylene tetrahydrofolate (G) Conversion of phenylalanine to tyrosine (B) Conversion of pyruvate to lactate (H) Conversion of glucose to glycogen (I) Carboxylation of pyruvate to oxaloacetate",
+        "answer_idx": "I",
+        "answer": "Carboxylation of pyruvate to oxaloacetate",
+        "options": {
+            "A": "Oxidation of glucose to carbon dioxide and water",
+            "B": "Conversion of pyruvate to lactate",
+            "C": "Synthesis of methionine from homocysteine",
+            "D": "Synthesis of purine nucleotides",
+            "E": "Decarboxylation of amino acids to form amine neurotransmitters",
+            "F": "Synthesis of fatty acids from acetyl-CoA",
+            "G": "Conversion of phenylalanine to tyrosine",
+            "H": "Conversion of glucose to glycogen",
+            "I": "Carboxylation of pyruvate to oxaloacetate",
+            "J": "Synthesis of methylene tetrahydrofolate"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5983,
+            "completion_tokens": 759
+        },
+        "time_elapsed": 11.519290208816528
+    },
+    {
+        "idx": 6052,
+        "realidx": 6052,
+        "question": "Which of the following statements about protein structure is correct?\n Options: (B) Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate render the amino acid(s) unavailable for digestion. (I) Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion. (H) All proteins have the same primary structure (J) The sequence of amino acids in a protein is its tertiary structure (G) Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion. (D) The arrangement of amino acids in a protein is its secondary structure (C) All proteins have the same secondary structure (F) All proteins have the same tertiary structure (A) Cross-links formed by reduction of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion. (E) The sequence of amino acids in a protein is its quaternary structure",
+        "answer_idx": "G",
+        "answer": "Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.",
+        "options": {
+            "A": "Cross-links formed by reduction of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.",
+            "B": "Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate render the amino acid(s) unavailable for digestion.",
+            "C": "All proteins have the same secondary structure",
+            "D": "The arrangement of amino acids in a protein is its secondary structure",
+            "E": "The sequence of amino acids in a protein is its quaternary structure",
+            "F": "All proteins have the same tertiary structure",
+            "G": "Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.",
+            "H": "All proteins have the same primary structure",
+            "I": "Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.",
+            "J": "The sequence of amino acids in a protein is its tertiary structure"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6150,
+            "completion_tokens": 1094
+        },
+        "time_elapsed": 12.625539064407349
+    },
+    {
+        "idx": 6054,
+        "realidx": 6054,
+        "question": "Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?\n Options: (B) High nutrient requirements for tissue turnover (G) Decreased mobility and little time spend outdoors in the sunshine (E) Decreased intrinsic factor in the stomach (F) Decreased nutrient requirements due to aging (H) Increased absorption of vitamins and minerals due to medication (C) Increased intrinsic factor in the stomach (A) Regular physical activity and outdoor exposure (D) Low income so decreased ability to purchase nutrient-rich foods",
+        "answer_idx": "B",
+        "answer": "High nutrient requirements for tissue turnover",
+        "options": {
+            "A": "Regular physical activity and outdoor exposure",
+            "B": "High nutrient requirements for tissue turnover",
+            "C": "Increased intrinsic factor in the stomach",
+            "D": "Low income so decreased ability to purchase nutrient-rich foods",
+            "E": "Decreased intrinsic factor in the stomach",
+            "F": "Decreased nutrient requirements due to aging",
+            "G": "Decreased mobility and little time spend outdoors in the sunshine",
+            "H": "Increased absorption of vitamins and minerals due to medication"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5335,
+            "completion_tokens": 667
+        },
+        "time_elapsed": 17.2012140750885
+    },
+    {
+        "idx": 6055,
+        "realidx": 6055,
+        "question": "Which of the following is not a beneficial effect of exercise in people with diabetes:\n Options: (C) Worsening of vision (E) Reduction of bone density (A) Decreased muscle mass (D) Increase in blood sugar levels (G) Hypoglycaemia (F) Increase in body fat percentage (B) Impaired digestion",
+        "answer_idx": "G",
+        "answer": "Hypoglycaemia",
+        "options": {
+            "A": "Decreased muscle mass",
+            "B": "Impaired digestion",
+            "C": "Worsening of vision",
+            "D": "Increase in blood sugar levels",
+            "E": "Reduction of bone density",
+            "F": "Increase in body fat percentage",
+            "G": "Hypoglycaemia"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5349,
+            "completion_tokens": 768
+        },
+        "time_elapsed": 10.56671667098999
+    },
+    {
+        "idx": 6059,
+        "realidx": 6059,
+        "question": "Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?\n Options: (J) Water movement in the small intestine is always lesser than dietary intake of water (D) Water is primarily transported by movement within the cells lining the gut (enterocytes) (I) Water is mostly absorbed by the cells lining the gut (enterocytes) via osmosis (A) Dietary intake of water is always greater than water movement in the small intestine (E) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions (C) Water flows out of the gut from the mucosa, during digestion of starch and protein, in order to increase luminal osmolality (G) Water transport from the intestine to the blood stream does not occur during digestion (H) A \"flip-flop\" mechanism efficiently transports water directly across the enterocyte membrane (B) Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality (F) Water transport from the blood stream to the intestinal lumen only occurs during digestion",
+        "answer_idx": "B",
+        "answer": "Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",
+        "options": {
+            "A": "Dietary intake of water is always greater than water movement in the small intestine",
+            "B": "Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",
+            "C": "Water flows out of the gut from the mucosa, during digestion of starch and protein, in order to increase luminal osmolality",
+            "D": "Water is primarily transported by movement within the cells lining the gut (enterocytes)",
+            "E": "Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions",
+            "F": "Water transport from the blood stream to the intestinal lumen only occurs during digestion",
+            "G": "Water transport from the intestine to the blood stream does not occur during digestion",
+            "H": "A \"flip-flop\" mechanism efficiently transports water directly across the enterocyte membrane",
+            "I": "Water is mostly absorbed by the cells lining the gut (enterocytes) via osmosis",
+            "J": "Water movement in the small intestine is always lesser than dietary intake of water"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6013,
+            "completion_tokens": 779
+        },
+        "time_elapsed": 10.89757251739502
+    },
+    {
+        "idx": 6062,
+        "realidx": 6062,
+        "question": "Which of these factors increases the risk for lung cancer?\n Options: (J) Drinking green tea (D) Alcohol (E) Lack of physical activity (H) Obesity (I) High dose \u00df-carotene supplements (F) Low protein intake (G) Vitamin D deficiency (A) Saturated fat (B) High fiber diet (C) Eating citrus fruits",
+        "answer_idx": "I",
+        "answer": "High dose \u00df-carotene supplements",
+        "options": {
+            "A": "Saturated fat",
+            "B": "High fiber diet",
+            "C": "Eating citrus fruits",
+            "D": "Alcohol",
+            "E": "Lack of physical activity",
+            "F": "Low protein intake",
+            "G": "Vitamin D deficiency",
+            "H": "Obesity",
+            "I": "High dose \u00df-carotene supplements",
+            "J": "Drinking green tea"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 27893,
+            "completion_tokens": 1987
+        },
+        "time_elapsed": 45.71184468269348
+    },
+    {
+        "idx": 6064,
+        "realidx": 6064,
+        "question": "Which diseases are not less frequent among vegetarians?\n Options: (H) Obesity (D) Diabetes (C) Kidney stones (G) Ischaemic heart disease (A) Colorectal cancer (F) Stroke (B) Hypertension (E) Respiratory diseases (I) Diverticular disease",
+        "answer_idx": "E",
+        "answer": "Respiratory diseases",
+        "options": {
+            "A": "Colorectal cancer",
+            "B": "Hypertension",
+            "C": "Kidney stones",
+            "D": "Diabetes",
+            "E": "Respiratory diseases",
+            "F": "Stroke",
+            "G": "Ischaemic heart disease",
+            "H": "Obesity",
+            "I": "Diverticular disease"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5502,
+            "completion_tokens": 861
+        },
+        "time_elapsed": 10.980204820632935
+    },
+    {
+        "idx": 6068,
+        "realidx": 6068,
+        "question": "Describe the coronavirus structure. Options: (C) An icosahedral large pleomorphic virus (B) An icosahedral structure with an envelope (A) Club shaped glycoprotein spikes protrude through a lipid bilayer (D) Large regimented barrel shaped virus",
+        "answer_idx": "C",
+        "answer": "An icosahedral large pleomorphic virus",
+        "options": {
+            "A": "Club shaped glycoprotein spikes protrude through a lipid bilayer",
+            "B": "An icosahedral structure with an envelope",
+            "C": "An icosahedral large pleomorphic virus",
+            "D": "Large regimented barrel shaped virus"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4856,
+            "completion_tokens": 496
+        },
+        "time_elapsed": 8.492295503616333
+    },
+    {
+        "idx": 6071,
+        "realidx": 6071,
+        "question": "What is urban yellow fever (YF)? Options: (I) Part of a cycle of mosquitoes biting humans in cities (A) A YF species that has adapted to new mosquitoes (F) Part of a cycle of mosquitoes biting only animals in cities (C) A YF virus that is transmitted through contaminated water in cities (J) A YF virus that only affects humans in rural areas (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (D) A YF species that has adapted to colder climates in urban areas (E) A mutant of the YF virus (H) A YF virus that has lost its virulence in urban areas (G) A YF species that has adapted to rats in urban areas",
+        "answer_idx": "I",
+        "answer": "Part of a cycle of mosquitoes biting humans in cities",
+        "options": {
+            "A": "A YF species that has adapted to new mosquitoes",
+            "B": "Part of a cycle of mosquitoes biting humans and monkeys in forested areas",
+            "C": "A YF virus that is transmitted through contaminated water in cities",
+            "D": "A YF species that has adapted to colder climates in urban areas",
+            "E": "A mutant of the YF virus",
+            "F": "Part of a cycle of mosquitoes biting only animals in cities",
+            "G": "A YF species that has adapted to rats in urban areas",
+            "H": "A YF virus that has lost its virulence in urban areas",
+            "I": "Part of a cycle of mosquitoes biting humans in cities",
+            "J": "A YF virus that only affects humans in rural areas"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5483,
+            "completion_tokens": 632
+        },
+        "time_elapsed": 13.253501892089844
+    },
+    {
+        "idx": 6072,
+        "realidx": 6072,
+        "question": "For a very weak base, the pKb of a solution would likely be: Options: (C) Lower than the pH (B) Lower than the pOH (A) Near 14 at 25\u00baC (H) Higher than the pOH (D) Equal to the pOH (G) Near 7 at 25\u00baC (J) Equal to the pH (E) Near 0 at 25\u00baC (I) Equal to the pKa (F) Higher than the pH",
+        "answer_idx": "H",
+        "answer": "Higher than the pOH",
+        "options": {
+            "A": "Near 14 at 25\u00baC",
+            "B": "Lower than the pOH",
+            "C": "Lower than the pH",
+            "D": "Equal to the pOH",
+            "E": "Near 0 at 25\u00baC",
+            "F": "Higher than the pH",
+            "G": "Near 7 at 25\u00baC",
+            "H": "Higher than the pOH",
+            "I": "Equal to the pKa",
+            "J": "Equal to the pH"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5924,
+            "completion_tokens": 973
+        },
+        "time_elapsed": 14.104077816009521
+    },
+    {
+        "idx": 6074,
+        "realidx": 6074,
+        "question": "A segment of DNA from a lab mouse is determined to be 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion? Options: (D) 5' - GGATCCTCGT - 3' (I) 5' - GGATCCTCAG - 3' (E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019 (J) 5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019 (C) 5\u2019 \u2013 GGATCCATG \u2013 3\u2019 (F) 5' - GGATCCGCATG - 3' (B) 5\u2019 \u2013 TGATCCCAG \u2013 3\u2019 (A) 5' - GGATCCTCA - 3' (G) 5' - GGATCTCATG - 3' (H) 5' - GGATCCTCAT - 3'",
+        "answer_idx": "E",
+        "answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+        "options": {
+            "A": "5' - GGATCCTCA - 3'",
+            "B": "5\u2019 \u2013 TGATCCCAG \u2013 3\u2019",
+            "C": "5\u2019 \u2013 GGATCCATG \u2013 3\u2019",
+            "D": "5' - GGATCCTCGT - 3'",
+            "E": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+            "F": "5' - GGATCCGCATG - 3'",
+            "G": "5' - GGATCTCATG - 3'",
+            "H": "5' - GGATCCTCAT - 3'",
+            "I": "5' - GGATCCTCAG - 3'",
+            "J": "5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6308,
+            "completion_tokens": 1010
+        },
+        "time_elapsed": 14.651943683624268
+    },
+    {
+        "idx": 6087,
+        "realidx": 6087,
+        "question": "Which of these features suggest that a pulsation in the neck is arterial? Options: (E) The pulsation is felt on both sides of the neck (F) Pulsation increases with physical activity (G) No variation with breathing (J) Pressure in the mid-section reduces the impulse (B) Pulsation can be visually seen through the skin (I) Pressure in the root of the neck reduces the impulse (A) Positive for hepatojugular reflux (D) No variation with posture (C) The pulsation is erratic and inconsistent (H) A waggling earlobe",
+        "answer_idx": "D",
+        "answer": "No variation with posture",
+        "options": {
+            "A": "Positive for hepatojugular reflux",
+            "B": "Pulsation can be visually seen through the skin",
+            "C": "The pulsation is erratic and inconsistent",
+            "D": "No variation with posture",
+            "E": "The pulsation is felt on both sides of the neck",
+            "F": "Pulsation increases with physical activity",
+            "G": "No variation with breathing",
+            "H": "A waggling earlobe",
+            "I": "Pressure in the root of the neck reduces the impulse",
+            "J": "Pressure in the mid-section reduces the impulse"
+        },
+        "predicted_answer": "F",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 75566,
+            "completion_tokens": 2962
+        },
+        "time_elapsed": 61.598907232284546
+    },
+    {
+        "idx": 6092,
+        "realidx": 6092,
+        "question": "With respect to job training, younger workers Options: (A) Have less experience and therefore need more training (I) Perform better on the job than trained older workers (D) Prefer to have classes by themselves (G) Receive more opportunities than older workers (C) Are less open to feedback than older workers (B) Do not benefit from training as much as older workers do (H) Are not interested in job training (E) Always learn faster than older workers (J) Prefer online training over traditional classroom learning (F) Always perform worse on the job than trained older workers",
+        "answer_idx": "G",
+        "answer": "Receive more opportunities than older workers",
+        "options": {
+            "A": "Have less experience and therefore need more training",
+            "B": "Do not benefit from training as much as older workers do",
+            "C": "Are less open to feedback than older workers",
+            "D": "Prefer to have classes by themselves",
+            "E": "Always learn faster than older workers",
+            "F": "Always perform worse on the job than trained older workers",
+            "G": "Receive more opportunities than older workers",
+            "H": "Are not interested in job training",
+            "I": "Perform better on the job than trained older workers",
+            "J": "Prefer online training over traditional classroom learning"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6211,
+            "completion_tokens": 1051
+        },
+        "time_elapsed": 12.324150085449219
+    },
+    {
+        "idx": 6093,
+        "realidx": 6093,
+        "question": "Older adults are most likely to be involved in a traffic accident when they are Options: (D) On a highway (E) Driving at night (J) Driving in a new location (A) Alone (I) Driving a new vehicle (H) Riding a bicycle (B) Driving during peak traffic hours (C) In a parking lot (G) A passenger in a younger person's car (F) On foot",
+        "answer_idx": "F",
+        "answer": "On foot",
+        "options": {
+            "A": "Alone",
+            "B": "Driving during peak traffic hours",
+            "C": "In a parking lot",
+            "D": "On a highway",
+            "E": "Driving at night",
+            "F": "On foot",
+            "G": "A passenger in a younger person's car",
+            "H": "Riding a bicycle",
+            "I": "Driving a new vehicle",
+            "J": "Driving in a new location"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5468,
+            "completion_tokens": 881
+        },
+        "time_elapsed": 11.39143419265747
+    },
+    {
+        "idx": 6108,
+        "realidx": 6108,
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (J) Development of natural killer cells (G) Formation of antibodies to RhD (I) Formation of antibodies to RhC (A) Development of polycythemia (F) Development of leukocytosis (H) Development of anemia (C) Development of lymphocytosis (B) Formation of antibodies to RhB (D) Formation of antibodies to RhO (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+        "answer_idx": "A",
+        "answer": "Development of polycythemia",
+        "options": {
+            "A": "Development of polycythemia",
+            "B": "Formation of antibodies to RhB",
+            "C": "Development of lymphocytosis",
+            "D": "Formation of antibodies to RhO",
+            "E": "immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+            "F": "Development of leukocytosis",
+            "G": "Formation of antibodies to RhD",
+            "H": "Development of anemia",
+            "I": "Formation of antibodies to RhC",
+            "J": "Development of natural killer cells"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5597,
+            "completion_tokens": 640
+        },
+        "time_elapsed": 9.555600643157959
+    },
+    {
+        "idx": 6109,
+        "realidx": 6109,
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (A) Development of polycythemia (D) Formation of antibodies to RhO (J) Development of natural killer cells (C) Development of lymphocytosis (B) Formation of antibodies to RhB (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother? (F) Development of leukocytosis (H) Development of anemia (I) Formation of antibodies to RhC (G) Formation of antibodies to RhD",
+        "answer_idx": "A",
+        "answer": "Development of polycythemia",
+        "options": {
+            "A": "Development of polycythemia",
+            "B": "Formation of antibodies to RhB",
+            "C": "Development of lymphocytosis",
+            "D": "Formation of antibodies to RhO",
+            "E": "immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+            "F": "Development of leukocytosis",
+            "G": "Formation of antibodies to RhD",
+            "H": "Development of anemia",
+            "I": "Formation of antibodies to RhC",
+            "J": "Development of natural killer cells"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5788,
+            "completion_tokens": 731
+        },
+        "time_elapsed": 9.993549346923828
+    },
+    {
+        "idx": 6127,
+        "realidx": 6127,
+        "question": "What nutritional strategies will not improve performance during prolonged endurance type exercise?\n Options: (B) The classic glycogen loading regime (A) Tapering (D) Exogenous carbohydrate ingestion during exercise (C) Hydration during exercise (E) Carbohydrate loading",
+        "answer_idx": "B",
+        "answer": "The classic glycogen loading regime",
+        "options": {
+            "A": "Tapering",
+            "B": "The classic glycogen loading regime",
+            "C": "Hydration during exercise",
+            "D": "Exogenous carbohydrate ingestion during exercise",
+            "E": "Carbohydrate loading"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4999,
+            "completion_tokens": 645
+        },
+        "time_elapsed": 9.710852861404419
+    },
+    {
+        "idx": 6128,
+        "realidx": 6128,
+        "question": "The body mass index (BMI) of vegetarians differs on average from meat-eaters by how much?\n Options: (I) 1.5 units of BMI (J) 2 units of BMI (F) 5 units of BMI (G) 4 units of BMI (D) 3 units of BMI (C) 0.75 units of BMI (E) 0.5 units of BMI (H) 0.25 units of BMI (B) 2.5 units of BMI (A) 1 unit of BMI",
+        "answer_idx": "A",
+        "answer": "1 unit of BMI",
+        "options": {
+            "A": "1 unit of BMI",
+            "B": "2.5 units of BMI",
+            "C": "0.75 units of BMI",
+            "D": "3 units of BMI",
+            "E": "0.5 units of BMI",
+            "F": "5 units of BMI",
+            "G": "4 units of BMI",
+            "H": "0.25 units of BMI",
+            "I": "1.5 units of BMI",
+            "J": "2 units of BMI"
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6038,
+            "completion_tokens": 823
+        },
+        "time_elapsed": 12.033668279647827
+    },
+    {
+        "idx": 6140,
+        "realidx": 6140,
+        "question": "Glycogen breakdown in muscle initially results in the formation of: Options: (B) glucose-1,6-diphosphate. (J) glucose-1,2-diphosphate. (I) glucose-1-phosphate. (A) glucose-6-phosphate. (C) glucose. (D) fructose-1-phosphate. (F) glucose-2-phosphate. (G) glucose-1,4-diphosphate. (H) fructose-6-phosphate. (E) glycogen-6-phosphate.",
+        "answer_idx": "I",
+        "answer": "glucose-1-phosphate.",
+        "options": {
+            "A": "glucose-6-phosphate.",
+            "B": "glucose-1,6-diphosphate.",
+            "C": "glucose.",
+            "D": "fructose-1-phosphate.",
+            "E": "glycogen-6-phosphate.",
+            "F": "glucose-2-phosphate.",
+            "G": "glucose-1,4-diphosphate.",
+            "H": "fructose-6-phosphate.",
+            "I": "glucose-1-phosphate.",
+            "J": "glucose-1,2-diphosphate."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5329,
+            "completion_tokens": 593
+        },
+        "time_elapsed": 9.780404806137085
+    },
+    {
+        "idx": 6145,
+        "realidx": 6145,
+        "question": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form? Options: (F) The consultant, named nurse, and GP. (I) The nurse, consultant, and GP. (C) The GP, patient, and ward clerk. (G) The nurse, patient, and ward clerk. (H) The nurse, GP, and ward clerk. (J) The ward clerk, consultant, and named nurse. (A) The ward clerk, GP, and patient. (E) The consultant, patient, and named nurse. (D) The GP, consultant, and named nurse. (B) The nurse, ward clerk, and consultant.",
+        "answer_idx": "G",
+        "answer": "The nurse, patient, and ward clerk.",
+        "options": {
+            "A": "The ward clerk, GP, and patient.",
+            "B": "The nurse, ward clerk, and consultant.",
+            "C": "The GP, patient, and ward clerk.",
+            "D": "The GP, consultant, and named nurse.",
+            "E": "The consultant, patient, and named nurse.",
+            "F": "The consultant, named nurse, and GP.",
+            "G": "The nurse, patient, and ward clerk.",
+            "H": "The nurse, GP, and ward clerk.",
+            "I": "The nurse, consultant, and GP.",
+            "J": "The ward clerk, consultant, and named nurse."
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5735,
+            "completion_tokens": 661
+        },
+        "time_elapsed": 12.56797981262207
+    },
+    {
+        "idx": 6147,
+        "realidx": 6147,
+        "question": "Peak flow meters record: Options: (H) forced expiratory volume. (I) the highest rate of air expelled from the lungs through an open mouth. (B) the total capacity of the lungs. (D) the oxygen saturation level in the blood. (G) the volume of air remaining in the lungs after a forced expiration. (E) the average rate of air expelled from the lungs through an open mouth. (C) the lowest rate of air expelled from the lungs through an open mouth. (J) the rate of air inhaled into the lungs through an open mouth. (F) forced vital capacity. (A) the amount of air inhaled into the lungs.",
+        "answer_idx": "I",
+        "answer": "the highest rate of air expelled from the lungs through an open mouth.",
+        "options": {
+            "A": "the amount of air inhaled into the lungs.",
+            "B": "the total capacity of the lungs.",
+            "C": "the lowest rate of air expelled from the lungs through an open mouth.",
+            "D": "the oxygen saturation level in the blood.",
+            "E": "the average rate of air expelled from the lungs through an open mouth.",
+            "F": "forced vital capacity.",
+            "G": "the volume of air remaining in the lungs after a forced expiration.",
+            "H": "forced expiratory volume.",
+            "I": "the highest rate of air expelled from the lungs through an open mouth.",
+            "J": "the rate of air inhaled into the lungs through an open mouth."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5423,
+            "completion_tokens": 781
+        },
+        "time_elapsed": 15.659817934036255
+    },
+    {
+        "idx": 6150,
+        "realidx": 6150,
+        "question": "Which of the following is one of McAdam's levels of personality? Options: (A) Adaptation (I) Authority (J) Identity (F) Self-actualization (H) Assimilation (C) Growth (G) Compliance (D) Generativity (B) Control (E) Recognition",
+        "answer_idx": "J",
+        "answer": "Identity",
+        "options": {
+            "A": "Adaptation",
+            "B": "Control",
+            "C": "Growth",
+            "D": "Generativity",
+            "E": "Recognition",
+            "F": "Self-actualization",
+            "G": "Compliance",
+            "H": "Assimilation",
+            "I": "Authority",
+            "J": "Identity"
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5314,
+            "completion_tokens": 650
+        },
+        "time_elapsed": 12.61469292640686
+    },
+    {
+        "idx": 6157,
+        "realidx": 6157,
+        "question": "Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal maternal stress. This work has been labelled ______. Options: (G) biological epigenetics (B) behavioral epigenetics (H) gestational epigenetics (A) maternal stress epigenetics (F) maternal epigenetics (E) social epigenetics (D) prenatal epigenetics (J) in utero epigenetics (C) fetal epigenetics (I) developmental epigenetics",
+        "answer_idx": "E",
+        "answer": "social epigenetics",
+        "options": {
+            "A": "maternal stress epigenetics",
+            "B": "behavioral epigenetics",
+            "C": "fetal epigenetics",
+            "D": "prenatal epigenetics",
+            "E": "social epigenetics",
+            "F": "maternal epigenetics",
+            "G": "biological epigenetics",
+            "H": "gestational epigenetics",
+            "I": "developmental epigenetics",
+            "J": "in utero epigenetics"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5428,
+            "completion_tokens": 659
+        },
+        "time_elapsed": 14.240860223770142
+    },
+    {
+        "idx": 6158,
+        "realidx": 6158,
+        "question": "Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which prevents binding of the repressor to lactose should result in:  Options: (H) expression of the genes only when glucose is absent (D) expression of the genes only when lactose is absent (A) expression of the genes only when glucose is present (I) constitutive repression of the lac operon genes (G) increased expression of the lac operon genes under all circumstances (F) expression of the genes only when lactose is present (B) lack of expression or reduced expression of the lac operon genes under all circumstances (E) constitutive expression of the lac operon genes (C) no change in the expression of the lac operon genes (J) reduced expression of the lac operon genes only when lactose is present",
+        "answer_idx": "B",
+        "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
+        "options": {
+            "A": "expression of the genes only when glucose is present",
+            "B": "lack of expression or reduced expression of the lac operon genes under all circumstances",
+            "C": "no change in the expression of the lac operon genes",
+            "D": "expression of the genes only when lactose is absent",
+            "E": "constitutive expression of the lac operon genes",
+            "F": "expression of the genes only when lactose is present",
+            "G": "increased expression of the lac operon genes under all circumstances",
+            "H": "expression of the genes only when glucose is absent",
+            "I": "constitutive repression of the lac operon genes",
+            "J": "reduced expression of the lac operon genes only when lactose is present"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5763,
+            "completion_tokens": 862
+        },
+        "time_elapsed": 13.498968362808228
+    },
+    {
+        "idx": 6159,
+        "realidx": 6159,
+        "question": "The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a frequency of 0.2, will be: Options: (G) 0.02 (I) 0.08 (E) 0.16 (D) 0.1 (A) 0.24 (J) 0.06 (C) 0.32 (F) 0.12 (B) 0.4 (H) 0.04",
+        "answer_idx": "I",
+        "answer": "0.08",
+        "options": {
+            "A": "0.24",
+            "B": "0.4",
+            "C": "0.32",
+            "D": "0.1",
+            "E": "0.16",
+            "F": "0.12",
+            "G": "0.02",
+            "H": "0.04",
+            "I": "0.08",
+            "J": "0.06"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5566,
+            "completion_tokens": 617
+        },
+        "time_elapsed": 9.675978183746338
+    },
+    {
+        "idx": 6167,
+        "realidx": 6167,
+        "question": "A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present? Options: (A) Pupillary dilatation and a downward strabismus (H) No change in pupillary size and a medial strabismus (C) Pupillary constriction and a medial strabismus (F) Pupillary dilatation and a medial strabismus (I) Pupillary constriction and a lateral strabismus (G) Pupillary dilatation and a lateral strabismus (E) Pupillary constriction and a downward strabismus (J) Pupillary dilatation and a upward strabismus (D) No change in pupillary size and a lateral strabismus (B) Pupillary constriction and a upward strabismus",
+        "answer_idx": "G",
+        "answer": "Pupillary dilatation and a lateral strabismus",
+        "options": {
+            "A": "Pupillary dilatation and a downward strabismus",
+            "B": "Pupillary constriction and a upward strabismus",
+            "C": "Pupillary constriction and a medial strabismus",
+            "D": "No change in pupillary size and a lateral strabismus",
+            "E": "Pupillary constriction and a downward strabismus",
+            "F": "Pupillary dilatation and a medial strabismus",
+            "G": "Pupillary dilatation and a lateral strabismus",
+            "H": "No change in pupillary size and a medial strabismus",
+            "I": "Pupillary constriction and a lateral strabismus",
+            "J": "Pupillary dilatation and a upward strabismus"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5793,
+            "completion_tokens": 833
+        },
+        "time_elapsed": 12.803833246231079
+    },
+    {
+        "idx": 6171,
+        "realidx": 6171,
+        "question": "Proprioceptive nerve endings in synovial joints are located in Options: (D) capsule and articular cartilage. (B) capsule and ligaments. (G) articular discs and synovial membrane. (I) articular cartilage and synovial membrane. (F) ligaments and articular discs. (J) synovial membrane and ligaments. (H) ligaments and synovial fluid. (E) synovial membrane and capsule. (C) articular cartilage and ligaments. (A) synovial fluid and articular discs.",
+        "answer_idx": "F",
+        "answer": "ligaments and articular discs.",
+        "options": {
+            "A": "synovial fluid and articular discs.",
+            "B": "capsule and ligaments.",
+            "C": "articular cartilage and ligaments.",
+            "D": "capsule and articular cartilage.",
+            "E": "synovial membrane and capsule.",
+            "F": "ligaments and articular discs.",
+            "G": "articular discs and synovial membrane.",
+            "H": "ligaments and synovial fluid.",
+            "I": "articular cartilage and synovial membrane.",
+            "J": "synovial membrane and ligaments."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5853,
+            "completion_tokens": 807
+        },
+        "time_elapsed": 11.324078798294067
+    },
+    {
+        "idx": 6173,
+        "realidx": 6173,
+        "question": "During swallowing the Options: (G) gag reflex is suspended. (J) uvula raises. (I) larynx descends. (D) vocal cords vibrate. (H) trachea opens. (E) auditory tube opens. (A) bronchial tubes contract. (F) rima glottis opens. (B) esophagus expands. (C) cricopharyngeus muscle contracts.",
+        "answer_idx": "E",
+        "answer": "auditory tube opens.",
+        "options": {
+            "A": "bronchial tubes contract.",
+            "B": "esophagus expands.",
+            "C": "cricopharyngeus muscle contracts.",
+            "D": "vocal cords vibrate.",
+            "E": "auditory tube opens.",
+            "F": "rima glottis opens.",
+            "G": "gag reflex is suspended.",
+            "H": "trachea opens.",
+            "I": "larynx descends.",
+            "J": "uvula raises."
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5950,
+            "completion_tokens": 994
+        },
+        "time_elapsed": 12.564368724822998
+    },
+    {
+        "idx": 6181,
+        "realidx": 6181,
+        "question": "A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stiffness in her hands, wrists, and knees during the past several months. She also has had increasing fatigue for the past month, along with a weight loss of 1.8 to 2.2 kg (4 to 5 lb). She has seen numerous physicians for her arthritis in the past and has tried various medications and devices, including copper bracelets from Mexico given to her by friends. Review of her medical records confirms that the initial diagnosis of rheumatoid arthritis is correct. She says, \"I had several drop attacks during the past 3 months.\" She characterizes these attacks as episodes of weakness and loss of feeling in her legs for several minutes. During one of these episodes, she became incontinent. She currently takes aspirin approximately four times daily and ibuprofen occasionally. Physical examination shows facial plethora and swollen and painful metacarpophalangeal and knee joints, bilaterally. There is moderate ulnar deviation of the fingers. The remainder of the examination discloses no abnormalities. Which of the following is the most likely cause of her \"drop attacks?\" Options: (A) Side effect of the copper bracelets (B) Spinal stenosis (I) Atlanto-axial instability (G) Adrenal insufficiency (D) Cardiac arrhythmia (H) Hypoglycemia (C) Reaction to aspirin or ibuprofen (E) Anxiety (F) Transient ischemic attack",
+        "answer_idx": "I",
+        "answer": "Atlanto-axial instability",
+        "options": {
+            "A": "Side effect of the copper bracelets",
+            "B": "Spinal stenosis",
+            "C": "Reaction to aspirin or ibuprofen",
+            "D": "Cardiac arrhythmia",
+            "E": "Anxiety",
+            "F": "Transient ischemic attack",
+            "G": "Adrenal insufficiency",
+            "H": "Hypoglycemia",
+            "I": "Atlanto-axial instability"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 37180,
+            "completion_tokens": 2288
+        },
+        "time_elapsed": 54.061864614486694
+    },
+    {
+        "idx": 6183,
+        "realidx": 6183,
+        "question": "A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and nausea for the past 2 days. She is sexually active and does not use any contraception. Her last menstrual period ended 6 days ago. Temperature is 38.3\u00b0C (101.0\u00b0F). Physical examination discloses abdominal tenderness in the lower quadrants bilaterally with rebound and guarding. Pelvic examination discloses leukorrhea at the cervical os and tenderness of the uterus to palpation. The adnexal areas are tender but no masses are palpable. Which of the following is the most appropriate diagnostic study? Options: (C) Laparoscopy (D) Serum \u03b2-hCG concentration (B) Culdocentesis (A) Cervical culture",
+        "answer_idx": "A",
+        "answer": "Cervical culture",
+        "options": {
+            "A": "Cervical culture",
+            "B": "Culdocentesis",
+            "C": "Laparoscopy",
+            "D": "Serum \u03b2-hCG concentration"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5809,
+            "completion_tokens": 812
+        },
+        "time_elapsed": 10.487897396087646
+    },
+    {
+        "idx": 6184,
+        "realidx": 6184,
+        "question": "A placebo-controlled clinical trial is conducted to assess whether a new antihypertensive drug is more effective than standard therapy. A total of 5000 patients with essential hypertension are enrolled and randomly assigned to one of two groups: 2500 patients receive the new drug and 2500 patients receive placebo. If the alpha is set at 0.01 instead of 0.05, which of the following is the most likely result? Options: (B) The study will require fewer participants (G) The study will have more power (A) The study will have less power (C) There is an increased likelihood of statistically significant findings (D) The study will be less reliable (E) Significant findings can be reported with greater confidence (F) The placebo effect will be more pronounced (H) There is a decreased likelihood of statistically significant findings",
+        "answer_idx": "E",
+        "answer": "Significant findings can be reported with greater confidence",
+        "options": {
+            "A": "The study will have less power",
+            "B": "The study will require fewer participants",
+            "C": "There is an increased likelihood of statistically significant findings",
+            "D": "The study will be less reliable",
+            "E": "Significant findings can be reported with greater confidence",
+            "F": "The placebo effect will be more pronounced",
+            "G": "The study will have more power",
+            "H": "There is a decreased likelihood of statistically significant findings"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5856,
+            "completion_tokens": 801
+        },
+        "time_elapsed": 12.977365732192993
+    },
+    {
+        "idx": 6190,
+        "realidx": 6190,
+        "question": "Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?\n Options: (B) 80%-85% (A) 30%-35% (C) 90%-95% (J) 70%-75 % (E) 5%-10% (D) 55%-60% (F) 45%-50% (I) 20%-25% (H) 10%-15% (G) 60%-65%",
+        "answer_idx": "J",
+        "answer": "70%-75 %",
+        "options": {
+            "A": "30%-35%",
+            "B": "80%-85%",
+            "C": "90%-95%",
+            "D": "55%-60%",
+            "E": "5%-10%",
+            "F": "45%-50%",
+            "G": "60%-65%",
+            "H": "10%-15%",
+            "I": "20%-25%",
+            "J": "70%-75 %"
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5670,
+            "completion_tokens": 703
+        },
+        "time_elapsed": 12.789562463760376
+    },
+    {
+        "idx": 6196,
+        "realidx": 6196,
+        "question": "What is the estimated global prevalence of untreated dental caries?\n Options: (A) 30% (H) 90% (C) 70% (E) 20% (I) 40% (D) 60% (G) 100% (F) 50% (J) 80% (B) 10%",
+        "answer_idx": "I",
+        "answer": "40%",
+        "options": {
+            "A": "30%",
+            "B": "10%",
+            "C": "70%",
+            "D": "60%",
+            "E": "20%",
+            "F": "50%",
+            "G": "100%",
+            "H": "90%",
+            "I": "40%",
+            "J": "80%"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5840,
+            "completion_tokens": 788
+        },
+        "time_elapsed": 11.530132055282593
+    },
+    {
+        "idx": 6197,
+        "realidx": 6197,
+        "question": "Which of the following is not considered a diagnostic feature of Anorexia Nervosa\n Options: (A) Sleep disorders (D) Obsession with physical activity (H) Body Image Distortion (C) High blood pressure (F) Depressive symptoms (E) Significant Weight Loss (B) Rapid heartbeat (G) Fear of becoming fat",
+        "answer_idx": "F",
+        "answer": "Depressive symptoms",
+        "options": {
+            "A": "Sleep disorders",
+            "B": "Rapid heartbeat",
+            "C": "High blood pressure",
+            "D": "Obsession with physical activity",
+            "E": "Significant Weight Loss",
+            "F": "Depressive symptoms",
+            "G": "Fear of becoming fat",
+            "H": "Body Image Distortion"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5490,
+            "completion_tokens": 806
+        },
+        "time_elapsed": 11.35706090927124
+    },
+    {
+        "idx": 6198,
+        "realidx": 6198,
+        "question": "Which of the following statements about methods of evaluating protein quality in human nutrition is correct?\n Options: (A) The Biological Value (BV) of a protein does not affect its quality in human nutrition. (F) The Chemical Score (CS) is the most accurate method for assessing protein quality in human nutrition. (B) The Digestible Indispensable Amino Acid Score (DIAAS) is not a reliable method for assessing protein quality for human nutrition. (D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition. (E) Animal growth assays underestimate the quality of dietary proteins for human nutrition (G) The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition. (I) The Human Amino Acid Requirement Pattern (HAARP) is the most reliable method for assessing protein quality for human nutrition. (H) The Protein Digestibility Corrected Amino Acid Score (PDCAAS) is the worst method for assessing protein quality for human nutrition. (C) The growing rat is a good model for assessing protein quality in human nutrition. (J) The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition.",
+        "answer_idx": "E",
+        "answer": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+        "options": {
+            "A": "The Biological Value (BV) of a protein does not affect its quality in human nutrition.",
+            "B": "The Digestible Indispensable Amino Acid Score (DIAAS) is not a reliable method for assessing protein quality for human nutrition.",
+            "C": "The growing rat is a good model for assessing protein quality in human nutrition.",
+            "D": "The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition.",
+            "E": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+            "F": "The Chemical Score (CS) is the most accurate method for assessing protein quality in human nutrition.",
+            "G": "The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition.",
+            "H": "The Protein Digestibility Corrected Amino Acid Score (PDCAAS) is the worst method for assessing protein quality for human nutrition.",
+            "I": "The Human Amino Acid Requirement Pattern (HAARP) is the most reliable method for assessing protein quality for human nutrition.",
+            "J": "The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6312,
+            "completion_tokens": 1027
+        },
+        "time_elapsed": 12.958349704742432
+    },
+    {
+        "idx": 6200,
+        "realidx": 6200,
+        "question": "Which membrane fatty acids are precursors for eicosanoids?\n Options: (H) C16 and C20 saturated fatty acids (F) C18 and C22 monounsaturated fatty acids (A) C18 and C20 saturated fatty acids (B) C20 and C22 saturated fatty acids (J) C18 and C20 monounsaturated fatty acids (G) C20 and C22 monounsaturated fatty acids (E) C18 and C22 polyunsaturated fatty acids (D) C16 and C22 polyunsaturated fatty acids (C) C16 and C18 polyunsaturated fatty acids (I) C20 and C22 polyunsaturated fatty acids",
+        "answer_idx": "I",
+        "answer": "C20 and C22 polyunsaturated fatty acids",
+        "options": {
+            "A": "C18 and C20 saturated fatty acids",
+            "B": "C20 and C22 saturated fatty acids",
+            "C": "C16 and C18 polyunsaturated fatty acids",
+            "D": "C16 and C22 polyunsaturated fatty acids",
+            "E": "C18 and C22 polyunsaturated fatty acids",
+            "F": "C18 and C22 monounsaturated fatty acids",
+            "G": "C20 and C22 monounsaturated fatty acids",
+            "H": "C16 and C20 saturated fatty acids",
+            "I": "C20 and C22 polyunsaturated fatty acids",
+            "J": "C18 and C20 monounsaturated fatty acids"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5645,
+            "completion_tokens": 657
+        },
+        "time_elapsed": 9.025272130966187
+    },
+    {
+        "idx": 6201,
+        "realidx": 6201,
+        "question": "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?\n Options: (E) Arginine (J) Serine (B) Tyrosine (G) Proline (C) Alanine (F) Glycine (D) Glutamine (H) Cysteine (A) Glutamate (I) Aspartate",
+        "answer_idx": "F",
+        "answer": "Glycine",
+        "options": {
+            "A": "Glutamate",
+            "B": "Tyrosine",
+            "C": "Alanine",
+            "D": "Glutamine",
+            "E": "Arginine",
+            "F": "Glycine",
+            "G": "Proline",
+            "H": "Cysteine",
+            "I": "Aspartate",
+            "J": "Serine"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5288,
+            "completion_tokens": 643
+        },
+        "time_elapsed": 9.398451805114746
+    },
+    {
+        "idx": 6203,
+        "realidx": 6203,
+        "question": "Which of the following is closest to the amount of retinol formed from \u00df-carotene?\n Options: (A) 0.2 mol retinol /mol \u00df-carotene (G) 1 mol retinol /mol \u00df-carotene (E) 0.5 mol retinol /mol \u00df-carotene (J) 0.1 mol retinol /mol \u00df-carotene (H) 0.75 mol retinol /mol \u00df-carotene (F) 3 mol retinol /mol \u00df-carotene (I) 2 mol retinol /mol \u00df-carotene (D) 0.15 mol retinol /mol \u00df-carotene (B) 0.25 mol retinol /mol \u00df-carotene (C) 0.05 mol retinol /mol \u00df-carotene",
+        "answer_idx": "D",
+        "answer": "0.15 mol retinol /mol \u00df-carotene",
+        "options": {
+            "A": "0.2 mol retinol /mol \u00df-carotene",
+            "B": "0.25 mol retinol /mol \u00df-carotene",
+            "C": "0.05 mol retinol /mol \u00df-carotene",
+            "D": "0.15 mol retinol /mol \u00df-carotene",
+            "E": "0.5 mol retinol /mol \u00df-carotene",
+            "F": "3 mol retinol /mol \u00df-carotene",
+            "G": "1 mol retinol /mol \u00df-carotene",
+            "H": "0.75 mol retinol /mol \u00df-carotene",
+            "I": "2 mol retinol /mol \u00df-carotene",
+            "J": "0.1 mol retinol /mol \u00df-carotene"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5837,
+            "completion_tokens": 653
+        },
+        "time_elapsed": 10.057452201843262
+    },
+    {
+        "idx": 6208,
+        "realidx": 6208,
+        "question": "An expected side effect of creatine supplementation is: Options: (C) improved cognitive function. (B) loss of appetite. (H) hair loss. (I) gain in body mass. (E) muscle weakness. (G) muscle cramps. (J) loss of electrolytes. (D) decrease in body mass. (F) increased heart rate. (A) improved vision.",
+        "answer_idx": "I",
+        "answer": "gain in body mass.",
+        "options": {
+            "A": "improved vision.",
+            "B": "loss of appetite.",
+            "C": "improved cognitive function.",
+            "D": "decrease in body mass.",
+            "E": "muscle weakness.",
+            "F": "increased heart rate.",
+            "G": "muscle cramps.",
+            "H": "hair loss.",
+            "I": "gain in body mass.",
+            "J": "loss of electrolytes."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5376,
+            "completion_tokens": 791
+        },
+        "time_elapsed": 11.730138063430786
+    },
+    {
+        "idx": 6209,
+        "realidx": 6209,
+        "question": "Which of the following are indicative signs and symptoms of circulatory overload? Options: (B) Hypothermia, hypotension, and bradycardia. (G) Hypertension, diaphoresis, and nausea. (C) Fever, hypertension, and tachycardia. (D) Bradycardia, polyuria, and skin rash. (H) Tachypnea, cyanosis, and dry mouth. (A) Dyspnoea, bradycardia, and constricted neck veins. (E) Shivering, pyrexia, and thirst. (I) Dyspnoea, tachycardia, and distended neck veins. (J) Hypotension, oliguria, and uticaria. (F) Hypothermia, hypertension, and tachycardia.",
+        "answer_idx": "I",
+        "answer": "Dyspnoea, tachycardia, and distended neck veins.",
+        "options": {
+            "A": "Dyspnoea, bradycardia, and constricted neck veins.",
+            "B": "Hypothermia, hypotension, and bradycardia.",
+            "C": "Fever, hypertension, and tachycardia.",
+            "D": "Bradycardia, polyuria, and skin rash.",
+            "E": "Shivering, pyrexia, and thirst.",
+            "F": "Hypothermia, hypertension, and tachycardia.",
+            "G": "Hypertension, diaphoresis, and nausea.",
+            "H": "Tachypnea, cyanosis, and dry mouth.",
+            "I": "Dyspnoea, tachycardia, and distended neck veins.",
+            "J": "Hypotension, oliguria, and uticaria."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5588,
+            "completion_tokens": 673
+        },
+        "time_elapsed": 10.336910247802734
+    },
+    {
+        "idx": 6214,
+        "realidx": 6214,
+        "question": "Which of the following is NOT one of the more frequently named activities by those who are retired? Options: (E) Travel (D) Household chores (F) Writing a book (J) Volunteering (I) Attending educational courses (A) Starting a new business (G) Redoing the home (H) DJing at local clubs (C) Mountain climbing (B) Working part-time",
+        "answer_idx": "G",
+        "answer": "Redoing the home",
+        "options": {
+            "A": "Starting a new business",
+            "B": "Working part-time",
+            "C": "Mountain climbing",
+            "D": "Household chores",
+            "E": "Travel",
+            "F": "Writing a book",
+            "G": "Redoing the home",
+            "H": "DJing at local clubs",
+            "I": "Attending educational courses",
+            "J": "Volunteering"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5296,
+            "completion_tokens": 781
+        },
+        "time_elapsed": 10.611149311065674
+    },
+    {
+        "idx": 6215,
+        "realidx": 6215,
+        "question": "A difference between the social networks of older and younger adults is that older adults have Options: (F) More frequent communication with their circles (A) Larger networks overall (J) Smaller outer circles (G) Larger inner circles (H) Less dispersed circles (E) Smaller inner circles (C) Smaller networks overall (D) More dispersed circles (I) Larger outer circles (B) Less frequent communication with their circles",
+        "answer_idx": "J",
+        "answer": "Smaller outer circles",
+        "options": {
+            "A": "Larger networks overall",
+            "B": "Less frequent communication with their circles",
+            "C": "Smaller networks overall",
+            "D": "More dispersed circles",
+            "E": "Smaller inner circles",
+            "F": "More frequent communication with their circles",
+            "G": "Larger inner circles",
+            "H": "Less dispersed circles",
+            "I": "Larger outer circles",
+            "J": "Smaller outer circles"
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5267,
+            "completion_tokens": 708
+        },
+        "time_elapsed": 10.642423391342163
+    },
+    {
+        "idx": 6218,
+        "realidx": 6218,
+        "question": "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? Options: (B) Tay-Sachs disease (F) Krabbe disease (E) Hunter syndrome (D) Fabry disease (H) Gaucher disease (G) Niemann-Pick disease (A) Sandhoff disease (C) Mucolipidosis type IV (I) Hurler syndrome (J) Pompe disease",
+        "answer_idx": "I",
+        "answer": "Hurler syndrome",
+        "options": {
+            "A": "Sandhoff disease",
+            "B": "Tay-Sachs disease",
+            "C": "Mucolipidosis type IV",
+            "D": "Fabry disease",
+            "E": "Hunter syndrome",
+            "F": "Krabbe disease",
+            "G": "Niemann-Pick disease",
+            "H": "Gaucher disease",
+            "I": "Hurler syndrome",
+            "J": "Pompe disease"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5298,
+            "completion_tokens": 653
+        },
+        "time_elapsed": 9.783957242965698
+    },
+    {
+        "idx": 6219,
+        "realidx": 6219,
+        "question": "A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspring that are light blue. When the F1 progeny are selfed a 1:2:1 ratio of dark blue to light blue to white flowers is observed. What genetic phenomenon is consistent with these results? Options: (B) polygenic inheritance (I) incomplete dominance (H) codominance (F) genetic drift (J) inbreeding depression (A) overdominance (C) epistasis (E) lethal alleles (D) pleiotropy (G) genetic linkage",
+        "answer_idx": "I",
+        "answer": "incomplete dominance",
+        "options": {
+            "A": "overdominance",
+            "B": "polygenic inheritance",
+            "C": "epistasis",
+            "D": "pleiotropy",
+            "E": "lethal alleles",
+            "F": "genetic drift",
+            "G": "genetic linkage",
+            "H": "codominance",
+            "I": "incomplete dominance",
+            "J": "inbreeding depression"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5987,
+            "completion_tokens": 826
+        },
+        "time_elapsed": 14.259729862213135
+    },
+    {
+        "idx": 6224,
+        "realidx": 6224,
+        "question": "In which of the following positions does a patient lie face down? Options: (D) Prone (E) Sims (H) Lateral (A) Supine (C) Trendelenburg (F) Dorsal (I) Semi-Fowler's (J) Lithotomy (B) Erect (G) Jackknife",
+        "answer_idx": "B",
+        "answer": "Erect",
+        "options": {
+            "A": "Supine",
+            "B": "Erect",
+            "C": "Trendelenburg",
+            "D": "Prone",
+            "E": "Sims",
+            "F": "Dorsal",
+            "G": "Jackknife",
+            "H": "Lateral",
+            "I": "Semi-Fowler's",
+            "J": "Lithotomy"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5564,
+            "completion_tokens": 762
+        },
+        "time_elapsed": 10.500964879989624
+    },
+    {
+        "idx": 6225,
+        "realidx": 6225,
+        "question": "Which sequence describes the systemic circulation? Options: (B) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins (J) Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 veins \u2192 capillaries \u2192 arteries (G) Left atrium \u2192 left ventricle \u2192 aorta \u2192 veins \u2192 capillaries \u2192 arteries (H) Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries (A) Left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins (D) Right ventricle \u2192 pulmonary trunk \u2192 capillaries \u2192 arteries \u2192 veins (C) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries (E) Left atrium \u2192 left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins (F) Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192 veins (I) Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+        "answer_idx": "I",
+        "answer": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+        "options": {
+            "A": "Left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins",
+            "B": "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins",
+            "C": "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries",
+            "D": "Right ventricle \u2192 pulmonary trunk \u2192 capillaries \u2192 arteries \u2192 veins",
+            "E": "Left atrium \u2192 left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins",
+            "F": "Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192 veins",
+            "G": "Left atrium \u2192 left ventricle \u2192 aorta \u2192 veins \u2192 capillaries \u2192 arteries",
+            "H": "Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries",
+            "I": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+            "J": "Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 veins \u2192 capillaries \u2192 arteries"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5985,
+            "completion_tokens": 771
+        },
+        "time_elapsed": 11.022902727127075
+    },
+    {
+        "idx": 6249,
+        "realidx": 6249,
+        "question": "A 28-year-old man comes to the office because he would like to quit smoking cigarettes. He says, \"I cannot go more than a day without cigarettes because I get so anxious and irritable. I even wake up at night to smoke.\" The patient began smoking cigarettes at age 12 years; he was smoking two packs of cigarettes daily by age 17 years, and he has not curtailed his use since that time. He does not drink alcoholic beverages or use illicit drugs. Medical history is remarkable for childhood febrile seizures. He takes no medications. Vital signs are normal. The patient is interested in using a nicotine patch and bupropion therapy because he says his friend found the treatments to be helpful. In combining these two therapies, this patient is at greatest risk for which of the following? Options: (F) Liver toxicity (A) Hypertension (G) Hypoglycemia (B) Heart arrhythmia (I) Seizures (E) Renal insufficiency (D) Polyuria (C) Increased anxiety (J) Respiratory distress (H) The patient is at no increased risk",
+        "answer_idx": "H",
+        "answer": "The patient is at no increased risk",
+        "options": {
+            "A": "Hypertension",
+            "B": "Heart arrhythmia",
+            "C": "Increased anxiety",
+            "D": "Polyuria",
+            "E": "Renal insufficiency",
+            "F": "Liver toxicity",
+            "G": "Hypoglycemia",
+            "H": "The patient is at no increased risk",
+            "I": "Seizures",
+            "J": "Respiratory distress"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6083,
+            "completion_tokens": 883
+        },
+        "time_elapsed": 11.465487003326416
+    },
+    {
+        "idx": 6250,
+        "realidx": 6250,
+        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time? Options: (I) Prescribe rifampin (J) No intervention is needed at this time (B) Prescribe azithromycin (H) Prescribe doxycycline (G) Prescribe amoxicillin (E) Prescribe penicillin (C) Administer the meningococcal vaccine (F) Administer the pneumococcal vaccine (A) Administer a tetanus shot (D) Prescribe ibuprofen",
+        "answer_idx": "I",
+        "answer": "Prescribe rifampin",
+        "options": {
+            "A": "Administer a tetanus shot",
+            "B": "Prescribe azithromycin",
+            "C": "Administer the meningococcal vaccine",
+            "D": "Prescribe ibuprofen",
+            "E": "Prescribe penicillin",
+            "F": "Administer the pneumococcal vaccine",
+            "G": "Prescribe amoxicillin",
+            "H": "Prescribe doxycycline",
+            "I": "Prescribe rifampin",
+            "J": "No intervention is needed at this time"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6283,
+            "completion_tokens": 892
+        },
+        "time_elapsed": 12.10036563873291
+    },
+    {
+        "idx": 6251,
+        "realidx": 6251,
+        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time? Options: (J) No intervention is needed at this time (D) Prescribe ibuprofen (H) Prescribe doxycycline (A) Administer a tetanus shot (C) Administer the meningococcal vaccine (I) Prescribe rifampin (F) Administer the pneumococcal vaccine (E) Prescribe penicillin (G) Prescribe amoxicillin (B) Prescribe azithromycin",
+        "answer_idx": "I",
+        "answer": "Prescribe rifampin",
+        "options": {
+            "A": "Administer a tetanus shot",
+            "B": "Prescribe azithromycin",
+            "C": "Administer the meningococcal vaccine",
+            "D": "Prescribe ibuprofen",
+            "E": "Prescribe penicillin",
+            "F": "Administer the pneumococcal vaccine",
+            "G": "Prescribe amoxicillin",
+            "H": "Prescribe doxycycline",
+            "I": "Prescribe rifampin",
+            "J": "No intervention is needed at this time"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5744,
+            "completion_tokens": 649
+        },
+        "time_elapsed": 9.454799175262451
+    },
+    {
+        "idx": 6252,
+        "realidx": 6252,
+        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management? Options: (G) Administer a dose of ibuprofen (C) Perform a lumbar puncture (D) Immerse the patient in an ice water bath (A) Administer an epinephrine injection (B) Administer oxygen via a nasal cannula (F) Obtain a CT scan of the head (E) Apply cold compresses to the forehead (J) Administer a glucose injection (I) Administer sodium chloride tablets (H) Administer intravenous fluids",
+        "answer_idx": "H",
+        "answer": "Administer intravenous fluids",
+        "options": {
+            "A": "Administer an epinephrine injection",
+            "B": "Administer oxygen via a nasal cannula",
+            "C": "Perform a lumbar puncture",
+            "D": "Immerse the patient in an ice water bath",
+            "E": "Apply cold compresses to the forehead",
+            "F": "Obtain a CT scan of the head",
+            "G": "Administer a dose of ibuprofen",
+            "H": "Administer intravenous fluids",
+            "I": "Administer sodium chloride tablets",
+            "J": "Administer a glucose injection"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6342,
+            "completion_tokens": 831
+        },
+        "time_elapsed": 14.198599338531494
+    },
+    {
+        "idx": 6253,
+        "realidx": 6253,
+        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management? Options: (G) Administer a dose of ibuprofen (A) Administer an epinephrine injection (F) Obtain a CT scan of the head (I) Administer sodium chloride tablets (J) Administer a glucose injection (H) Administer intravenous fluids (E) Apply cold compresses to the forehead (B) Administer oxygen via a nasal cannula (C) Perform a lumbar puncture (D) Immerse the patient in an ice water bath",
+        "answer_idx": "H",
+        "answer": "Administer intravenous fluids",
+        "options": {
+            "A": "Administer an epinephrine injection",
+            "B": "Administer oxygen via a nasal cannula",
+            "C": "Perform a lumbar puncture",
+            "D": "Immerse the patient in an ice water bath",
+            "E": "Apply cold compresses to the forehead",
+            "F": "Obtain a CT scan of the head",
+            "G": "Administer a dose of ibuprofen",
+            "H": "Administer intravenous fluids",
+            "I": "Administer sodium chloride tablets",
+            "J": "Administer a glucose injection"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5761,
+            "completion_tokens": 897
+        },
+        "time_elapsed": 14.578566312789917
+    },
+    {
+        "idx": 6260,
+        "realidx": 6260,
+        "question": "Which single statement about fat digestion and absorption is correct?\n Options: (H) The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system. (C) Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum (D) Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported (F) Absorption of fatty acids in the intestine occurs primarily through the FABP and FAT/CD36 transport proteins in the proximal duodenum (J) Triglycerides (triacylglycerols) can be directly transported without being emulsified and digested (E) After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system. (B) The products of complete digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this decreases absorption (G) Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the mid jejunum. (A) After absorption, both medium chain triglycerides (MCT) and long chain triglycerides enter the lymphatic system.",
+        "answer_idx": "D",
+        "answer": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
+        "options": {
+            "A": "After absorption, both medium chain triglycerides (MCT) and long chain triglycerides enter the lymphatic system.",
+            "B": "The products of complete digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this decreases absorption",
+            "C": "Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum",
+            "D": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
+            "E": "After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.",
+            "F": "Absorption of fatty acids in the intestine occurs primarily through the FABP and FAT/CD36 transport proteins in the proximal duodenum",
+            "G": "Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the mid jejunum.",
+            "H": "The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption",
+            "I": "After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system.",
+            "J": "Triglycerides (triacylglycerols) can be directly transported without being emulsified and digested"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 148466,
+            "completion_tokens": 4797
+        },
+        "time_elapsed": 81.13139772415161
+    },
+    {
+        "idx": 6268,
+        "realidx": 6268,
+        "question": "Fats normally contain triacylglycerols at concentrations of:\n Options: (B) 95-100% (D) 75-95% (F) 60-75% (A) > 95% (C) < 50% (G) 50- 75% (J) < 10% (I) 10-25% (H) 25-50% (E) 50-60%",
+        "answer_idx": "A",
+        "answer": "> 95%",
+        "options": {
+            "A": "> 95%",
+            "B": "95-100%",
+            "C": "< 50%",
+            "D": "75-95%",
+            "E": "50-60%",
+            "F": "60-75%",
+            "G": "50- 75%",
+            "H": "25-50%",
+            "I": "10-25%",
+            "J": "< 10%"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5879,
+            "completion_tokens": 722
+        },
+        "time_elapsed": 13.737109661102295
+    },
+    {
+        "idx": 6269,
+        "realidx": 6269,
+        "question": "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe\n Options: (D) Have been unchanged (G) Are currently at their highest rates ever (J) Have been decreasing in some areas and increasing in others (B) Have been steadily decreasing in the past but recently started increasing (C) Have been increasing (A) Have been sporadically fluctuating (I) Are inconsistent across different countries (F) Are unknown (E) Have been significantly increasing in certain age groups (H) Have been significantly decreasing",
+        "answer_idx": "D",
+        "answer": "Have been unchanged",
+        "options": {
+            "A": "Have been sporadically fluctuating",
+            "B": "Have been steadily decreasing in the past but recently started increasing",
+            "C": "Have been increasing",
+            "D": "Have been unchanged",
+            "E": "Have been significantly increasing in certain age groups",
+            "F": "Are unknown",
+            "G": "Are currently at their highest rates ever",
+            "H": "Have been significantly decreasing",
+            "I": "Are inconsistent across different countries",
+            "J": "Have been decreasing in some areas and increasing in others"
+        },
+        "predicted_answer": "J",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 48244,
+            "completion_tokens": 2173
+        },
+        "time_elapsed": 56.93158411979675
+    },
+    {
+        "idx": 6270,
+        "realidx": 6270,
+        "question": "What is the prevalence of alcoholic myopathy in alcoholics\n Options: (G) More than 90% (E) 10 to 30% (A) 70 to 90% (B) 40 to 60% (F) 20 to 40% (H) 50 to 70% (J) Less than 10% (D) 30 to 50% (I) 60 to 80% (C) 80 to 100%",
+        "answer_idx": "B",
+        "answer": "40 to 60%",
+        "options": {
+            "A": "70 to 90%",
+            "B": "40 to 60%",
+            "C": "80 to 100%",
+            "D": "30 to 50%",
+            "E": "10 to 30%",
+            "F": "20 to 40%",
+            "G": "More than 90%",
+            "H": "50 to 70%",
+            "I": "60 to 80%",
+            "J": "Less than 10%"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5686,
+            "completion_tokens": 673
+        },
+        "time_elapsed": 9.817510843276978
+    },
+    {
+        "idx": 6272,
+        "realidx": 6272,
+        "question": "Which of the following statements about the protein:energy ratio of the requirement is correct?\n Options: (A) Infants and children need the most protein dense food (I) Children are most susceptible to protein deficient diets (G) The elderly are most susceptible to protein deficient diets (H) The elderly need the most protein dense food (D) Adults in their middle age need the most protein dense food (J) Pregnant women need the most protein dense food (F) Teenagers are most susceptible to protein deficient diets (C) Infants are most susceptible to protein deficient diets (E) Toddlers need the most protein dense food (B) Young adults need the most protein dense food",
+        "answer_idx": "H",
+        "answer": "The elderly need the most protein dense food",
+        "options": {
+            "A": "Infants and children need the most protein dense food",
+            "B": "Young adults need the most protein dense food",
+            "C": "Infants are most susceptible to protein deficient diets",
+            "D": "Adults in their middle age need the most protein dense food",
+            "E": "Toddlers need the most protein dense food",
+            "F": "Teenagers are most susceptible to protein deficient diets",
+            "G": "The elderly are most susceptible to protein deficient diets",
+            "H": "The elderly need the most protein dense food",
+            "I": "Children are most susceptible to protein deficient diets",
+            "J": "Pregnant women need the most protein dense food"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5447,
+            "completion_tokens": 735
+        },
+        "time_elapsed": 10.323044300079346
+    },
+    {
+        "idx": 6274,
+        "realidx": 6274,
+        "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?\n Options: (D) Cross sectional observational (B) Longitudinal study (H) Randomised controlled (J) Ecological study (G) Qualitative study (F) Meta-analysis (I) Cohort (A) Case-control study (E) Experimental study (C) Non-randomised controlled",
+        "answer_idx": "I",
+        "answer": "Cohort",
+        "options": {
+            "A": "Case-control study",
+            "B": "Longitudinal study",
+            "C": "Non-randomised controlled",
+            "D": "Cross sectional observational",
+            "E": "Experimental study",
+            "F": "Meta-analysis",
+            "G": "Qualitative study",
+            "H": "Randomised controlled",
+            "I": "Cohort",
+            "J": "Ecological study"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5999,
+            "completion_tokens": 989
+        },
+        "time_elapsed": 11.998054265975952
+    },
+    {
+        "idx": 6275,
+        "realidx": 6275,
+        "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?\n Options: (A) Case-control study (C) Non-randomised controlled (H) Randomised controlled (D) Cross sectional observational (J) Ecological study (F) Meta-analysis (G) Qualitative study (I) Cohort (E) Experimental study (B) Longitudinal study",
+        "answer_idx": "I",
+        "answer": "Cohort",
+        "options": {
+            "A": "Case-control study",
+            "B": "Longitudinal study",
+            "C": "Non-randomised controlled",
+            "D": "Cross sectional observational",
+            "E": "Experimental study",
+            "F": "Meta-analysis",
+            "G": "Qualitative study",
+            "H": "Randomised controlled",
+            "I": "Cohort",
+            "J": "Ecological study"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6079,
+            "completion_tokens": 989
+        },
+        "time_elapsed": 12.92354679107666
+    },
+    {
+        "idx": 6278,
+        "realidx": 6278,
+        "question": "Which of the following HPV viruses are known to cause cervical cancer? Options: (C) None are oncogenic per se (D) Types 1-180 (B) Types 14, 16, 18, 31, 45 (A) Viruses of all 5 clades",
+        "answer_idx": "C",
+        "answer": "None are oncogenic per se",
+        "options": {
+            "A": "Viruses of all 5 clades",
+            "B": "Types 14, 16, 18, 31, 45",
+            "C": "None are oncogenic per se",
+            "D": "Types 1-180"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5221,
+            "completion_tokens": 800
+        },
+        "time_elapsed": 12.165535688400269
+    },
+    {
+        "idx": 6286,
+        "realidx": 6286,
+        "question": "Which of the following is recommended for cleaning the mouth? Options: (D) Bleach. (A) Baking soda. (F) Normal saline. (B) Hydrogen peroxide. (I) Lemon and glycerine swabs. (G) Vinegar. (E) Alcohol swabs. (J) Dish soap. (H) Mouthwash containing alcohol. (C) Water.",
+        "answer_idx": "C",
+        "answer": "Water.",
+        "options": {
+            "A": "Baking soda.",
+            "B": "Hydrogen peroxide.",
+            "C": "Water.",
+            "D": "Bleach.",
+            "E": "Alcohol swabs.",
+            "F": "Normal saline.",
+            "G": "Vinegar.",
+            "H": "Mouthwash containing alcohol.",
+            "I": "Lemon and glycerine swabs.",
+            "J": "Dish soap."
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5595,
+            "completion_tokens": 731
+        },
+        "time_elapsed": 9.954379796981812
+    },
+    {
+        "idx": 6288,
+        "realidx": 6288,
+        "question": "Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy? Options: (I) Sublimation (F) Displacement (E) Avoidance (H) Accommodation (G) Denial (C) Immunization (B) Regression (D) Assimilation (A) Projection",
+        "answer_idx": "C",
+        "answer": "Immunization",
+        "options": {
+            "A": "Projection",
+            "B": "Regression",
+            "C": "Immunization",
+            "D": "Assimilation",
+            "E": "Avoidance",
+            "F": "Displacement",
+            "G": "Denial",
+            "H": "Accommodation",
+            "I": "Sublimation"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5245,
+            "completion_tokens": 803
+        },
+        "time_elapsed": 11.495517253875732
+    },
+    {
+        "idx": 6290,
+        "realidx": 6290,
+        "question": "All other things being equal, which of the following persons is likely to live the longest? Options: (D) An Asian man (B) A Hispanic man (I) A black man (C) A white woman (J) An Asian woman (E) A white man (H) A Native American woman (G) A Hispanic woman (A) A black woman (F) A Native American man",
+        "answer_idx": "C",
+        "answer": "A white woman",
+        "options": {
+            "A": "A black woman",
+            "B": "A Hispanic man",
+            "C": "A white woman",
+            "D": "An Asian man",
+            "E": "A white man",
+            "F": "A Native American man",
+            "G": "A Hispanic woman",
+            "H": "A Native American woman",
+            "I": "A black man",
+            "J": "An Asian woman"
+        },
+        "predicted_answer": "J",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 26926,
+            "completion_tokens": 1861
+        },
+        "time_elapsed": 45.83604025840759
+    },
+    {
+        "idx": 6294,
+        "realidx": 6294,
+        "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is: Options: (B) 15% (G) 10% (I) Almost 100% (D) 60% (A) 25% (H) 30% (J) 90% (F) 1% (E) 50% (C) 75%",
+        "answer_idx": "I",
+        "answer": "Almost 100%",
+        "options": {
+            "A": "25%",
+            "B": "15%",
+            "C": "75%",
+            "D": "60%",
+            "E": "50%",
+            "F": "1%",
+            "G": "10%",
+            "H": "30%",
+            "I": "Almost 100%",
+            "J": "90%"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5717,
+            "completion_tokens": 748
+        },
+        "time_elapsed": 15.618747234344482
+    },
+    {
+        "idx": 6298,
+        "realidx": 6298,
+        "question": "The proportion of babies that have an abnormality identifiable at birth is _____. Options: (A) 1 in 100 (C) 1 in 5 (G) 1 in 25 (E) 1 in 1000 (B) 1 in 50 (J) 1 in 500 (F) 1 in 20 (D) 1 in 10 (I) 1 in 40 (H) 1 in 200",
+        "answer_idx": "I",
+        "answer": "1 in 40",
+        "options": {
+            "A": "1 in 100",
+            "B": "1 in 50",
+            "C": "1 in 5",
+            "D": "1 in 10",
+            "E": "1 in 1000",
+            "F": "1 in 20",
+            "G": "1 in 25",
+            "H": "1 in 200",
+            "I": "1 in 40",
+            "J": "1 in 500"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5530,
+            "completion_tokens": 664
+        },
+        "time_elapsed": 9.597522974014282
+    },
+    {
+        "idx": 6299,
+        "realidx": 6299,
+        "question": "A \"dished face\" profile is often associated with Options: (I) a flattened forehead due to plagiocephaly. (G) a wide-set eye due to hypertelorism. (E) a protruding mandible due to reactivation of the condylar cartilage by acromegaly. (D) an enlarged frontal bone due to hydrocephaly. (J) an enlarged mandible due to gigantism. (H) a protruding forehead due to craniosynostosis. (F) defective development of the maxillary air sinus. (C) a sunken cheek due to maxillary hypoplasia. (A) a small chin due to micrognathia. (B) a recessive maxilla due to failure of elongation of the cranial base.",
+        "answer_idx": "B",
+        "answer": "a recessive maxilla due to failure of elongation of the cranial base.",
+        "options": {
+            "A": "a small chin due to micrognathia.",
+            "B": "a recessive maxilla due to failure of elongation of the cranial base.",
+            "C": "a sunken cheek due to maxillary hypoplasia.",
+            "D": "an enlarged frontal bone due to hydrocephaly.",
+            "E": "a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
+            "F": "defective development of the maxillary air sinus.",
+            "G": "a wide-set eye due to hypertelorism.",
+            "H": "a protruding forehead due to craniosynostosis.",
+            "I": "a flattened forehead due to plagiocephaly.",
+            "J": "an enlarged mandible due to gigantism."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6146,
+            "completion_tokens": 1084
+        },
+        "time_elapsed": 19.843252897262573
+    },
+    {
+        "idx": 6300,
+        "realidx": 6300,
+        "question": "Which of the following statements is true of the temporomandibular joint? Options: (H) Proprioceptive information is carried by the facial and trigeminal nerves (I) It has an articular disc of hyaline cartilage (A) It has an articular disc of fibrocartilage (C) It is a hinge type of synovial joint (D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves. (E) Proprioceptive information is carried by the glossopharyngeal and vagus nerves. (G) Its articular surfaces are covered by fibrocartilage (J) It is a pivot type of synovial joint (B) Proprioceptive information is carried by the chorda tympani and deep temporal nerves (F) Its articular surfaces are covered by hyaline cartilage",
+        "answer_idx": "D",
+        "answer": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
+        "options": {
+            "A": "It has an articular disc of fibrocartilage",
+            "B": "Proprioceptive information is carried by the chorda tympani and deep temporal nerves",
+            "C": "It is a hinge type of synovial joint",
+            "D": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
+            "E": "Proprioceptive information is carried by the glossopharyngeal and vagus nerves.",
+            "F": "Its articular surfaces are covered by hyaline cartilage",
+            "G": "Its articular surfaces are covered by fibrocartilage",
+            "H": "Proprioceptive information is carried by the facial and trigeminal nerves",
+            "I": "It has an articular disc of hyaline cartilage",
+            "J": "It is a pivot type of synovial joint"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6050,
+            "completion_tokens": 1127
+        },
+        "time_elapsed": 14.654406785964966
+    },
+    {
+        "idx": 6301,
+        "realidx": 6301,
+        "question": "A pulse may be felt on a patient's face where the Options: (C) maxillary artery crosses the mandible. (I) facial artery crosses the maxilla. (E) facial artery crosses the orbital rim. (A) superficial temporal artery crosses the zygomatic arch. (H) maxillary artery crosses the orbital rim. (F) superficial temporal artery crosses the maxilla. (B) superficial temporal artery crosses the mandible. (G) facial artery crosses the zygomatic arch. (J) facial artery crosses the mandible. (D) superficial temporal artery crosses the orbital rim.",
+        "answer_idx": "J",
+        "answer": "facial artery crosses the mandible.",
+        "options": {
+            "A": "superficial temporal artery crosses the zygomatic arch.",
+            "B": "superficial temporal artery crosses the mandible.",
+            "C": "maxillary artery crosses the mandible.",
+            "D": "superficial temporal artery crosses the orbital rim.",
+            "E": "facial artery crosses the orbital rim.",
+            "F": "superficial temporal artery crosses the maxilla.",
+            "G": "facial artery crosses the zygomatic arch.",
+            "H": "maxillary artery crosses the orbital rim.",
+            "I": "facial artery crosses the maxilla.",
+            "J": "facial artery crosses the mandible."
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5190,
+            "completion_tokens": 624
+        },
+        "time_elapsed": 9.362222671508789
+    },
+    {
+        "idx": 6305,
+        "realidx": 6305,
+        "question": "The dorsal roots of all spinal nerves contain Options: (C) both sensory and motor neuronal processes. (I) sensory neuronal processes. (J) autonomic neuronal processes. (B) both autonomic and motor neuronal processes. (G) no neuronal processes. (E) motor neuronal processes. (H) sensory, motor and autonomic neuronal processes. (D) sensory and autonomic neuronal processes. (A) motor and autonomic neuronal processes. (F) only autonomic neuronal processes.",
+        "answer_idx": "I",
+        "answer": "sensory neuronal processes.",
+        "options": {
+            "A": "motor and autonomic neuronal processes.",
+            "B": "both autonomic and motor neuronal processes.",
+            "C": "both sensory and motor neuronal processes.",
+            "D": "sensory and autonomic neuronal processes.",
+            "E": "motor neuronal processes.",
+            "F": "only autonomic neuronal processes.",
+            "G": "no neuronal processes.",
+            "H": "sensory, motor and autonomic neuronal processes.",
+            "I": "sensory neuronal processes.",
+            "J": "autonomic neuronal processes."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5665,
+            "completion_tokens": 603
+        },
+        "time_elapsed": 9.41032862663269
+    },
+    {
+        "idx": 6307,
+        "realidx": 6307,
+        "question": "A 16-year-old high school student, whose prenatal course you have managed, delivers a 3256-g (7-lb 3-oz) baby girl during the night with the assistance of your associate. On morning rounds you note that the delivery records report that she had mildly elevated blood pressure during labor and sustained an estimated third-stage blood loss of 500 mL. Today blood pressure is 132/84 mm Hg, she is afebrile, and deep tendon reflexes are normal. The uterine fundus is firm and at the level of the umbilicus, and her perineum is slightly edematous. Hematocrit is 33%. She is cuddling her infant and normal bonding seems to be occurring. Which of the following is the most important next step in management? Options: (F) Institute fundal massage (B) Order daily sitz baths (A) Order a blood transfusion (J) Provide education for well-baby care (E) Perform a pelvic examination (I) Administer antihypertensive medication (D) Begin oral methyldopa (H) Begin intravenous fluids (G) Prescribe bed rest (C) Initiate breastfeeding education",
+        "answer_idx": "J",
+        "answer": "Provide education for well-baby care",
+        "options": {
+            "A": "Order a blood transfusion",
+            "B": "Order daily sitz baths",
+            "C": "Initiate breastfeeding education",
+            "D": "Begin oral methyldopa",
+            "E": "Perform a pelvic examination",
+            "F": "Institute fundal massage",
+            "G": "Prescribe bed rest",
+            "H": "Begin intravenous fluids",
+            "I": "Administer antihypertensive medication",
+            "J": "Provide education for well-baby care"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6245,
+            "completion_tokens": 951
+        },
+        "time_elapsed": 12.64223861694336
+    },
+    {
+        "idx": 6308,
+        "realidx": 6308,
+        "question": "A 23-year-old woman comes to the physician for genetic counseling prior to conception. Her brother and maternal uncle had Duchenne muscular dystrophy (DMD) and died at the ages of 28 and 17 years, respectively. Genetic analysis was not performed on either relative prior to death. Serum studies show a muscle creatine kinase concentration of 120 U/L (N=22\u2013 198). The patient's 50-year-old mother has a serum muscle creatine kinase concentration of 300 U/L. Which of the following is the most appropriate assessment of this patient's carrier status for this disease? Options: (D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives. (J) The patient is not a carrier of the DMD based on her normal creatine kinase concentration (E) The patient has a 25% risk of having a child with DMD (I) The patient's DMD carrier status is uncertain because of random X inactivation (A) The patient is not a carrier of the DMD as her muscle creatine kinase concentration is within the normal range (F) The patient is a carrier of the disease based on her mother's elevated creatine kinase concentration (H) The patient has a 50% risk of having a child with DMD (B) The patient's mother is a carrier, hence the patient is definitely a carrier too (G) The patient's DMD carrier status is certain due to maternal transmission (C) The patient is a carrier of the disease based on her family history of DMD",
+        "answer_idx": "I",
+        "answer": "The patient's DMD carrier status is uncertain because of random X inactivation",
+        "options": {
+            "A": "The patient is not a carrier of the DMD as her muscle creatine kinase concentration is within the normal range",
+            "B": "The patient's mother is a carrier, hence the patient is definitely a carrier too",
+            "C": "The patient is a carrier of the disease based on her family history of DMD",
+            "D": "The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives.",
+            "E": "The patient has a 25% risk of having a child with DMD",
+            "F": "The patient is a carrier of the disease based on her mother's elevated creatine kinase concentration",
+            "G": "The patient's DMD carrier status is certain due to maternal transmission",
+            "H": "The patient has a 50% risk of having a child with DMD",
+            "I": "The patient's DMD carrier status is uncertain because of random X inactivation",
+            "J": "The patient is not a carrier of the DMD based on her normal creatine kinase concentration"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 101387,
+            "completion_tokens": 3526
+        },
+        "time_elapsed": 64.61074376106262
+    }
+]
